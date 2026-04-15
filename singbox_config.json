@@ -1,0 +1,186 @@
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-server",
+        "address": "https://1.1.1.1/dns-query"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "0.0.0.0",
+      "listen_port": 1080,
+      "sniff": true
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "e1472728-7e3c-4fc5-bac4-28de44c86b14",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "e7036058-2480-40d5-8395-0a36d6d2cc3f",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "95.163.211.119",
+      "server_port": 443,
+      "uuid": "0eca1f22-e5a1-4888-a0fa-c2345e87cf2f",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "217.16.25.216",
+      "server_port": 8448,
+      "uuid": "d50c7ad0-8776-cccc-82da-5d054cf326ba",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "0b6b1d8c-675c-4d23-a2ac-cb52f1325d44",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "39a5538b-758b-4f6b-a91f-365a4fc17421",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "55294a42-c67b-4967-a6b9-39fabceabb03",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "5376a525-a950-480f-b7c7-809c8ca8733c",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "178.154.213.137",
+      "server_port": 443,
+      "uuid": "15ecdd69-7532-44f1-a72f-9aaf5d30fbc9",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "84.201.170.9",
+      "server_port": 443,
+      "uuid": "e1472728-7e3c-4fc5-bac4-28de44c86b14",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "144.31.131.33",
+      "server_port": 443,
+      "uuid": "ae852d97-85f5-45cf-82a4-254eba345480",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "84.201.170.9",
+      "server_port": 443,
+      "uuid": "5376a525-a950-480f-b7c7-809c8ca8733c",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "84.201.170.9",
+      "server_port": 443,
+      "uuid": "5376a525-a950-480f-b7c7-809c8ca8733c",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "server": "85.208.108.63",
+      "server_port": 8443,
+      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
+      "tls": {
+        "enabled": false
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "protocol": "dns",
+        "outbound": "dns-out"
+      },
+      {
+        "geoip": "private",
+        "outbound": "direct"
+      }
+    ],
+    "final": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec"
+  }
+}
