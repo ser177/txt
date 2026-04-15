@@ -23,156 +23,296 @@
   "outbounds": [
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Oyster Telecom — #19",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "e1472728-7e3c-4fc5-bac4-28de44c86b14",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #22",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "e7036058-2480-40d5-8395-0a36d6d2cc3f",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 VK — #2",
       "server": "95.163.211.119",
       "server_port": 443,
       "uuid": "0eca1f22-e5a1-4888-a0fa-c2345e87cf2f",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "cdnv-img.perekrestok.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc",
+        "short_id": ""
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 VK — #4",
       "server": "217.16.25.216",
       "server_port": 8448,
       "uuid": "d50c7ad0-8776-cccc-82da-5d054cf326ba",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "gw9KAPkuBRpD2oy1fV5khTEYVhBnjloDJ0r2C8sLQ3E",
+        "short_id": "7ebf"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #25",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "0b6b1d8c-675c-4d23-a2ac-cb52f1325d44",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #26",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "39a5538b-758b-4f6b-a91f-365a4fc17421",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #23",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "55294a42-c67b-4967-a6b9-39fabceabb03",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #29",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "5376a525-a950-480f-b7c7-809c8ca8733c",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #27",
       "server": "178.154.213.137",
       "server_port": 443,
       "uuid": "15ecdd69-7532-44f1-a72f-9aaf5d30fbc9",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #31",
       "server": "84.201.170.9",
       "server_port": 443,
       "uuid": "e1472728-7e3c-4fc5-bac4-28de44c86b14",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇦🇱 Albania — #36",
       "server": "144.31.131.33",
       "server_port": 443,
       "uuid": "ae852d97-85f5-45cf-82a4-254eba345480",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "cdn.cdnjst.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc",
+        "short_id": "a120"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #30",
       "server": "84.201.170.9",
       "server_port": 443,
       "uuid": "5376a525-a950-480f-b7c7-809c8ca8733c",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇷🇺 Selectel — #33",
       "server": "84.201.170.9",
       "server_port": 443,
       "uuid": "5376a525-a950-480f-b7c7-809c8ca8733c",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+        "short_id": "111111"
       }
     },
     {
       "type": "vless",
-      "tag": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec",
+      "tag": "🇨🇦 Canada — #55",
       "server": "85.208.108.63",
       "server_port": 8443,
       "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
-      "encryption": "none",
+      "flow": "xtls-rprx-vision",
       "tls": {
-        "enabled": false
+        "enabled": true,
+        "server_name": "tradingview.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "reality": {
+        "enabled": true,
+        "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
+        "short_id": ""
       }
     },
     {
@@ -197,6 +337,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "VLESS-flow=xtls-rprx-vision&encryption=none&type=tcp&sec"
+    "final": "🇷🇺 Oyster Telecom — #19"
   }
 }
