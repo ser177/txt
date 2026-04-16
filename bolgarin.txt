@@ -1,0 +1,1 @@
+vless://c76f2c4d-240c-464b-ac72-c730aef3031a@185.190.250.131:443?type=tcp&encryption=none&security=reality&pbk=ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs&fp=chrome&sni=www.icloud.com&sid=a47e847519007052&spx=%2F#bolgarin-mrg0mbkj
