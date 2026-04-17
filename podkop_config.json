@@ -23,28 +23,195 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺 LTE 47 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "217.28.225.247",
-      "server_port": 4443,
-      "uuid": "aca62032-1d7c-41cf-904e-04cb867006f7",
+      "tag": "🇵🇱",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇱",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "158.160.255.74",
+      "server_port": 443,
+      "uuid": "defcff2a-fcdf-41c2-aeb6-4f6d874c2d98",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "5post-gate.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "cVIcx9DvuTfAwjBEQ8-48kJdhh18IQddk2C-4TnlpBQ",
-          "short_id": "af20"
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "47",
+      "tag": "🇷🇺 Selectel — #40 t.me/rjsxrd",
+      "server": "158.160.255.74",
+      "server_port": 443,
+      "uuid": "7a8f51a9-9c38-4c38-a585-3c9a6e57ddec",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "5post-gate.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "130. 🇷🇺 VLESS | SNI: browser.yandex.com | CIDR: Yandex | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
+      "server": "51.250.16.143",
+      "server_port": 443,
+      "uuid": "e74c2be257e5446aa3b5f0619613f599",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "browser.yandex.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "in3ZHiBaTun092XhEcoi_BrcKykk0maJxqAh1F37DV0",
+          "short_id": "aabbccdd"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇱",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇱",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇦🇲",
+      "server": "nl2cdn.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "nl2cdn.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "QWH33452pJJVMO54NNzBmBCWkKyr6yHiHXppU3lI9gs",
+          "short_id": "cb19fee3b9333636"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #47 t.me/rjsxrd",
+      "server": "51.250.69.30",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "any.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nsWn6DyAmrEeBhKDGIVW6CeCrbOennyKdL0TiH0EaSE",
+          "short_id": "8c1f5e30"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇱",
+      "server": "st-2.globalcache.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "st-2.globalcache.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ",
+          "short_id": "aa69f619e4414362"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[549ms t.me/rjsxrd",
       "server": "217.16.23.87",
       "server_port": 443,
       "uuid": "b960ed61-d7b0-4c6d-a39f-484726e2ad66",
@@ -59,6 +226,28 @@
         },
         "utls": {
           "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇴",
+      "server": "usace-cdncloud.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "usace-cdncloud.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "a2tG4WygpOMmfHadIp6t4xKTvNESG1_-T12wyUb0fXw",
+          "short_id": "cb80795fada6a060"
+        },
+        "utls": {
+          "enabled": true,
           "fingerprint": "chrome"
         }
       },
@@ -66,7 +255,253 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "7",
+      "tag": "[1051ms",
+      "server": "rc11.alexanderoff.ru",
+      "server_port": 443,
+      "uuid": "322ffd77-9adc-4e10-8302-a8bcc14555a0",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "gateway.icloud.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk",
+          "short_id": "c6118398"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[806ms",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "139. 🇷🇺 VLESS | SNI: sun6-21.userapi.com | CIDR: ? | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
+      "server": "217.16.23.87",
+      "server_port": 443,
+      "uuid": "b960ed61-d7b0-4c6d-a39f-484726e2ad66",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sun6-21.userapi.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "PZajgWT2dtEu0Avc2QWiZELK9wDQW9p9vvcckfQBfCE",
+          "short_id": "632cd48001bdb09a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[790ms",
+      "server": "nlcdn.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "nlcdn.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "5Ue5-VJna6z6YkILSBr-0bNJRvgYWiogE6CpcVT-HlU",
+          "short_id": "cb19fee3b9333636"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[825ms",
+      "server": "st-2.globalcache.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "st-2.globalcache.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ",
+          "short_id": "aa69f619e4414362"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "20",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "330. 🇷🇺 VLESS | SNI: any.yandex.ru | CIDR: Yandex | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
+      "server": "51.250.69.30",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "any.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nsWn6DyAmrEeBhKDGIVW6CeCrbOennyKdL0TiH0EaSE",
+          "short_id": "8c1f5e30"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇱",
+      "server": "st-2.globalcache.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "st-2.globalcache.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ",
+          "short_id": "aa69f619e4414362"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🏳️",
+      "server": "51.250.108.98",
+      "server_port": 4443,
+      "uuid": "35796021-099d-4db0-b48c-687758b0ab96",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY",
+          "short_id": "e9b3"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[587ms",
+      "server": "usace-cdncloud.onnstreaming.ru",
+      "server_port": 443,
+      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "usace-cdncloud.onnstreaming.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "a2tG4WygpOMmfHadIp6t4xKTvNESG1_-T12wyUb0fXw",
+          "short_id": "cb80795fada6a060"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 Россия #0008 t.me/rjsxrd",
+      "server": "158.160.109.133",
+      "server_port": 12337,
+      "uuid": "0dab2822-054e-4783-aba9-74f2ee037eb4",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5jQJSmCZ4BCq0O-cHV4TTwMjk0kYaatT88ucVGGjoQo",
+          "short_id": "6ba85179e30d4fc2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 825543 t.me/rjsxrd t.me/rjsxrd",
+      "server": "51.250.108.98",
+      "server_port": 4443,
+      "uuid": "35796021-099d-4db0-b48c-687758b0ab96",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY",
+          "short_id": "e9b3"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "0019",
       "server": "ya2177.memeplanet.org",
       "server_port": 443,
       "uuid": "a96f18f0-4a56-4c4f-be6e-434835f5523c",
@@ -88,22 +523,172 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Russia | 🌐 | [IPv6] [*CIDR] YA t.me/rjsxrd",
-      "server": "51.250.69.30",
+      "tag": "🇺🇸 United States [SNI-RU] cloudcdn-m9-15.cdn.yandex.net t.me/rjsxrd",
+      "server": "91.236.230.57",
+      "server_port": 443,
+      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cloudcdn-m9-15.cdn.yandex.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "4FreeIran-5567 t.me/rjsxrd",
+      "server": "212.233.121.168",
+      "server_port": 5443,
+      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
+          "short_id": "e0d4ee"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "0845",
+      "server": "212.233.121.168",
+      "server_port": 5443,
+      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
+          "short_id": "e0d4ee"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "4Mohsen-5564 t.me/rjsxrd",
+      "server": "212.233.121.168",
+      "server_port": 5443,
+      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
+          "short_id": "e0d4ee"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #331 t.me/rjsxrd",
+      "server": "89.208.222.248",
+      "server_port": 5443,
+      "uuid": "a233d76b-f4af-4390-8455-e5ed7ac93ef1",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "fNTq5EC6OsQ5y_FWhTUodJJy_ftKIA4zpdWJ3-V5dn4",
+          "short_id": "a3df"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "91.236.230.57",
+      "server_port": 443,
+      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cloudcdn-m9-15.cdn.yandex.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇦🇲",
+      "server": "rc11.alexanderoff.ru",
+      "server_port": 443,
+      "uuid": "322ffd77-9adc-4e10-8302-a8bcc14555a0",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "gateway.icloud.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk",
+          "short_id": "c6118398"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 [VL] Россия #3449 | РосТуннель t.me/rjsxrd",
+      "server": "st-2.globalcache.onnstreaming.ru",
       "server_port": 443,
       "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "any.yandex.ru",
+        "server_name": "st-2.globalcache.onnstreaming.ru",
         "reality": {
           "enabled": true,
-          "public_key": "nsWn6DyAmrEeBhKDGIVW6CeCrbOennyKdL0TiH0EaSE",
-          "short_id": "8c1f5e30"
+          "public_key": "NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ",
+          "short_id": "aa69f619e4414362"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -175,93 +760,7 @@
       "type": "vless"
     },
     {
-      "tag": "🇮🇹",
-      "server": "rc22.alexanderoff.ru",
-      "server_port": 443,
-      "uuid": "322ffd77-9adc-4e10-8302-a8bcc14555a0",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "gateway.icloud.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk",
-          "short_id": "c6118398"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇮 Finland [*CIDR] VK t.me/rjsxrd",
-      "server": "185.130.113.39",
-      "server_port": 5443,
-      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "i.oneme.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk",
-          "short_id": "91e2a4c7"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 LTE 89 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "51.250.27.136",
-      "server_port": 443,
-      "uuid": "d84d4779-8071-4beb-b727-6910a894fdc9",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.google.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "RivqWpaTYsjjZ1cGX8xa2njjbB1k5vWYijNvq0hBkWI",
-          "short_id": "7f"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "1677",
-      "server": "89.208.222.248",
-      "server_port": 5443,
-      "uuid": "a233d76b-f4af-4390-8455-e5ed7ac93ef1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "fNTq5EC6OsQ5y_FWhTUodJJy_ftKIA4zpdWJ3-V5dn4",
-          "short_id": "a3df"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇷🇺 RU-18967 t.me/rjsxrd",
+      "tag": "🏳️",
       "server": "217.16.23.87",
       "server_port": 443,
       "uuid": "b960ed61-d7b0-4c6d-a39f-484726e2ad66",
@@ -281,6 +780,48 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 594045 t.me/rjsxrd t.me/rjsxrd",
+      "server": "51.250.108.98",
+      "server_port": 4443,
+      "uuid": "35796021-099d-4db0-b48c-687758b0ab96",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY",
+          "short_id": "e9b3"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[2947ms",
+      "server": "8.218.214.223",
+      "server_port": 443,
+      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.starwars.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
     },
     {
       "tag": "🇦🇲",
@@ -305,25 +846,47 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[586ms",
-      "server": "8.217.75.84",
-      "server_port": 443,
-      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
+      "tag": "🏳️ ShatakVPN 413093 t.me/rjsxrd t.me/rjsxrd",
+      "server": "51.250.108.98",
+      "server_port": 4443,
+      "uuid": "35796021-099d-4db0-b48c-687758b0ab96",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "sgtm.jetbrains.com",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw",
-          "short_id": ""
+          "public_key": "4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY",
+          "short_id": "e9b3"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "65 t.me/rjsxrd",
+      "server": "217.16.23.87",
+      "server_port": 443,
+      "uuid": "b960ed61-d7b0-4c6d-a39f-484726e2ad66",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sun6-21.userapi.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "PZajgWT2dtEu0Avc2QWiZELK9wDQW9p9vvcckfQBfCE",
+          "short_id": "632cd48001bdb09a"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
@@ -346,6 +909,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺 LTE 47 | тгк: @rostunnel t.me/rjsxrd"
+    "final": "🇵🇱"
   }
 }
