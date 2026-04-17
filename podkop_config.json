@@ -23,178 +23,217 @@
   ],
   "outbounds": [
     {
-      "type": "vless",
       "tag": "bolgarin-mrg0mbkj",
       "server": "185.190.250.131",
       "server_port": 443,
       "uuid": "c76f2c4d-240c-464b-ac72-c730aef3031a",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "www.icloud.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
+          "short_id": "a47e847519007052"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
-        "short_id": "a47e847519007052"
-      }
+      "type": "vless"
     },
     {
-      "type": "vless",
       "tag": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
       "server": "cluster-de-2.firstvideocdn.ru",
       "server_port": 52006,
       "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
-      "flow": "xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20t.me%2Frjsxrd"
-    },
-    {
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
       "type": "vless",
-      "tag": "34 | TLS | IN: RU OUT: DE | RATING: 4/10 t.me/rjsx",
-      "server": "cluster-de-1.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "34",
+      "server": "cluster-de-1.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
       "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "🏳️ ShatakVPN 856937 t.me/rjsxrd",
       "server": "217.16.24.159",
       "server_port": 443,
       "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
-      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "i.oneme.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk",
+          "short_id": "a72e90b4"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "random"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk",
-        "short_id": "a72e90b4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856937%20t.me%2Frjsxrd"
-      }
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "type": "vless",
       "tag": "🏳️ ShatakVPN 420610 t.me/rjsxrd",
       "server": "95.163.211.119",
       "server_port": 54445,
       "uuid": "0eca1f22-e5a1-4888-a0fa-c2345e87cf2f",
-      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "sso.passport.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "7bNu5DhEjnIrOe2Krf6jbopWbIYndpJH4uSAuFHkj0w",
+          "short_id": ""
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "7bNu5DhEjnIrOe2Krf6jbopWbIYndpJH4uSAuFHkj0w#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20420610%20t.me%2Frjsxrd",
-        "short_id": ""
-      }
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "type": "vless",
       "tag": "🇭🇺 LTE 132 | тгк: @rostunnel t.me/rjsxrd",
       "server": "89.208.86.118",
       "server_port": 25207,
       "uuid": "a9da0525-fe34-42e6-a8a1-72cf1340c7bf",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "www.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw",
+          "short_id": "b5d1fe16"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw",
-        "short_id": "b5d1fe16#%F0%9F%87%AD%F0%9F%87%BA%20LTE%20132%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd"
-      }
+      "type": "vless"
     },
     {
-      "type": "vless",
       "tag": "🇫🇮 Finland — #92 t.me/rjsxrd",
       "server": "89.208.86.118",
       "server_port": 25207,
       "uuid": "a9da0525-fe34-42e6-a8a1-72cf1340c7bf",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "www.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw",
+          "short_id": "b5d1fe16"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw",
-        "short_id": "b5d1fe16"
-      }
+      "type": "vless"
     },
     {
-      "type": "vless",
       "tag": "🇫🇮 Finland — #93 t.me/rjsxrd",
       "server": "89.208.86.118",
       "server_port": 25207,
       "uuid": "a9da0525-fe34-42e6-a8a1-72cf1340c7bf",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "www.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw",
+          "short_id": "b5d1fe16"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw",
-        "short_id": "b5d1fe16#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%2393%20t.me%2Frjsxrd"
-      }
+      "type": "vless"
     },
     {
-      "type": "vless",
       "tag": "🇷🇺 LTE 32 | тгк: @rostunnel t.me/rjsxrd",
       "server": "217.16.23.87",
       "server_port": 443,
       "uuid": "b960ed61-d7b0-4c6d-a39f-484726e2ad66",
-      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
+        "insecure": false,
         "server_name": "sun6-21.userapi.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "PZajgWT2dtEu0Avc2QWiZELK9wDQW9p9vvcckfQBfCE",
+          "short_id": "632cd48001bdb09a"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
         }
       },
-      "reality": {
-        "enabled": true,
-        "public_key": "PZajgWT2dtEu0Avc2QWiZELK9wDQW9p9vvcckfQBfCE",
-        "short_id": "632cd48001bdb09a#%F0%9F%87%B7%F0%9F%87%BA%20LTE%2032%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd"
-      }
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "type": "vless",
-      "tag": "🇵🇱 Польша | White List | Fast | EaveVPN | ",
+      "tag": "🇵🇱",
       "server": "cluster-de-2.firstvideocdn.ru",
       "server_port": 52006,
       "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
-      "flow": "xtls-rprx-vision#🇵🇱 Польша | White List | Fast | EaveVPN | #0029%20t.me%2Frjsxrd"
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "type": "vless",
-      "tag": "[491ms Россия RU 🇷🇺 @vlesstrojan] t.me/rjsxrd",
+      "tag": "[491ms",
       "server": "cluster-de-1.firstvideocdn.ru",
       "server_port": 52006,
       "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
