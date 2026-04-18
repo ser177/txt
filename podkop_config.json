@@ -23,62 +23,39 @@
   ],
   "outbounds": [
     {
-      "tag": "🇵🇱 LTE 193 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "84.201.147.14",
+      "tag": "bolgarin-mrg0mbkj",
+      "server": "185.190.250.131",
       "server_port": 443,
-      "uuid": "e7d7809d-63e8-47e4-86af-6bef870edc44",
+      "uuid": "c76f2c4d-240c-464b-ac72-c730aef3031a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "www.icloud.com",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
+          "short_id": "a47e847519007052"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇩🇪 LTE 197 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "84.201.167.48",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
       "server_port": 443,
-      "uuid": "defcff2a-fcdf-41c2-aeb6-4f6d874c2d98",
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
-          "short_id": "111111"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "!",
-      "server": "meowams.nethcloud.top",
-      "server_port": 443,
-      "uuid": "951c7521-7158-4978-b82c-2736d4f21044",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wikihow.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
-          "short_id": "8bd29483ded126b4"
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
@@ -89,18 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇨🇦",
-      "server": "dex1.braidx.tech",
-      "server_port": 443,
-      "uuid": "2fdd6b51-4fe2-4e2f-803a-3eb284bf038e",
+      "tag": "🇦🇲",
+      "server": "37.49.227.172",
+      "server_port": 8443,
+      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "dex1.braidx.tech",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "2s97j3ehJylQb7OJnl-5aESG5L50_5RzDTRlBzFtwkE",
-          "short_id": "02b5e6bf16f08d2c"
+          "public_key": "T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -111,10 +88,10 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "cluster-de-2.firstvideocdn.ru",
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "cluster-de-1.firstvideocdn.ru",
       "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -125,6 +102,27 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 LTE 95 | тгк: @rostunnel t.me/rjsxrd",
+      "server": "212.233.121.168",
+      "server_port": 5443,
+      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
+          "short_id": "e0d4ee"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
@@ -147,6 +145,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇵🇱 LTE 193 | тгк: @rostunnel t.me/rjsxrd"
+    "final": "bolgarin-mrg0mbkj"
   }
 }
