@@ -44,19 +44,13 @@
       "type": "vless"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tag": "🇬🇪",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
-        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -66,7 +60,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 LTE 4 | тгк: @rostunnel t.me/rjsxrd",
+      "tag": "HK",
       "server": "109.205.58.79",
       "server_port": 54986,
       "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
@@ -81,13 +75,13 @@
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless"
     },
     {
-      "tag": "🇷🇺 LTE 267 | тгк: @rostunnel t.me/rjsxrd",
+      "tag": "🇲🇪 [БС-VL] Черногория #9250 | РосТуннель t.me/rjsxrd t.me/rjsxrd",
       "server": "spb.verymad.net",
       "server_port": 54986,
       "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
@@ -108,25 +102,26 @@
       "type": "vless"
     },
     {
-      "tag": "tg@freekesha21-22 t.me/rjsxrd",
-      "server": "madnvrsk.verymad.net",
-      "server_port": 27439,
-      "uuid": "a475fc1b-c719-4c0b-bb67-39d78fa5b302",
+      "tag": "تلگرام عضو شو @melibazz` t.me/rjsxrd",
+      "server": "103.231.73.181",
+      "server_port": 8443,
+      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.vk.com",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ",
-          "short_id": "3a1e"
+          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
