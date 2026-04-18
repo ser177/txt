@@ -44,18 +44,18 @@
       "type": "vless"
     },
     {
-      "tag": "t.me@freekesha21",
-      "server": "37.49.227.172",
-      "server_port": 8443,
-      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
+      "server_port": 443,
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY",
-          "short_id": ""
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
@@ -66,22 +66,43 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 LTE 176 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "212.233.121.168",
-      "server_port": 5443,
-      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
+      "tag": "🇳🇱 LTE 4 | тгк: @rostunnel t.me/rjsxrd",
+      "server": "109.205.58.79",
+      "server_port": 54986,
+      "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "www.vk.com",
         "reality": {
           "enabled": true,
-          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
-          "short_id": "e0d4ee"
+          "public_key": "r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U",
+          "short_id": "cccbaf57"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 LTE 267 | тгк: @rostunnel t.me/rjsxrd",
+      "server": "spb.verymad.net",
+      "server_port": 54986,
+      "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U",
+          "short_id": "cccbaf57"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
         }
       },
       "type": "vless"
@@ -106,28 +127,6 @@
         }
       },
       "type": "vless"
-    },
-    {
-      "tag": "🇬🇪",
-      "server": "nld.pink-world.ru",
-      "server_port": 443,
-      "uuid": "c5bbdac7-6ff5-4762-87bf-870f55a03581",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "nld.pink-world.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0",
-          "short_id": "f27d8b541b5f48bf"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
