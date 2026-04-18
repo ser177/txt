@@ -23,43 +23,66 @@
   ],
   "outbounds": [
     {
-      "tag": "bolgarin-mrg0mbkj",
-      "server": "185.190.250.131",
-      "server_port": 443,
-      "uuid": "c76f2c4d-240c-464b-ac72-c730aef3031a",
+      "tag": "🇦🇲",
+      "server": "37.49.227.172",
+      "server_port": 8443,
+      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.icloud.com",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
-          "short_id": "a47e847519007052"
+          "public_key": "T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tag": "t.me@freekesha21",
+      "server": "37.49.227.172",
+      "server_port": 8443,
+      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.amd.com",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
+          "public_key": "T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "0518",
+      "server": "37.49.227.172",
+      "server_port": 8443,
+      "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
         }
       },
       "type": "vless",
@@ -86,6 +109,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "bolgarin-mrg0mbkj"
+    "final": "🇦🇲"
   }
 }
