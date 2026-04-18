@@ -1,6 +1,91 @@
 {
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-server",
+        "address": "tls://1.1.1.1",
+        "detour": "direct"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "0.0.0.0",
+      "listen_port": 1080,
+      "sniff": true
+    }
+  ],
   "outbounds": [
-    "vless://c76f2c4d-240c-464b-ac72-c730aef3031a@185.190.250.131:443?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs&sid=a47e847519007052&spx=%2F&type=tcp&headerType=none#bolgarin-mrg0mbkj",
-    "vless://cac544aa-7704-4813-98de-6308c768a280@45.9.74.223:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4&sid=b88fc1938e9265&spx=%2F&type=tcp&headerType=none#first-9lqzgmho"
-  ]
+    {
+      "tag": "bolgarin-mrg0mbkj",
+      "server": "185.190.250.131",
+      "server_port": 443,
+      "uuid": "c76f2c4d-240c-464b-ac72-c730aef3031a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.icloud.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
+          "short_id": "a47e847519007052"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
+      "server_port": 443,
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.amd.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "protocol": "dns",
+        "action": "hijack-dns"
+      },
+      {
+        "ip_cidr": [
+          "10.0.0.0/8",
+          "172.16.0.0/12",
+          "192.168.0.0/16",
+          "127.0.0.0/8"
+        ],
+        "outbound": "direct"
+      }
+    ],
+    "final": "bolgarin-mrg0mbkj"
+  }
 }
