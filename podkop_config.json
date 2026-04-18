@@ -44,28 +44,6 @@
       "type": "vless"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇦🇲",
       "server": "37.49.227.172",
       "server_port": 8443,
@@ -88,8 +66,51 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇵🇱 LTE 193 | тгк: @rostunnel t.me/rjsxrd",
+      "server": "84.201.147.14",
+      "server_port": 443,
+      "uuid": "e7d7809d-63e8-47e4-86af-6bef870edc44",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "5post-gate.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "tg@freekesha21-22 t.me/rjsxrd",
+      "server": "madnvrsk.verymad.net",
+      "server_port": 27439,
+      "uuid": "a475fc1b-c719-4c0b-bb67-39d78fa5b302",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ",
+          "short_id": "3a1e"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless"
+    },
+    {
       "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "cluster-de-1.firstvideocdn.ru",
+      "server": "cluster-de-2.firstvideocdn.ru",
       "server_port": 52006,
       "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "tls": {
@@ -102,27 +123,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺 LTE 95 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "212.233.121.168",
-      "server_port": 5443,
-      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
-          "short_id": "e0d4ee"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
     },
     {
       "type": "direct",
