@@ -44,7 +44,7 @@
       "type": "vless"
     },
     {
-      "tag": "🇦🇲",
+      "tag": "t.me@freekesha21",
       "server": "37.49.227.172",
       "server_port": 8443,
       "uuid": "8cf1c214-3376-11f1-bf19-dcb6e8e27879",
@@ -66,26 +66,25 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇵🇱 LTE 193 | тгк: @rostunnel t.me/rjsxrd",
-      "server": "84.201.147.14",
-      "server_port": 443,
-      "uuid": "e7d7809d-63e8-47e4-86af-6bef870edc44",
+      "tag": "🇷🇺 LTE 176 | тгк: @rostunnel t.me/rjsxrd",
+      "server": "212.233.121.168",
+      "server_port": 5443,
+      "uuid": "30a3d65b-2963-48ef-ac5c-9f354fadc85c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0",
+          "short_id": "e0d4ee"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "tag": "tg@freekesha21-22 t.me/rjsxrd",
@@ -109,13 +108,19 @@
       "type": "vless"
     },
     {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tag": "🇬🇪",
+      "server": "nld.pink-world.ru",
+      "server_port": 443,
+      "uuid": "c5bbdac7-6ff5-4762-87bf-870f55a03581",
       "tls": {
         "enabled": true,
         "insecure": false,
+        "server_name": "nld.pink-world.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0",
+          "short_id": "f27d8b541b5f48bf"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
