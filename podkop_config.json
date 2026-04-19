@@ -44,50 +44,6 @@
       "type": "vless"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "159.195.26.156",
-      "server_port": 443,
-      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "germ.normbot.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
-          "short_id": "6467aa9c086620dc"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
       "server": "152.53.126.110",
       "server_port": 443,
@@ -110,25 +66,70 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "2795",
-      "server": "spb.verymad.net",
-      "server_port": 54986,
-      "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "159.195.34.86",
+      "server_port": 443,
+      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.vk.com",
+        "server_name": "germ.normbot.ru",
         "reality": {
           "enabled": true,
-          "public_key": "r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U",
-          "short_id": "cccbaf57"
+          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
+          "short_id": "6467aa9c086620dc"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "random"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "152.53.124.159",
+      "server_port": 443,
+      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "germ.normbot.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
+          "short_id": "6467aa9c086620dc"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "152.53.126.88",
+      "server_port": 443,
+      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "germ.normbot.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
+          "short_id": "6467aa9c086620dc"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
