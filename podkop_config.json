@@ -44,78 +44,18 @@
       "type": "vless"
     },
     {
-      "tag": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🏳️",
-      "server": "151.241.215.110",
-      "server_port": 47030,
-      "uuid": "cb1691ad-49cc-46a9-b734-91c109200c32",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8",
-          "short_id": "e18eda8458cab0d7"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "2699. 🇫🇮 VLESS | SNI: tradingview.com | TG: @wlrustg t.me/rjsxrd",
-      "server": "test.wide-frost.test-cdn-kkk.com",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
       "server_port": 443,
-      "uuid": "2060228c-5f0f-41f8-a3ca-f7988308442d",
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
-          "short_id": "50"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺 Timeweb — #17 t.me/rjsxrd",
-      "server": "5.42.115.103",
-      "server_port": 443,
-      "uuid": "dd09a21b-c1ac-4fde-83bb-dc09f85416b6",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.apple.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
-          "short_id": "23"
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
