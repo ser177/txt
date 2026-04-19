@@ -44,88 +44,78 @@
       "type": "vless"
     },
     {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "152.53.126.110",
-      "server_port": 443,
-      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tag": "[706ms",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "!",
+      "server": "77.223.120.222",
+      "server_port": 4530,
+      "uuid": "9bc43d33-6d90-420d-869a-6d4f69b28c4c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "germ.normbot.ru",
+        "server_name": "files.moscownews24.ru",
         "reality": {
           "enabled": true,
-          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
-          "short_id": "6467aa9c086620dc"
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "159.195.34.86",
-      "server_port": 443,
-      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tag": "🇰🇿 [VL] Казахстан #2657 | РосТуннель t.me/rjsxrd t.me/rjsxrd",
+      "server": "90.156.230.108",
+      "server_port": 47030,
+      "uuid": "cb1691ad-49cc-46a9-b734-91c109200c32",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "germ.normbot.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
-          "short_id": "6467aa9c086620dc"
+          "public_key": "cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8",
+          "short_id": "e18eda8458cab0d7"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "152.53.124.159",
-      "server_port": 443,
-      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tag": "🇷🇺 Timeweb — #20 t.me/rjsxrd",
+      "server": "5.42.123.98",
+      "server_port": 4461,
+      "uuid": "9bc43d33-6d90-420d-869a-6d4f69b28c4c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "germ.normbot.ru",
+        "server_name": "files.moscownews24.ru",
         "reality": {
           "enabled": true,
-          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
-          "short_id": "6467aa9c086620dc"
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "152.53.126.88",
-      "server_port": 443,
-      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "germ.normbot.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
-          "short_id": "6467aa9c086620dc"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
