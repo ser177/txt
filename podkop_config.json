@@ -44,7 +44,29 @@
       "type": "vless"
     },
     {
-      "tag": "🏳️ ShatakVPN 256863 t.me/rjsxrd",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
+      "server_port": 443,
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.amd.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 473714 t.me/rjsxrd",
       "server": "109.205.58.79",
       "server_port": 54986,
       "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
@@ -65,40 +87,13 @@
       "type": "vless"
     },
     {
-      "tag": "2674",
-      "server": "spb.verymad.net",
-      "server_port": 54986,
-      "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
+      "tag": "🇬🇪",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.vk.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U",
-          "short_id": "cccbaf57"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[openproxylist.com]",
-      "server": "103.231.73.181",
-      "server_port": 8443,
-      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
-          "short_id": ""
-        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -109,7 +104,7 @@
     },
     {
       "tag": "🇬🇪",
-      "server": "cluster-de-2.firstvideocdn.ru",
+      "server": "cluster-de-1.firstvideocdn.ru",
       "server_port": 52006,
       "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "tls": {
