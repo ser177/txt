@@ -44,31 +44,13 @@
       "type": "vless"
     },
     {
-      "tag": "[706ms",
+      "tag": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
       "server": "cluster-de-2.firstvideocdn.ru",
       "server_port": 52006,
       "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
-        "insecure": false
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "!",
-      "server": "77.223.120.222",
-      "server_port": 4530,
-      "uuid": "9bc43d33-6d90-420d-869a-6d4f69b28c4c",
-      "tls": {
-        "enabled": true,
         "insecure": false,
-        "server_name": "files.moscownews24.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
-        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -78,8 +60,8 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇰🇿 [VL] Казахстан #2657 | РосТуннель t.me/rjsxrd t.me/rjsxrd",
-      "server": "90.156.230.108",
+      "tag": "🏳️",
+      "server": "151.241.215.110",
       "server_port": 47030,
       "uuid": "cb1691ad-49cc-46a9-b734-91c109200c32",
       "tls": {
@@ -93,6 +75,28 @@
         },
         "utls": {
           "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "2699. 🇫🇮 VLESS | SNI: tradingview.com | TG: @wlrustg t.me/rjsxrd",
+      "server": "test.wide-frost.test-cdn-kkk.com",
+      "server_port": 443,
+      "uuid": "2060228c-5f0f-41f8-a3ca-f7988308442d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+          "short_id": "50"
+        },
+        "utls": {
+          "enabled": true,
           "fingerprint": "qq"
         }
       },
@@ -100,18 +104,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Timeweb — #20 t.me/rjsxrd",
-      "server": "5.42.123.98",
-      "server_port": 4461,
-      "uuid": "9bc43d33-6d90-420d-869a-6d4f69b28c4c",
+      "tag": "🇷🇺 Timeweb — #17 t.me/rjsxrd",
+      "server": "5.42.115.103",
+      "server_port": 443,
+      "uuid": "dd09a21b-c1ac-4fde-83bb-dc09f85416b6",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "files.moscownews24.ru",
+        "server_name": "www.apple.com",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
+          "public_key": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
+          "short_id": "23"
         },
         "utls": {
           "enabled": true,
