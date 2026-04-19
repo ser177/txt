@@ -66,8 +66,52 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️ ShatakVPN 473714 t.me/rjsxrd",
-      "server": "109.205.58.79",
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "159.195.26.156",
+      "server_port": 443,
+      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "germ.normbot.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
+          "short_id": "6467aa9c086620dc"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "152.53.126.110",
+      "server_port": 443,
+      "uuid": "5bf06ee8-e673-4630-9764-592b2596bb5c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "germ.normbot.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
+          "short_id": "6467aa9c086620dc"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "2795",
+      "server": "spb.verymad.net",
       "server_port": 54986,
       "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
       "tls": {
@@ -85,38 +129,6 @@
         }
       },
       "type": "vless"
-    },
-    {
-      "tag": "🇬🇪",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇬🇪",
-      "server": "cluster-de-1.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
