@@ -44,64 +44,75 @@
       "type": "vless"
     },
     {
-      "tag": "🏳️ ShatakVPN 660514 t.me/rjsxrd",
-      "server": "109.205.58.79",
-      "server_port": 54986,
-      "uuid": "4e4f5607-087f-4ff6-907c-6b466530b455",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
+      "server_port": 443,
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.vk.com",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U",
-          "short_id": "cccbaf57"
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪 Germany — #86 [Verified RU] t.me/rjsxrd",
-      "server": "185.130.113.39",
-      "server_port": 5443,
-      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "i.oneme.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk",
-          "short_id": "91e2a4c7"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "cluster-de-1.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tag": "11. VLESS | SNI: api-maps.yandex.ru | TG: @wlrustg t.me/rjsxrd",
+      "server": "83.220.175.17",
+      "server_port": 443,
+      "uuid": "19ff5f84-32b8-4a57-8537-2e3ac345927c",
       "tls": {
         "enabled": true,
-        "insecure": false
+        "insecure": false,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "RoJveMb0kdNvXHCmyyIxGJFEO4U06mqiibrLN1Hmcgk",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[277ms",
-      "server": "152.53.1.67",
-      "server_port": 4341,
+      "tag": "[315ms",
+      "server": "89.169.1.246",
+      "server_port": 4383,
+      "uuid": "e11de4fa-fb2b-4e43-9c8d-23294b05dca4",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "files.moscownews24.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #50 t.me/rjsxrd",
+      "server": "45.10.43.176",
+      "server_port": 4462,
       "uuid": "e11de4fa-fb2b-4e43-9c8d-23294b05dca4",
       "tls": {
         "enabled": true,
