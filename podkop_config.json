@@ -44,32 +44,10 @@
       "type": "vless"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "[312ms",
-      "server": "72.56.39.171",
-      "server_port": 4385,
-      "uuid": "e11de4fa-fb2b-4e43-9c8d-23294b05dca4",
+      "tag": "[923ms",
+      "server": "195.2.70.100",
+      "server_port": 4301,
+      "uuid": "ae9196bf-c49b-40f7-87f3-f3370b4e886e",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -88,39 +66,60 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, Пятёрочка [#РКП] t.me/rjsxrd",
-      "server": "51.250.45.194",
-      "server_port": 443,
-      "uuid": "2c78c246-5556-47bf-9a22-0ed5d6237389",
+      "tag": "[849ms",
+      "server": "77.223.120.222",
+      "server_port": 4530,
+      "uuid": "ae9196bf-c49b-40f7-87f3-f3370b4e886e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "files.moscownews24.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls",
-          "short_id": "b5f1b85b38f53196"
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇦🇹 t.me/rjsxrd",
-      "server": "193.233.128.247",
-      "server_port": 443,
-      "uuid": "3c3a6cdf-1cca-4549-af25-6374dcf379e3",
+      "tag": "2011. VLESS | SNI: www.m.vk.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "146.103.114.12",
+      "server_port": 59001,
+      "uuid": "4de9bd4f-8d80-4637-8bdb-9e987c8a79bc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "www.m.vk.ru",
         "reality": {
           "enabled": true,
-          "public_key": "WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA",
+          "public_key": "alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4",
+          "short_id": "9629"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[590ms",
+      "server": "72.56.39.171",
+      "server_port": 4385,
+      "uuid": "d8a5cbdb-7058-4506-b1a8-6768472c7ed5",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "files.moscownews24.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
           "short_id": ""
         },
         "utls": {
