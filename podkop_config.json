@@ -44,60 +44,18 @@
       "type": "vless"
     },
     {
-      "tag": "TCP, VK [#РКП] t.me/rjsxrd t.me/rjsxrd",
-      "server": "146.103.114.12",
-      "server_port": 59001,
-      "uuid": "4de9bd4f-8d80-4637-8bdb-9e987c8a79bc",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.m.vk.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4",
-          "short_id": "9629"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇦🇲",
-      "server": "64.188.60.146",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
       "server_port": 443,
-      "uuid": "85a49735-f53e-49d4-8480-fd0cb6412740",
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yahoo.com",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "VQ0SfUe6DtxtPKClcGhsKVaJT_ylVPfSTYc5XjsvsAw",
-          "short_id": "7886"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[453ms",
-      "server": "gwapp-ru01.freenets.store",
-      "server_port": 8443,
-      "uuid": "0c8a9f50-51b3-43b5-b1fb-09fc3131a800",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "gwapp-ru01.freenets.store",
-        "reality": {
-          "enabled": true,
-          "public_key": "GsfqAd66XSHFTFaoPA1YSuJXpsSt-Lx0qQ7_1xTRbhA",
-          "short_id": ""
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
@@ -106,27 +64,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "TCP, VK [#РКП] t.me/rjsxrd",
-      "server": "fr28.lowlatency.cloud",
-      "server_port": 7443,
-      "uuid": "5844340d-634b-4fef-8524-db3ba38112f0",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "login.vk.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "6IA_WmI2rDgsJjq_tu8jwv_NB0K-h1QBBVRlN4L9fms",
-          "short_id": "5ae358b2"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless"
     },
     {
       "type": "direct",
