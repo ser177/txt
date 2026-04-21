@@ -44,7 +44,7 @@
       "type": "vless"
     },
     {
-      "tag": "[304ms",
+      "tag": "TCP, VK [#РКП] t.me/rjsxrd t.me/rjsxrd",
       "server": "146.103.114.12",
       "server_port": 59001,
       "uuid": "4de9bd4f-8d80-4637-8bdb-9e987c8a79bc",
@@ -65,34 +65,39 @@
       "type": "vless"
     },
     {
-      "tag": "[464ms",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tag": "🇦🇲",
+      "server": "64.188.60.146",
+      "server_port": 443,
+      "uuid": "85a49735-f53e-49d4-8480-fd0cb6412740",
       "tls": {
         "enabled": true,
         "insecure": false,
+        "server_name": "yahoo.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "VQ0SfUe6DtxtPKClcGhsKVaJT_ylVPfSTYc5XjsvsAw",
+          "short_id": "7886"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "93. VLESS | SNI: ads.x5.ru | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
-      "server": "ya2177.memeplanet.org",
-      "server_port": 443,
-      "uuid": "a96f18f0-4a56-4c4f-be6e-434835f5523c",
+      "tag": "[453ms",
+      "server": "gwapp-ru01.freenets.store",
+      "server_port": 8443,
+      "uuid": "0c8a9f50-51b3-43b5-b1fb-09fc3131a800",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "gwapp-ru01.freenets.store",
         "reality": {
           "enabled": true,
-          "public_key": "0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4",
-          "short_id": "8ac77e6bab737698"
+          "public_key": "GsfqAd66XSHFTFaoPA1YSuJXpsSt-Lx0qQ7_1xTRbhA",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -103,26 +108,25 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "79. 🇷🇺 VLESS | SNI: ads.x5.ru | CIDR: Yandex | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
-      "server": "158.160.71.158",
-      "server_port": 443,
-      "uuid": "a96f18f0-4a56-4c4f-be6e-434835f5523c",
+      "tag": "TCP, VK [#РКП] t.me/rjsxrd",
+      "server": "fr28.lowlatency.cloud",
+      "server_port": 7443,
+      "uuid": "5844340d-634b-4fef-8524-db3ba38112f0",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "login.vk.com",
         "reality": {
           "enabled": true,
-          "public_key": "0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4",
-          "short_id": "8ac77e6bab737698"
+          "public_key": "6IA_WmI2rDgsJjq_tu8jwv_NB0K-h1QBBVRlN4L9fms",
+          "short_id": "5ae358b2"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "firefox"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "type": "direct",
