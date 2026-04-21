@@ -44,6 +44,49 @@
       "type": "vless"
     },
     {
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
+      "server_port": 443,
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.amd.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "TCP, VK [#РКП] t.me/rjsxrd",
+      "server": "111.88.146.74",
+      "server_port": 25462,
+      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.m.vk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
+          "short_id": "9a694cfa8ebd15"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
       "tag": "2011. VLESS | SNI: www.m.vk.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
       "server": "146.103.114.12",
       "server_port": 59001,
@@ -65,63 +108,14 @@
       "type": "vless"
     },
     {
-      "tag": "1949. 🇱🇹 VLESS | SNI: ads.x5.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "ya2177.memeplanet.org",
-      "server_port": 443,
-      "uuid": "a96f18f0-4a56-4c4f-be6e-434835f5523c",
+      "tag": "🇬🇪",
+      "server": "cluster-de-1.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4",
-          "short_id": "8ac77e6bab737698"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "4Mohsen-8331 t.me/rjsxrd",
-      "server": "103.231.73.181",
-      "server_port": 8443,
-      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "[531ms",
-      "server": "pl-1.illusion-vpn.ru",
-      "server_port": 443,
-      "uuid": "bf263367-bb63-4663-b4a1-34946107a72e",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "pl-1.illusion-vpn.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I",
-          "short_id": "b2a1c97a38"
-        },
+        "server_name": "cluster-de-1.firstvideocdn.ru",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
