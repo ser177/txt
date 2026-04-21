@@ -108,14 +108,19 @@
       "type": "vless"
     },
     {
-      "tag": "🇬🇪",
-      "server": "cluster-de-1.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tag": "TCP, Пятёрочка [#РКП] t.me/rjsxrd",
+      "server": "62.152.59.38",
+      "server_port": 46824,
+      "uuid": "dc9e2142-c177-46e7-9f7c-8315fffae54b",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cluster-de-1.firstvideocdn.ru",
+        "server_name": "api-dev-omni.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "M9K8wb4DW1QrZZm5Z_Ps51jUegGNZc7czLJzd3pDeg4",
+          "short_id": "fd1db6"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
