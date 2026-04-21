@@ -66,7 +66,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, VK [#РКП] t.me/rjsxrd",
+      "tag": "[400ms",
       "server": "111.88.146.74",
       "server_port": 25462,
       "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
@@ -87,43 +87,44 @@
       "type": "vless"
     },
     {
-      "tag": "2011. VLESS | SNI: www.m.vk.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
-      "server": "146.103.114.12",
-      "server_port": 59001,
-      "uuid": "4de9bd4f-8d80-4637-8bdb-9e987c8a79bc",
+      "tag": "未知 VLESS-125 | free-nodes t.me/rjsxrd",
+      "server": "103.231.73.181",
+      "server_port": 8443,
+      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.m.vk.ru",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4",
-          "short_id": "9629"
+          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, Пятёрочка [#РКП] t.me/rjsxrd",
-      "server": "62.152.59.38",
-      "server_port": 46824,
-      "uuid": "dc9e2142-c177-46e7-9f7c-8315fffae54b",
+      "tag": "🇷🇺 [VL] Россия #2528 | РосТуннель t.me/rjsxrd",
+      "server": "83.220.175.17",
+      "server_port": 443,
+      "uuid": "a0b9444c-fad4-4b90-9011-e4441c2eeefc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "api-dev-omni.x5.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "M9K8wb4DW1QrZZm5Z_Ps51jUegGNZc7czLJzd3pDeg4",
-          "short_id": "fd1db6"
+          "public_key": "RoJveMb0kdNvXHCmyyIxGJFEO4U06mqiibrLN1Hmcgk",
+          "short_id": "6ba85179e30d4fc2"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
