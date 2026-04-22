@@ -44,28 +44,6 @@
       "type": "vless"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇷🇺",
       "server": "37.9.54.205",
       "server_port": 443,
@@ -88,13 +66,19 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[433ms",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tag": "🇫🇮 Finland — #239 t.me/rjsxrd",
+      "server": "185.65.200.181",
+      "server_port": 443,
+      "uuid": "12a3c993-e2f1-4ebb-b622-d67e546f34e5",
       "tls": {
         "enabled": true,
         "insecure": false,
+        "server_name": "www.microsoft.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "joMQZiNZWpGdcKDBOyAJQMnvSfU54GYUqqP_NwUtHAo",
+          "short_id": "a1b2c3d4"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -104,19 +88,14 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇭🇰 Hong Kong, Hong Kong | [BL] t.me/rjsxrd",
-      "server": "hke01.jumperservice.com",
-      "server_port": 19001,
-      "uuid": "1a8c4353-8aa9-4038-99a8-b613ad47000e",
+      "tag": "[308ms",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.speedtest.org",
-        "reality": {
-          "enabled": true,
-          "public_key": "rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w",
-          "short_id": ""
-        },
+        "server_name": "cluster-de-2.firstvideocdn.ru",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -124,6 +103,27 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "175. 🇵🇰 VLESS | SNI: www.m.vk.ru | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
+      "server": "111.88.146.74",
+      "server_port": 25462,
+      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.m.vk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
+          "short_id": "9a694cfa8ebd15"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
