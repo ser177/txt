@@ -44,85 +44,60 @@
       "type": "vless"
     },
     {
-      "tag": "🇪🇪 Estonia — #101 t.me/rjsxrd",
-      "server": "94.139.251.45",
-      "server_port": 1443,
-      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
+      "tag": "🇷🇺",
+      "server": "gwapp-ru01.freenets.store",
+      "server_port": 8443,
+      "uuid": "0c8a9f50-51b3-43b5-b1fb-09fc3131a800",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "google.com",
+        "server_name": "gwapp-ru01.freenets.store",
         "reality": {
           "enabled": true,
-          "public_key": "IY3FoZJxMLG_yyWJ7BkkL6cpfxypkx_XkogW0xbK-Es",
-          "short_id": "7ba6c86c7aa8684d"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇪🇪 Estonia — #94 [Verified RU] t.me/rjsxrd",
-      "server": "94.139.251.29",
-      "server_port": 1443,
-      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "google.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "IY3FoZJxMLG_yyWJ7BkkL6cpfxypkx_XkogW0xbK-Es",
-          "short_id": "7ba6c86c7aa8684d"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany — #78 t.me/rjsxrd",
-      "server": "94.139.251.181",
-      "server_port": 3443,
-      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "google.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "wwGR_yrkQmb5atW8fWWR376idUXqTD8CnHhoFPTb7yQ",
-          "short_id": "d10195d5995c1790"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "95. 🇸🇪 VLESS | SNI: api-maps.yandex.ru | CIDR: Yandex | TG: @wlrustg t.me/rjsxrd",
-      "server": "178.154.211.221",
-      "server_port": 443,
-      "uuid": "4e78dd4f-1d8f-0410-b43b-e2c662c4f956",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
+          "public_key": "GsfqAd66XSHFTFaoPA1YSuJXpsSt-Lx0qQ7_1xTRbhA",
           "short_id": ""
         },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇪",
+      "server": "cluster-de-1.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇪",
+      "server": "95.213.143.225",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cluster-de-1.firstvideocdn.ru"
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇵🇱",
+      "server": "cluster-de-2.firstvideocdn.ru",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
