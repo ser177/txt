@@ -44,35 +44,23 @@
       "type": "vless"
     },
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tag": "🇫🇮 Finland — #140 t.me/rjsxrd",
+      "server": "94.139.251.181",
+      "server_port": 9443,
+      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.amd.com",
+        "server_name": "google.com",
         "reality": {
           "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
+          "public_key": "cSNsBZfv7R_GS3wuMRceNeFwpylt7YSj3xatEAfQ3ls",
+          "short_id": "d3a66b47c4f0792a"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
@@ -100,14 +88,45 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "178.72.181.84",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tag": "🇷🇺",
+      "server": "gwapp-ru01.freenets.store",
+      "server_port": 8443,
+      "uuid": "0c8a9f50-51b3-43b5-b1fb-09fc3131a800",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cluster-de-1.firstvideocdn.ru"
+        "server_name": "gwapp-ru01.freenets.store",
+        "reality": {
+          "enabled": true,
+          "public_key": "GsfqAd66XSHFTFaoPA1YSuJXpsSt-Lx0qQ7_1xTRbhA",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇪🇪 Estonia — #104 t.me/rjsxrd",
+      "server": "94.126.206.107",
+      "server_port": 1443,
+      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "IY3FoZJxMLG_yyWJ7BkkL6cpfxypkx_XkogW0xbK-Es",
+          "short_id": "7ba6c86c7aa8684d"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
