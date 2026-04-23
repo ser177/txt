@@ -44,18 +44,18 @@
       "type": "vless"
     },
     {
-      "tag": "🇷🇺",
-      "server": "gwapp-ru01.freenets.store",
-      "server_port": 8443,
-      "uuid": "0c8a9f50-51b3-43b5-b1fb-09fc3131a800",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
+      "server_port": 443,
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "gwapp-ru01.freenets.store",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "GsfqAd66XSHFTFaoPA1YSuJXpsSt-Lx0qQ7_1xTRbhA",
-          "short_id": ""
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
@@ -66,38 +66,63 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇪",
-      "server": "cluster-de-1.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tag": "🇷🇺",
+      "server": "193.124.130.63",
+      "server_port": 3478,
+      "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
       "tls": {
         "enabled": true,
-        "insecure": false
+        "insecure": false,
+        "server_name": "payment-widget.plus.kinopoisk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA",
+          "short_id": "6ba85179e30d4fc2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇪",
-      "server": "95.213.143.225",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tag": "1053. VLESS | SNI: yastatic.net | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "82.22.40.148",
+      "server_port": 59999,
+      "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cluster-de-1.firstvideocdn.ru"
+        "server_name": "yastatic.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM",
+          "short_id": "7c8d9e0f"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇵🇱",
-      "server": "cluster-de-2.firstvideocdn.ru",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
+      "tag": "0957",
+      "server": "45.144.51.205",
+      "server_port": 59999,
+      "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
       "tls": {
         "enabled": true,
         "insecure": false,
+        "server_name": "yastatic.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM",
+          "short_id": "9c77d4b3"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
