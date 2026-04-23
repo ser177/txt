@@ -44,74 +44,8 @@
       "type": "vless"
     },
     {
-      "tag": "🇫🇮 Finland — #140 t.me/rjsxrd",
-      "server": "94.139.251.181",
-      "server_port": 9443,
-      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "google.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "cSNsBZfv7R_GS3wuMRceNeFwpylt7YSj3xatEAfQ3ls",
-          "short_id": "d3a66b47c4f0792a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "37.9.54.205",
-      "server_port": 443,
-      "uuid": "0b069e37-ddaa-4e7f-80d5-cdca76cf7c39",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "rf.normbot.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U",
-          "short_id": "6bd371f2f32e91d3"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "gwapp-ru01.freenets.store",
-      "server_port": 8443,
-      "uuid": "0c8a9f50-51b3-43b5-b1fb-09fc3131a800",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "gwapp-ru01.freenets.store",
-        "reality": {
-          "enabled": true,
-          "public_key": "GsfqAd66XSHFTFaoPA1YSuJXpsSt-Lx0qQ7_1xTRbhA",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇪🇪 Estonia — #104 t.me/rjsxrd",
-      "server": "94.126.206.107",
+      "tag": "🇪🇪 Estonia — #101 t.me/rjsxrd",
+      "server": "94.139.251.45",
       "server_port": 1443,
       "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
       "tls": {
@@ -126,6 +60,72 @@
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇪🇪 Estonia — #94 [Verified RU] t.me/rjsxrd",
+      "server": "94.139.251.29",
+      "server_port": 1443,
+      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "IY3FoZJxMLG_yyWJ7BkkL6cpfxypkx_XkogW0xbK-Es",
+          "short_id": "7ba6c86c7aa8684d"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 Germany — #78 t.me/rjsxrd",
+      "server": "94.139.251.181",
+      "server_port": 3443,
+      "uuid": "2b7f78aa-3eb9-4fba-9a90-d56682c5e17f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "wwGR_yrkQmb5atW8fWWR376idUXqTD8CnHhoFPTb7yQ",
+          "short_id": "d10195d5995c1790"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "95. 🇸🇪 VLESS | SNI: api-maps.yandex.ru | CIDR: Yandex | TG: @wlrustg t.me/rjsxrd",
+      "server": "178.154.211.221",
+      "server_port": 443,
+      "uuid": "4e78dd4f-1d8f-0410-b43b-e2c662c4f956",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
