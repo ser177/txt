@@ -66,52 +66,8 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "1230",
-      "server": "185.147.27.67",
-      "server_port": 48444,
-      "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eh.vk.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "FApUbcJurXfV5Y3PG2xRycl1R7y0CxwmUU7FRgUpzG0",
-          "short_id": "6ba85179"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "1019",
-      "server": "178.208.94.161",
-      "server_port": 443,
-      "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "7O0YJP6K7-VL6l0WflSMfyGzivMGzu4vDwPkHNpm9Qo",
-          "short_id": "0f1e2d3c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "193.124.130.63",
+      "tag": "1041. VLESS | SNI: payment-widget.plus.kinopoisk.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "193.124.130.164",
       "server_port": 3478,
       "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
       "tls": {
@@ -130,6 +86,49 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "53. 🇷🇺 VLESS | SNI: yastatic.net | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
+      "server": "72.56.238.120",
+      "server_port": 59999,
+      "uuid": "93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yastatic.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM",
+          "short_id": "9c77d4b3"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "40. 🇵🇰 VLESS | SNI: www.m.vk.ru | TG: @wlrustg | Thanks: @YoutubeUnBlockRu t.me/rjsxrd",
+      "server": "111.88.146.74",
+      "server_port": 25462,
+      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.m.vk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
+          "short_id": "9a694cfa8ebd15"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
