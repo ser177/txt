@@ -66,36 +66,39 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "4Nika-5655 t.me/rjsxrd",
-      "server": "193.233.103.243",
-      "server_port": 443,
-      "uuid": "09a429d9-6ffa-43f3-8b3a-c634dbdda94d",
+      "tag": "0805",
+      "server": "111.88.146.74",
+      "server_port": 25462,
+      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "www.m.vk.ru",
         "reality": {
           "enabled": true,
-          "public_key": "V6m8_CGU_f4Ym9yFxreUjm6rUBzvE4eNg_GHKWp0MG4",
-          "short_id": "e178a9d7bb36a98e"
+          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
+          "short_id": "9a694cfa8ebd15"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "319. 🇵🇱 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
+      "tag": "320. 🇵🇱 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
       "server": "5.188.159.69",
       "server_port": 52006,
       "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cluster-de-2.firstvideocdn.ru"
+        "server_name": "cluster-de-2.firstvideocdn.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
