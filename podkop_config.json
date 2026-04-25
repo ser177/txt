@@ -87,35 +87,31 @@
       "type": "vless"
     },
     {
-      "tag": "320. 🇵🇱 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
+      "tag": "319. 🇵🇱 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
       "server": "5.188.159.69",
       "server_port": 52006,
       "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cluster-de-2.firstvideocdn.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "cluster-de-2.firstvideocdn.ru"
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "!",
-      "server": "5.129.223.70",
+      "tag": "[256ms",
+      "server": "srv80.towersflowerss.com",
       "server_port": 443,
-      "uuid": "4ccff2bb-b761-40f0-95ec-a58b38862dab",
+      "uuid": "36d85d65-1b57-4cba-a2a6-f61131b08593",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "stats.vk-portal.net",
+        "server_name": "srv80.towersflowerss.com",
         "reality": {
           "enabled": true,
-          "public_key": "e04qlMREgpP2TmLJ0kzf4tYjnuBMT87k0RuQebPe2Bg",
-          "short_id": "6ba85179e30d4fc2"
+          "public_key": "Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
