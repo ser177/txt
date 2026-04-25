@@ -1,1 +1,2 @@
 vless://c76f2c4d-240c-464b-ac72-c730aef3031a@185.190.250.131:443?type=tcp&encryption=none&security=reality&pbk=ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs&fp=chrome&sni=www.icloud.com&sid=a47e847519007052&spx=%2F#bolgarin-mrg0mbkj
+vless://cac544aa-7704-4813-98de-6308c768a280@45.9.74.223:443?type=tcp&encryption=none&security=reality&pbk=K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4&fp=chrome&sni=www.amd.com&sid=b88fc1938e9265&spx=%2F&flow=xtls-rprx-vision#first-9lqzgmho
