@@ -66,7 +66,46 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "0805",
+      "tag": "0310",
+      "server": "212.34.129.49",
+      "server_port": 443,
+      "uuid": "91debc17-d16b-444f-b5a1-2d9303e2ea41",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "rbc.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
+          "short_id": "387d2fb5f83c0cde"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "439. 🇩🇪 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
+      "server": "5.188.159.69",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cluster-de-2.firstvideocdn.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "102. VLESS | SNI: www.m.vk.ru | TG: @wlrustg t.me/rjsxrd",
       "server": "111.88.146.74",
       "server_port": 25462,
       "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
@@ -85,41 +124,6 @@
         }
       },
       "type": "vless"
-    },
-    {
-      "tag": "319. 🇵🇱 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
-      "server": "5.188.159.69",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-2710-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cluster-de-2.firstvideocdn.ru"
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "[256ms",
-      "server": "srv80.towersflowerss.com",
-      "server_port": 443,
-      "uuid": "36d85d65-1b57-4cba-a2a6-f61131b08593",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "srv80.towersflowerss.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
