@@ -66,6 +66,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🏳️ ShatakVPN 173310 t.me/rjsxrd",
+      "server": "193.233.103.243",
+      "server_port": 443,
+      "uuid": "09a429d9-6ffa-43f3-8b3a-c634dbdda94d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "V6m8_CGU_f4Ym9yFxreUjm6rUBzvE4eNg_GHKWp0MG4",
+          "short_id": "e178a9d7bb36a98e"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
       "server": "178.72.181.98",
       "server_port": 52006,
@@ -91,23 +113,6 @@
         "enabled": true,
         "insecure": false,
         "server_name": "cluster-de-2.firstvideocdn.ru"
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany | 🌐 [*CIDR] t.me/rjsxrd",
-      "server": "178.72.181.132",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cluster-de-1.firstvideocdn.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
