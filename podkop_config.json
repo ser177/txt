@@ -66,6 +66,62 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇩🇪 Germany — #345 t.me/rjsxrd",
+      "server": "178.72.181.132",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cluster-de-1.firstvideocdn.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "439. 🇩🇪 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
+      "server": "5.188.159.69",
+      "server_port": 52006,
+      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cluster-de-2.firstvideocdn.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "!",
+      "server": "srv80.towersflowerss.com",
+      "server_port": 443,
+      "uuid": "36d85d65-1b57-4cba-a2a6-f61131b08593",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "srv80.towersflowerss.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "type": "direct",
       "tag": "direct"
     }
