@@ -66,51 +66,61 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany — #345 t.me/rjsxrd",
-      "server": "178.72.181.132",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cluster-de-1.firstvideocdn.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "439. 🇩🇪 VLESS | SNI: cluster-de-2.firstvideocdn.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
-      "server": "5.188.159.69",
-      "server_port": 52006,
-      "uuid": "75807638-6f19-01f4-ae08-38492ee85c88",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cluster-de-2.firstvideocdn.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "!",
-      "server": "srv80.towersflowerss.com",
+      "tag": "🇷🇺 ОБХОД БЕЛЫХ СПИСКОВ | RU t.me/rjsxrd",
+      "server": "217.16.23.28",
       "server_port": 443,
-      "uuid": "36d85d65-1b57-4cba-a2a6-f61131b08593",
+      "uuid": "163731d3-8466-4405-acdb-ccd45d971254",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "srv80.towersflowerss.com",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0",
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": "6ba85179e30d4fc2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 VK — #1 t.me/rjsxrd",
+      "server": "95.163.209.47",
+      "server_port": 443,
+      "uuid": "67d3388c-f5cf-4692-9a13-c3c13d459cc0",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "HFlu11M_xqBayi6pD2ZyC30VobHLofr4JpndMGC6OjI",
+          "short_id": "0d3c8408d1c8fecb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🌐 №37 Obhod WL t.me/rjsxrd",
+      "server": "158.160.231.108",
+      "server_port": 8443,
+      "uuid": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
           "short_id": ""
         },
         "utls": {
