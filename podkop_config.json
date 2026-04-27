@@ -66,40 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️ ShatakVPN 147252 t.me/rjsxrd",
-      "server": "158.160.46.104",
+      "tag": "🇳🇱 The Netherlands — #431 t.me/rjsxrd",
+      "server": "62.233.43.34",
       "server_port": 443,
-      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
+      "uuid": "a6e26ac0-644f-0019-8035-e2be0c93ffbb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "web.max.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
-          "short_id": "428ef87fd47a3a32"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🏳️ ShatakVPN 831039 t.me/rjsxrd",
-      "server": "158.160.114.71",
-      "server_port": 443,
-      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "smartcaptcha.yandexcloud.net",
-        "reality": {
-          "enabled": true,
-          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
-          "short_id": "428ef87fd47a3a32"
+          "public_key": "EXpeJ0XTTDnf9k-qohLwXII9aRAPuwCBu0AsW6uhQVk",
+          "short_id": "6a0b1c2d"
         },
         "utls": {
           "enabled": true,
@@ -110,22 +88,44 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️ ShatakVPN 328264 t.me/rjsxrd",
-      "server": "84.201.173.227",
+      "tag": "🇷🇺 Selectel — #109 t.me/rjsxrd",
+      "server": "84.201.161.102",
       "server_port": 443,
-      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
+      "uuid": "cd2dfa24-3056-43a0-8914-897fdeaa6b27",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "web.max.ru",
+        "server_name": "id.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
-          "short_id": "428ef87fd47a3a32"
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 Selectel — #113 t.me/rjsxrd",
+      "server": "158.160.237.122",
+      "server_port": 443,
+      "uuid": "cd2dfa24-3056-43a0-8914-897fdeaa6b27",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "id.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
         }
       },
       "type": "vless",
