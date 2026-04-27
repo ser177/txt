@@ -88,44 +88,44 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Selectel — #109 t.me/rjsxrd",
-      "server": "84.201.161.102",
+      "tag": "🇸🇪 Sweden — #509 t.me/rjsxrd",
+      "server": "150.241.74.191",
       "server_port": 443,
-      "uuid": "cd2dfa24-3056-43a0-8914-897fdeaa6b27",
+      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "id.x5.ru",
+        "server_name": "download.spectrum.vu",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8",
+          "short_id": "ad8c7a6ace2f"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Selectel — #113 t.me/rjsxrd",
-      "server": "158.160.237.122",
+      "tag": "🇷🇺 Timeweb — #121 t.me/rjsxrd",
+      "server": "5.129.223.70",
       "server_port": 443,
-      "uuid": "cd2dfa24-3056-43a0-8914-897fdeaa6b27",
+      "uuid": "4ccff2bb-b761-40f0-95ec-a58b38862dab",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "id.x5.ru",
+        "server_name": "stats.vk-portal.net",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "e04qlMREgpP2TmLJ0kzf4tYjnuBMT87k0RuQebPe2Bg",
+          "short_id": "6ba85179e30d4fc2"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
