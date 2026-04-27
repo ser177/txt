@@ -110,18 +110,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "0409",
-      "server": "109.71.246.28",
-      "server_port": 8443,
-      "uuid": "ec32a890-0dde-4b87-8d5e-cfdf9073244c",
+      "tag": "🇷🇺 Hostkey B.V. — #56 t.me/rjsxrd",
+      "server": "31.192.111.158",
+      "server_port": 24207,
+      "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.microsoft.com",
+        "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U",
-          "short_id": "1688"
+          "public_key": "V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk",
+          "short_id": "69"
         },
         "utls": {
           "enabled": true,
