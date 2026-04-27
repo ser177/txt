@@ -66,14 +66,14 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️ ShatakVPN 831039 t.me/rjsxrd",
-      "server": "158.160.114.71",
+      "tag": "🏳️ ShatakVPN 602658 t.me/rjsxrd",
+      "server": "158.160.46.104",
       "server_port": 443,
       "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "smartcaptcha.yandexcloud.net",
+        "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
           "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
@@ -81,25 +81,25 @@
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 VK — #1 t.me/rjsxrd",
-      "server": "95.163.209.47",
-      "server_port": 443,
-      "uuid": "67d3388c-f5cf-4692-9a13-c3c13d459cc0",
+      "tag": "🌐 №37 Obhod WL t.me/rjsxrd",
+      "server": "158.160.231.108",
+      "server_port": 8443,
+      "uuid": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "HFlu11M_xqBayi6pD2ZyC30VobHLofr4JpndMGC6OjI",
-          "short_id": "0d3c8408d1c8fecb"
+          "public_key": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -110,8 +110,8 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️ ShatakVPN 615637 t.me/rjsxrd",
-      "server": "158.160.46.104",
+      "tag": "🏳️ ShatakVPN 623982 t.me/rjsxrd",
+      "server": "51.250.67.51",
       "server_port": 443,
       "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
       "tls": {
