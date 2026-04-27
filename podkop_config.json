@@ -110,22 +110,22 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Hostkey B.V. — #56 t.me/rjsxrd",
-      "server": "31.192.111.158",
-      "server_port": 24207,
-      "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
+      "tag": "🏳️ ShatakVPN 272108 t.me/rjsxrd",
+      "server": "84.201.173.227",
+      "server_port": 443,
+      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk",
-          "short_id": "69"
+          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+          "short_id": "428ef87fd47a3a32"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
