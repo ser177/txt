@@ -66,6 +66,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "2959. VLESS | SNI: www.tbank.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "212.34.145.199",
+      "server_port": 443,
+      "uuid": "6bc93967-18ce-441a-9ee3-006fe068c095",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.tbank.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo",
+          "short_id": "a79ee9d365da7d81"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "[262ms",
       "server": "vaganzavpn.top",
       "server_port": 17917,
@@ -104,28 +126,6 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🏳️ ShatakVPN 272108 t.me/rjsxrd",
-      "server": "84.201.173.227",
-      "server_port": 443,
-      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "web.max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
-          "short_id": "428ef87fd47a3a32"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
         }
       },
       "type": "vless",
