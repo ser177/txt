@@ -66,6 +66,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇷🇺 Serv.Host — #108 t.me/rjsxrd",
+      "server": "94.156.181.59",
+      "server_port": 443,
+      "uuid": "60b7b4be-1347-4757-81e7-c3b3f1316ce9",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "6qoOEYRoVWBvXvVBGAviySCm8_WLOS8ZNunMFEHmSng",
+          "short_id": "84b7e9de967ff2ff"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "🇷🇺 Hostkey B.V. — #75 t.me/rjsxrd",
       "server": "31.192.111.158",
       "server_port": 24207,
@@ -88,44 +110,16 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️",
-      "server": "111.88.146.74",
-      "server_port": 25462,
-      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.m.vk.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
-          "short_id": "9a694cfa8ebd15"
+      "tag": "5493. 🇷🇺 VLESS | SNI: tn.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
+      "server": "tn.xbs54as9c6.ru",
+      "server_port": 4100,
+      "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "live.ok.ru"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🏳️ ShatakVPN 444543 t.me/rjsxrd",
-      "server": "5.188.224.69",
-      "server_port": 2083,
-      "uuid": "60ae82da-f839-4125-aa1e-3df0e2a5c30c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ir.ozone.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
-          "short_id": "6da16b1335651b38"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "path": "/v1"
       },
       "type": "vless"
     },
