@@ -66,18 +66,42 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Serv.Host — #108 t.me/rjsxrd",
-      "server": "94.156.181.59",
+      "tag": "TCP, Ozon [#РКП] t.me/rjsxrd",
+      "server": "5.188.224.84",
+      "server_port": 2083,
+      "uuid": "60ae82da-f839-4125-aa1e-3df0e2a5c30c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ir.ozone.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "TCP, Яндекс [#РКП] t.me/rjsxrd",
+      "server": "ru.tgflovv.ru",
       "server_port": 443,
-      "uuid": "60b7b4be-1347-4757-81e7-c3b3f1316ce9",
+      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.yandex.ru",
+        "server_name": "yandex.ru",
+        "alpn": [
+          "http%252525252525252F1.1"
+        ],
         "reality": {
           "enabled": true,
-          "public_key": "6qoOEYRoVWBvXvVBGAviySCm8_WLOS8ZNunMFEHmSng",
-          "short_id": "84b7e9de967ff2ff"
+          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
+          "short_id": "6fb05d1f3a"
         },
         "utls": {
           "enabled": true,
@@ -88,29 +112,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Hostkey B.V. — #75 t.me/rjsxrd",
-      "server": "31.192.111.158",
-      "server_port": 24207,
-      "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "web.max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk",
-          "short_id": "69"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "5493. 🇷🇺 VLESS | SNI: tn.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
+      "tag": "🇨🇦",
       "server": "tn.xbs54as9c6.ru",
       "server_port": 4100,
       "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
