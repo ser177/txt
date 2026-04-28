@@ -66,62 +66,60 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "2959. VLESS | SNI: www.tbank.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
-      "server": "212.34.145.199",
-      "server_port": 443,
-      "uuid": "6bc93967-18ce-441a-9ee3-006fe068c095",
+      "tag": "🇷🇺 EdgeCenter — #74 t.me/rjsxrd",
+      "server": "5.188.224.73",
+      "server_port": 2083,
+      "uuid": "e68aab34-64bb-4052-a1a0-5e26b04f68c1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.tbank.ru",
+        "server_name": "ir.ozone.ru",
         "reality": {
           "enabled": true,
-          "public_key": "HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo",
-          "short_id": "a79ee9d365da7d81"
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "[262ms",
-      "server": "vaganzavpn.top",
-      "server_port": 17917,
-      "uuid": "50e4c335-c59d-49d4-a580-10f8e5b740b4",
+      "tag": "🏳️ ShatakVPN 482116 t.me/rjsxrd",
+      "server": "46.149.78.27",
+      "server_port": 17113,
+      "uuid": "530eaa91-28a0-46ae-bc63-57384362ba6b",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "m.vk.ru",
+        "server_name": "vk.ru",
         "reality": {
           "enabled": true,
-          "public_key": "AJNM3xXr0XI_VejKBe9iX5NbcSyDk-MaebTY31TkhwM",
-          "short_id": "873f01"
+          "public_key": "516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg",
+          "short_id": "fe013b8818613e"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "[257ms",
-      "server": "64.188.58.186",
-      "server_port": 443,
-      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
+      "tag": "🇷🇺 Timeweb — #120 t.me/rjsxrd",
+      "server": "109.73.195.191",
+      "server_port": 8443,
+      "uuid": "b61bf605-147f-429f-b10b-297e5e5fd02d",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "stats.vk-portal.net",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
-          "short_id": "3c6fc84d"
+          "public_key": "F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs",
+          "short_id": "30095c0f0d"
         },
         "utls": {
           "enabled": true,
