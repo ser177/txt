@@ -66,48 +66,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "115. 🇵🇰 VLESS | SNI: www.m.vk.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "111.88.146.74",
-      "server_port": 25462,
-      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.m.vk.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
-          "short_id": "9a694cfa8ebd15"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🏳️ ShatakVPN 482116 t.me/rjsxrd",
-      "server": "46.149.78.27",
-      "server_port": 17113,
-      "uuid": "530eaa91-28a0-46ae-bc63-57384362ba6b",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "vk.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg",
-          "short_id": "fe013b8818613e"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
       "tag": "5493. 🇷🇺 VLESS | SNI: tn.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
       "server": "tn.xbs54as9c6.ru",
       "server_port": 4100,
@@ -120,6 +78,50 @@
         "path": "/v1"
       },
       "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 Hostkey B.V. — #76 t.me/rjsxrd",
+      "server": "31.192.111.158",
+      "server_port": 24207,
+      "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "web.max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk",
+          "short_id": "69"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #115 t.me/rjsxrd",
+      "server": "85.239.38.170",
+      "server_port": 443,
+      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
+          "short_id": "6fb05d1f3a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
