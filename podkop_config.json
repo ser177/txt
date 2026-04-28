@@ -66,21 +66,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5493. 🇷🇺 VLESS | SNI: tn.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "tn.xbs54as9c6.ru",
-      "server_port": 4100,
-      "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "live.ok.ru"
-        },
-        "path": "/v1"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺 Hostkey B.V. — #76 t.me/rjsxrd",
+      "tag": "🇷🇺 Hostkey B.V. — #75 t.me/rjsxrd",
       "server": "31.192.111.158",
       "server_port": 24207,
       "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
@@ -102,26 +88,46 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Timeweb — #115 t.me/rjsxrd",
-      "server": "85.239.38.170",
-      "server_port": 443,
-      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
+      "tag": "🏳️",
+      "server": "111.88.146.74",
+      "server_port": 25462,
+      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "www.m.vk.ru",
         "reality": {
           "enabled": true,
-          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
-          "short_id": "6fb05d1f3a"
+          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
+          "short_id": "9a694cfa8ebd15"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 444543 t.me/rjsxrd",
+      "server": "5.188.224.69",
+      "server_port": 2083,
+      "uuid": "60ae82da-f839-4125-aa1e-3df0e2a5c30c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ir.ozone.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
