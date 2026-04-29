@@ -66,28 +66,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Russia [*CIDR] t.me/rjsxrd",
-      "server": "80.93.187.200",
-      "server_port": 8443,
-      "uuid": "8e66502a-83ca-47d7-a3b5-a65daf457ecf",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "findmypackets.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0",
-          "short_id": "d1579a8745398e34"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "1386. VLESS | SNI: st.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
       "server": "st.xbs54as9c6.ru",
       "server_port": 7000,
@@ -121,6 +99,28 @@
         }
       },
       "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #98 t.me/rjsxrd",
+      "server": "92.63.179.139",
+      "server_port": 8443,
+      "uuid": "7c08d043-2185-4fdb-afa1-b57375576e0d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "vleapp-ru01.freenets.store",
+        "reality": {
+          "enabled": true,
+          "public_key": "VpmPGt1T4sPhB-a1oce11eHqaqpg6RG-veqCbc1RHGw",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
