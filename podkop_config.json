@@ -66,18 +66,21 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, Max [#РКП] t.me/rjsxrd",
-      "server": "31.192.111.158",
-      "server_port": 24207,
-      "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
+      "tag": "TCP, Яндекс [#РКП] t.me/rjsxrd",
+      "server": "ru.tgflovv.ru",
+      "server_port": 443,
+      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "web.max.ru",
+        "server_name": "yandex.ru",
+        "alpn": [
+          "http%252525252525252F1.1"
+        ],
         "reality": {
           "enabled": true,
-          "public_key": "V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk",
-          "short_id": "69"
+          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
+          "short_id": "6fb05d1f3a"
         },
         "utls": {
           "enabled": true,
@@ -86,20 +89,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇨🇦",
-      "server": "tn.xbs54as9c6.ru",
-      "server_port": 4100,
-      "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "live.ok.ru"
-        },
-        "path": "/v1"
-      },
-      "type": "vless"
     },
     {
       "tag": "TCP, VK [#РКП] t.me/rjsxrd",
@@ -121,6 +110,28 @@
         }
       },
       "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #108 t.me/rjsxrd",
+      "server": "85.239.38.170",
+      "server_port": 443,
+      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
+          "short_id": "6fb05d1f3a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
