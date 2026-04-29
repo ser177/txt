@@ -66,31 +66,14 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺",
-      "server": "st.xbs54as9c6.ru",
-      "server_port": 443,
-      "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "rbc.ru"
-        },
-        "path": "/stream"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "SNI: ir.ozone.ru [#РКП] t.me/rjsxrd",
-      "server": "5.188.224.69",
+      "tag": "2083. 🇷🇺 VLESS | SNI: ir.ozone.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
+      "server": "5.188.224.136",
       "server_port": 2083,
-      "uuid": "60ae82da-f839-4125-aa1e-3df0e2a5c30c",
+      "uuid": "74d3057f-5d2b-4d21-8819-3b387d47c0a4",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ir.ozone.ru",
-        "alpn": [
-          "http/1.1"
-        ],
         "reality": {
           "enabled": true,
           "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
@@ -104,26 +87,46 @@
       "type": "vless"
     },
     {
-      "tag": "4Kian-8911 t.me/rjsxrd",
-      "server": "2.56.172.83",
-      "server_port": 8443,
-      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
+      "tag": "🇷🇺 Россия [🏳️LTE] | 🥭🔥 t.me/rjsxrd",
+      "server": "5.188.224.84",
+      "server_port": 2083,
+      "uuid": "b2433762-ba4f-4f50-b963-32cbc430ca36",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
+        "server_name": "ir.ozone.ru",
         "reality": {
           "enabled": true,
-          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
-          "short_id": ""
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
+    },
+    {
+      "tag": "0779",
+      "server": "5.188.224.137",
+      "server_port": 2083,
+      "uuid": "f993de15-4cc2-49bb-b64b-2d248687b819",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ir.ozone.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
