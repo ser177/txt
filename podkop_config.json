@@ -66,21 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, Яндекс [#РКП] t.me/rjsxrd",
-      "server": "ru.tgflovv.ru",
-      "server_port": 443,
-      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
+      "tag": "0014 | 🇷🇺 Россия | WL | Premium TG: @kfwlrus t.me/rjsxrd",
+      "server": "79.174.90.199",
+      "server_port": 5443,
+      "uuid": "cbf10015-d51a-4a7c-b13a-3c6091135d93",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
-        "alpn": [
-          "http%252525252525252F1.1"
-        ],
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
-          "short_id": "6fb05d1f3a"
+          "public_key": "LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -91,39 +88,32 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, VK [#РКП] t.me/rjsxrd",
-      "server": "95.85.229.185",
-      "server_port": 8443,
-      "uuid": "595ae3f9-5a91-4eaa-82a3-28a221cf8f7f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eh.vk.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4",
-          "short_id": "b3a1cc510a2001c6"
+      "tag": "1386. VLESS | SNI: st.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
+      "server": "st.xbs54as9c6.ru",
+      "server_port": 7000,
+      "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "market.yandex.ru"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "path": "/stream"
       },
       "type": "vless"
     },
     {
-      "tag": "🇷🇺 Timeweb — #108 t.me/rjsxrd",
-      "server": "85.239.38.170",
+      "tag": "🇳🇱",
+      "server": "fta.tokervpn.ru",
       "server_port": 443,
-      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
+      "uuid": "c22fbdee-854b-4ac6-a185-6d07bf017a07",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "tokermod.ru",
         "reality": {
           "enabled": true,
-          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
-          "short_id": "6fb05d1f3a"
+          "public_key": "KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc",
+          "short_id": "6ba85179e30d4fc2"
         },
         "utls": {
           "enabled": true,
