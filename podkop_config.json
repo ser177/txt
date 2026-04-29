@@ -66,42 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "TCP, Ozon [#РКП] t.me/rjsxrd",
-      "server": "5.188.224.84",
-      "server_port": 2083,
-      "uuid": "60ae82da-f839-4125-aa1e-3df0e2a5c30c",
+      "tag": "TCP, Max [#РКП] t.me/rjsxrd",
+      "server": "31.192.111.158",
+      "server_port": 24207,
+      "uuid": "a6f85c9b-169b-4a1e-b051-2011bcfa2c23",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ir.ozone.ru",
+        "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
-          "short_id": "6da16b1335651b38"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "TCP, Яндекс [#РКП] t.me/rjsxrd",
-      "server": "ru.tgflovv.ru",
-      "server_port": 443,
-      "uuid": "a231c089-9065-4525-a226-bb4f4fd487d2",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yandex.ru",
-        "alpn": [
-          "http%252525252525252F1.1"
-        ],
-        "reality": {
-          "enabled": true,
-          "public_key": "dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI",
-          "short_id": "6fb05d1f3a"
+          "public_key": "V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk",
+          "short_id": "69"
         },
         "utls": {
           "enabled": true,
@@ -122,6 +98,27 @@
           "Host": "live.ok.ru"
         },
         "path": "/v1"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "TCP, VK [#РКП] t.me/rjsxrd",
+      "server": "95.85.229.185",
+      "server_port": 8443,
+      "uuid": "595ae3f9-5a91-4eaa-82a3-28a221cf8f7f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eh.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4",
+          "short_id": "b3a1cc510a2001c6"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless"
     },
