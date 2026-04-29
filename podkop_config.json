@@ -80,18 +80,21 @@
       "type": "vless"
     },
     {
-      "tag": "1503",
-      "server": "138.124.26.159",
-      "server_port": 443,
-      "uuid": "aed996ff-eca0-4d4a-b2f3-01362ec4d48d",
+      "tag": "SNI: ir.ozone.ru [#РКП] t.me/rjsxrd",
+      "server": "5.188.224.69",
+      "server_port": 2083,
+      "uuid": "60ae82da-f839-4125-aa1e-3df0e2a5c30c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "ir.ozone.ru",
+        "alpn": [
+          "http/1.1"
+        ],
         "reality": {
           "enabled": true,
-          "public_key": "GFe2pwkZh7WJbyZuFpFH68G4AOjvfl_xZANcXU2zZio",
-          "short_id": ""
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
         },
         "utls": {
           "enabled": true,
@@ -101,18 +104,18 @@
       "type": "vless"
     },
     {
-      "tag": "🇹🇲 [БС-VL] Туркмения #19169 | РосТуннель t.me/rjsxrd",
-      "server": "217.168.240.204",
-      "server_port": 9443,
-      "uuid": "4649d681-7f26-4959-a3f2-02eb8866230f",
+      "tag": "4Kian-8911 t.me/rjsxrd",
+      "server": "2.56.172.83",
+      "server_port": 8443,
+      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yahoo.com",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg",
-          "short_id": "2344766a270a6298"
+          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
