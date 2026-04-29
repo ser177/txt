@@ -66,32 +66,32 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "1386. VLESS | SNI: st.xbs54as9c6.ru | TG: @wlrustg t.me/rjsxrd",
+      "tag": "🇷🇺",
       "server": "st.xbs54as9c6.ru",
-      "server_port": 7000,
+      "server_port": 443,
       "uuid": "75356919-6ece-455c-ba7a-9f042a60d2c5",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "market.yandex.ru"
+          "Host": "rbc.ru"
         },
         "path": "/stream"
       },
       "type": "vless"
     },
     {
-      "tag": "🏳️",
-      "server": "111.88.146.74",
-      "server_port": 25462,
-      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
+      "tag": "1503",
+      "server": "138.124.26.159",
+      "server_port": 443,
+      "uuid": "aed996ff-eca0-4d4a-b2f3-01362ec4d48d",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.m.vk.ru",
+        "server_name": "yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
-          "short_id": "9a694cfa8ebd15"
+          "public_key": "GFe2pwkZh7WJbyZuFpFH68G4AOjvfl_xZANcXU2zZio",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -101,18 +101,18 @@
       "type": "vless"
     },
     {
-      "tag": "🇷🇺 Timeweb — #98 t.me/rjsxrd",
-      "server": "92.63.179.139",
-      "server_port": 8443,
-      "uuid": "7c08d043-2185-4fdb-afa1-b57375576e0d",
+      "tag": "🇹🇲 [БС-VL] Туркмения #19169 | РосТуннель t.me/rjsxrd",
+      "server": "217.168.240.204",
+      "server_port": 9443,
+      "uuid": "4649d681-7f26-4959-a3f2-02eb8866230f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "vleapp-ru01.freenets.store",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "VpmPGt1T4sPhB-a1oce11eHqaqpg6RG-veqCbc1RHGw",
-          "short_id": ""
+          "public_key": "wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg",
+          "short_id": "2344766a270a6298"
         },
         "utls": {
           "enabled": true,
