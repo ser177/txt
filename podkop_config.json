@@ -66,22 +66,22 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇪 Sweden — #912 t.me/rjsxrd",
-      "server": "88.216.214.193",
+      "tag": "1206. VLESS | SNI: stats.vk-portal.net | CIDR: Yandex | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "178.154.207.200",
       "server_port": 443,
-      "uuid": "7b13eaac-882d-43a0-b19e-6d2e867d624e",
+      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "hcaptcha.com",
+        "server_name": "stats.vk-portal.net",
         "reality": {
           "enabled": true,
-          "public_key": "OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw",
-          "short_id": "8ac90e6b63633977"
+          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
+          "short_id": "3c6fc84d"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -109,25 +109,29 @@
       "type": "vless"
     },
     {
-      "tag": "2094. VLESS | SNI: www.ozon.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
-      "server": "144.124.253.4",
-      "server_port": 8443,
-      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
+      "tag": "🇪🇸 ОБХОД БЕЛЫХ СПИСКОВ | ES t.me/rjsxrd",
+      "server": "84.201.159.228",
+      "server_port": 443,
+      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.ozon.ru",
+        "server_name": "ads.x5.ru",
+        "alpn": [
+          "http/1.1"
+        ],
         "reality": {
           "enabled": true,
-          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
-          "short_id": "ffffffffff"
+          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+          "short_id": "428ef87fd47a3a32"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
