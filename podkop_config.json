@@ -66,68 +66,70 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇪 Sweden — #912 t.me/rjsxrd",
-      "server": "88.216.214.193",
+      "tag": "🇱🇻 Latvia [*CIDR] t.me/rjsxrd",
+      "server": "150.241.75.92",
       "server_port": 443,
-      "uuid": "7b13eaac-882d-43a0-b19e-6d2e867d624e",
+      "uuid": "7d3aad33-021a-40f7-981b-7ec29d7fc159",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "hcaptcha.com",
+        "server_name": "market.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw",
-          "short_id": "8ac90e6b63633977"
+          "public_key": "gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w",
+          "short_id": "a1335752e0d0969a"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Russia | TG: @HardVpn_robot t.me/rjsxrd",
-      "server": "5.188.224.136",
-      "server_port": 2083,
-      "uuid": "408c57ff-f67f-49c7-856a-56bff6ac26e0",
+      "tag": "🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd",
+      "server": "node-fin1.rmp-inc.top",
+      "server_port": 443,
+      "uuid": "02e639c9-58b8-4c69-b15c-8fc9681674c8",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ir.ozone.ru",
+        "server_name": "eh.vk.com",
         "reality": {
           "enabled": true,
-          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
-          "short_id": "6da16b1335651b38"
+          "public_key": "19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🏳️ ShatakVPN 652159 t.me/rjsxrd",
-      "server": "144.124.253.4",
-      "server_port": 8443,
-      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
+      "tag": "SNI: market.yandex.ru [#РКП] t.me/rjsxrd",
+      "server": "150.241.74.149",
+      "server_port": 443,
+      "uuid": "7d3aad33-021a-40f7-981b-7ec29d7fc159",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.ozon.ru",
+        "server_name": "market.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
-          "short_id": "ffffffffff"
+          "public_key": "gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w",
+          "short_id": "a1335752e0d0969a"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
