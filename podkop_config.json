@@ -66,39 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇵🇰 Pakistan [SNI-RU] www.m.vk.ru t.me/rjsxrd",
-      "server": "111.88.146.74",
-      "server_port": 25462,
-      "uuid": "b58a4390-6aba-451a-8010-61916ebe6bb3",
+      "tag": "🇸🇪 Sweden — #912 t.me/rjsxrd",
+      "server": "88.216.214.193",
+      "server_port": 443,
+      "uuid": "7b13eaac-882d-43a0-b19e-6d2e867d624e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.m.vk.ru",
+        "server_name": "hcaptcha.com",
         "reality": {
           "enabled": true,
-          "public_key": "PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI",
-          "short_id": "9a694cfa8ebd15"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "385. VLESS | SNI: yandex.ru | CIDR: VK | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
-      "server": "5.188.143.70",
-      "server_port": 993,
-      "uuid": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
-          "short_id": "ad7dab462a323acb"
+          "public_key": "OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw",
+          "short_id": "8ac90e6b63633977"
         },
         "utls": {
           "enabled": true,
@@ -109,26 +88,46 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "SNI: eu-latdeliver.onnstreaming.ru [#РКП] t.me/rjsxrd",
-      "server": "eu-latdeliver.onnstreaming.ru",
-      "server_port": 443,
-      "uuid": "19ef3d02-1c55-4fec-9794-6def8cbac396",
+      "tag": "2156. VLESS | SNI: www.vk.com | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "demw.verymad.net",
+      "server_port": 27439,
+      "uuid": "63efb0dc-f9c2-41f2-9e4f-220c423454cb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "eu-latdeliver.onnstreaming.ru",
+        "server_name": "www.vk.com",
         "reality": {
           "enabled": true,
-          "public_key": "JgDfe0nB3kM-pi0YtkfSxx9MgWUwDv17qYkHisDul2M",
-          "short_id": "0c1de03e22ef2156"
+          "public_key": "Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ",
+          "short_id": "60e64f9f8724c0"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "2094. VLESS | SNI: www.ozon.ru | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
+      "server": "144.124.253.4",
+      "server_port": 8443,
+      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.ozon.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
+          "short_id": "ffffffffff"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "type": "direct",
