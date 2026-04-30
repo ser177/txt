@@ -66,64 +66,64 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "1206. VLESS | SNI: stats.vk-portal.net | CIDR: Yandex | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
-      "server": "178.154.207.200",
+      "tag": "🇸🇪 Sweden — #912 t.me/rjsxrd",
+      "server": "88.216.214.193",
       "server_port": 443,
-      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
+      "uuid": "7b13eaac-882d-43a0-b19e-6d2e867d624e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "stats.vk-portal.net",
+        "server_name": "hcaptcha.com",
         "reality": {
           "enabled": true,
-          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
-          "short_id": "3c6fc84d"
+          "public_key": "OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw",
+          "short_id": "8ac90e6b63633977"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "2156. VLESS | SNI: www.vk.com | TG: @wlrustg | Thanks: @rkp_channel t.me/rjsxrd",
-      "server": "demw.verymad.net",
-      "server_port": 27439,
-      "uuid": "63efb0dc-f9c2-41f2-9e4f-220c423454cb",
+      "tag": "2580",
+      "server": "5.188.224.136",
+      "server_port": 2083,
+      "uuid": "f6b71e78-e065-4cf8-9fbb-b9e25ff67eff",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.vk.com",
+        "server_name": "ir.ozone.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ",
-          "short_id": "60e64f9f8724c0"
+          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
+          "short_id": "6da16b1335651b38"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless"
     },
     {
-      "tag": "🇪🇸 ОБХОД БЕЛЫХ СПИСКОВ | ES t.me/rjsxrd",
-      "server": "84.201.159.228",
+      "tag": "🇳🇱",
+      "server": "64.188.58.186",
       "server_port": 443,
-      "uuid": "409bdb0f-5aae-4e93-a8dd-60adc47d5fd3",
+      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "stats.vk-portal.net",
         "alpn": [
           "http/1.1"
         ],
         "reality": {
           "enabled": true,
-          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
-          "short_id": "428ef87fd47a3a32"
+          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
+          "short_id": "3c6fc84d"
         },
         "utls": {
           "enabled": true,
