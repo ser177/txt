@@ -88,10 +88,10 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "2580",
+      "tag": "🇷🇺 Russia | TG: @HardVpn_robot t.me/rjsxrd",
       "server": "5.188.224.136",
       "server_port": 2083,
-      "uuid": "f6b71e78-e065-4cf8-9fbb-b9e25ff67eff",
+      "uuid": "408c57ff-f67f-49c7-856a-56bff6ac26e0",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -109,29 +109,25 @@
       "type": "vless"
     },
     {
-      "tag": "🇳🇱",
-      "server": "64.188.58.186",
-      "server_port": 443,
-      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
+      "tag": "🏳️ ShatakVPN 652159 t.me/rjsxrd",
+      "server": "144.124.253.4",
+      "server_port": 8443,
+      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "stats.vk-portal.net",
-        "alpn": [
-          "http/1.1"
-        ],
+        "server_name": "www.ozon.ru",
         "reality": {
           "enabled": true,
-          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
-          "short_id": "3c6fc84d"
+          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
+          "short_id": "ffffffffff"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "type": "direct",
