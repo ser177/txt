@@ -66,66 +66,66 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇱🇹 Lithuania — #200 t.me/rjsxrd",
-      "server": "84.32.209.6",
+      "tag": "🇷🇺 Selectel — #100 t.me/rjsxrd",
+      "server": "158.160.252.157",
       "server_port": 443,
-      "uuid": "37253a6a-2a9b-42bb-992c-b5f1b1ef1791",
+      "uuid": "d54ad253-520e-4fc5-9a2c-b601b1d8ca73",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "vltch.mostserv.xyz",
+        "server_name": "id.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI",
-          "short_id": "226509f017e4c36d"
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇵🇱",
-      "server": "5.188.143.70",
-      "server_port": 993,
-      "uuid": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc",
+      "tag": "🇷🇺 Selectel — #96 t.me/rjsxrd",
+      "server": "158.160.231.91",
+      "server_port": 443,
+      "uuid": "d54ad253-520e-4fc5-9a2c-b601b1d8ca73",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "5post-gate.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
-          "short_id": "ad7dab462a323acb"
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands [SNI-RU] yandex.ru t.me/rjsxrd",
-      "server": "45.15.129.4",
+      "tag": "🇷🇺 Selectel — #101 t.me/rjsxrd",
+      "server": "158.160.224.84",
       "server_port": 443,
-      "uuid": "70b83ca6-3176-410f-8f82-055592e560af",
+      "uuid": "d54ad253-520e-4fc5-9a2c-b601b1d8ca73",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "id.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "VDiSzgdjDUEOWxViCcmddgSx9U9UNnmnWcbvjPhZ2hQ",
-          "short_id": "ba"
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "random"
         }
       },
       "type": "vless",
