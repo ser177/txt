@@ -66,57 +66,36 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇪 Sweden — #426 t.me/rjsxrd",
-      "server": "88.216.214.193",
+      "tag": "🇱🇹 Lithuania — #200 t.me/rjsxrd",
+      "server": "84.32.209.6",
       "server_port": 443,
-      "uuid": "7b13eaac-882d-43a0-b19e-6d2e867d624e",
+      "uuid": "37253a6a-2a9b-42bb-992c-b5f1b1ef1791",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "hcaptcha.com",
+        "server_name": "vltch.mostserv.xyz",
         "reality": {
           "enabled": true,
-          "public_key": "OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw",
-          "short_id": "8ac90e6b63633977"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands [SNI-RU] www.ozon.ru t.me/rjsxrd",
-      "server": "144.124.253.4",
-      "server_port": 8443,
-      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.ozon.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
-          "short_id": "ffffffffff"
+          "public_key": "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI",
+          "short_id": "226509f017e4c36d"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "🇵🇱",
-      "server": "109.120.188.50",
+      "server": "5.188.143.70",
       "server_port": 993,
       "uuid": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "yandex.ru",
         "reality": {
           "enabled": true,
           "public_key": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
@@ -124,7 +103,29 @@
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands [SNI-RU] yandex.ru t.me/rjsxrd",
+      "server": "45.15.129.4",
+      "server_port": 443,
+      "uuid": "70b83ca6-3176-410f-8f82-055592e560af",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "VDiSzgdjDUEOWxViCcmddgSx9U9UNnmnWcbvjPhZ2hQ",
+          "short_id": "ba"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
