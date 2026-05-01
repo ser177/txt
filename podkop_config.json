@@ -66,66 +66,66 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Selectel — #100 t.me/rjsxrd",
-      "server": "158.160.252.157",
+      "tag": "🇦🇪 United Arab Emirates — #134 t.me/rjsxrd",
+      "server": "132.243.112.201",
       "server_port": 443,
-      "uuid": "d54ad253-520e-4fc5-9a2c-b601b1d8ca73",
+      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "id.x5.ru",
+        "server_name": "stats.vk-portal.net",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
+          "short_id": "3c6fc84d"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Selectel — #96 t.me/rjsxrd",
-      "server": "158.160.231.91",
+      "tag": "🇦🇪 United Arab Emirates — #133 t.me/rjsxrd",
+      "server": "132.243.112.200",
       "server_port": 443,
-      "uuid": "d54ad253-520e-4fc5-9a2c-b601b1d8ca73",
+      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "stats.vk-portal.net",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
+          "short_id": "3c6fc84d"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Selectel — #101 t.me/rjsxrd",
-      "server": "158.160.224.84",
+      "tag": "🇳🇱 The Netherlands — #801 t.me/rjsxrd",
+      "server": "94.228.219.42",
       "server_port": 443,
-      "uuid": "d54ad253-520e-4fc5-9a2c-b601b1d8ca73",
+      "uuid": "cead26ce-f4e0-4820-aa2c-96cf3e61fb4c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "id.x5.ru",
+        "server_name": "hls-svod.itunes.apple.com",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA",
+          "short_id": "0f7e"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
