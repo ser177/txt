@@ -66,18 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5492. 🇲🇾 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "ch-gt-01.com",
-      "server_port": 8443,
-      "uuid": "dd677248-d3bf-4244-86e7-33c73b9a0207",
+      "tag": "5512. 🇳🇱 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
+      "server": "midorinote.online",
+      "server_port": 443,
+      "uuid": "d5909996-8ff6-43a9-8409-42acfaa81316",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "rbc.ru",
         "reality": {
           "enabled": true,
-          "public_key": "8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc",
-          "short_id": "d037f6f67cc90016"
+          "public_key": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
+          "short_id": "387d2fb5f83c0cde"
         },
         "utls": {
           "enabled": true,
@@ -88,40 +88,39 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇱🇻 Latvia | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "188.253.17.104",
-      "server_port": 443,
-      "uuid": "63f26629-a4a4-4550-bffc-afabb3b5b3c3",
+      "tag": "1622",
+      "server": "v546965.hosted-by-vdsina.com",
+      "server_port": 8443,
+      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yahoo.com",
+        "server_name": "www.ozon.ru",
         "reality": {
           "enabled": true,
-          "public_key": "rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM",
-          "short_id": "e98e89a0"
+          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
+          "short_id": "ffffffffff"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #749 t.me/rjsxrd",
-      "server": "45.12.62.104",
-      "server_port": 443,
-      "uuid": "e77535c8-f896-4f69-acd0-91484e94957f",
+      "tag": "🇷🇺 Russia [*CIDR] t.me/rjsxrd",
+      "server": "ru-selectel-01.com",
+      "server_port": 8443,
+      "uuid": "73441773-3c0a-4f2e-b0fe-d9418eea458e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "sni.ru-selectel-01.com",
         "reality": {
           "enabled": true,
-          "public_key": "rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A",
-          "short_id": ""
+          "public_key": "rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI",
+          "short_id": "caa0a516476ad539"
         },
         "utls": {
           "enabled": true,
