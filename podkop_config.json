@@ -66,40 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5451. 🇩🇪 VLESS | SNI: sun6-22.userapi.com | TG: @wlrustg t.me/rjsxrd",
-      "server": "89.144.53.99",
-      "server_port": 2040,
-      "uuid": "85fecfeb-86b9-4fbb-96d1-723a64a9e0f7",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sun6-22.userapi.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "5513. 🇳🇱 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "midorinote.online",
+      "tag": "5492. 🇲🇾 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
+      "server": "ch-gt-01.com",
       "server_port": 8443,
-      "uuid": "d5909996-8ff6-43a9-8409-42acfaa81316",
+      "uuid": "dd677248-d3bf-4244-86e7-33c73b9a0207",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "rbc.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
-          "short_id": "331a8c3fe668c1ee"
+          "public_key": "8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc",
+          "short_id": "d037f6f67cc90016"
         },
         "utls": {
           "enabled": true,
@@ -110,17 +88,39 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5449. 🇩🇪 VLESS | SNI: yandex.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "89.144.53.116",
-      "server_port": 2000,
-      "uuid": "85fecfeb-86b9-4fbb-96d1-723a64a9e0f7",
+      "tag": "🇱🇻 Latvia | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "188.253.17.104",
+      "server_port": 443,
+      "uuid": "63f26629-a4a4-4550-bffc-afabb3b5b3c3",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM",
+          "public_key": "rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM",
+          "short_id": "e98e89a0"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #749 t.me/rjsxrd",
+      "server": "45.12.62.104",
+      "server_port": 443,
+      "uuid": "e77535c8-f896-4f69-acd0-91484e94957f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A",
           "short_id": ""
         },
         "utls": {
