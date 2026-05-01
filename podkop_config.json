@@ -66,21 +66,43 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "2221. 🇷🇺 VLESS | SNI: ir.ozone.ru | CIDR: VK | TG: @wlrustg t.me/rjsxrd",
-      "server": "5.188.224.136",
-      "server_port": 2083,
-      "uuid": "74d3057f-5d2b-4d21-8819-3b387d47c0a4",
+      "tag": "🇵🇱",
+      "server": "109.120.188.50",
+      "server_port": 993,
+      "uuid": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ir.ozone.ru",
+        "server_name": "max.ru",
         "alpn": [
           "http/1.1"
         ],
         "reality": {
           "enabled": true,
-          "public_key": "J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ",
-          "short_id": "6da16b1335651b38"
+          "public_key": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+          "short_id": "ad7dab462a323acb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands [SNI-RU] www.ozon.ru t.me/rjsxrd",
+      "server": "144.124.253.4",
+      "server_port": 8443,
+      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.ozon.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
+          "short_id": "ffffffffff"
         },
         "utls": {
           "enabled": true,
@@ -90,40 +112,18 @@
       "type": "vless"
     },
     {
-      "tag": "🇸🇪 Sweden — #440 t.me/rjsxrd",
-      "server": "88.216.214.193",
-      "server_port": 443,
-      "uuid": "7b13eaac-882d-43a0-b19e-6d2e867d624e",
+      "tag": "🇵🇱",
+      "server": "5.188.143.70",
+      "server_port": 993,
+      "uuid": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "hcaptcha.com",
+        "server_name": "yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw",
-          "short_id": "8ac90e6b63633977"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🏳️ ShatakVPN 623010 t.me/rjsxrd t.me/rjsxrd",
-      "server": "138.124.99.126",
-      "server_port": 443,
-      "uuid": "0eab3e6d-7202-40b4-9577-a01ef670a368",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ozon.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DtzDK8MLwfzqwHqvXWJ3IgBdP9IfylggM_RxbyPcjgI",
-          "short_id": "8a9d"
+          "public_key": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4",
+          "short_id": "ad7dab462a323acb"
         },
         "utls": {
           "enabled": true,
