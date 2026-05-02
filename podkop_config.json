@@ -66,7 +66,29 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5511. 🇳🇱 VLESS | SNI: stats.vk-portal.net | TG: @wlrustg t.me/rjsxrd",
+      "tag": "5421. 🇩🇪 VLESS | SNI: cdn.trahodrom.fun | TG: @wlrustg t.me/rjsxrd",
+      "server": "auto.api-rutube.ru",
+      "server_port": 443,
+      "uuid": "bafc879b-eeef-0114-ac47-8ec6c23335e9",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdn.trahodrom.fun",
+        "reality": {
+          "enabled": true,
+          "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "5510. 🇳🇱 VLESS | SNI: stats.vk-portal.net | TG: @wlrustg t.me/rjsxrd",
       "server": "64.188.58.186",
       "server_port": 443,
       "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
@@ -74,9 +96,6 @@
         "enabled": true,
         "insecure": false,
         "server_name": "stats.vk-portal.net",
-        "alpn": [
-          "http/1.1"
-        ],
         "reality": {
           "enabled": true,
           "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
@@ -103,28 +122,6 @@
           "enabled": true,
           "public_key": "wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg",
           "short_id": "2344766a270a6298"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #749 t.me/rjsxrd",
-      "server": "45.12.62.104",
-      "server_port": 443,
-      "uuid": "e77535c8-f896-4f69-acd0-91484e94957f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A",
-          "short_id": ""
         },
         "utls": {
           "enabled": true,
