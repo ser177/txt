@@ -66,18 +66,21 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5513. 🇳🇱 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
-      "server": "midorinote.online",
-      "server_port": 8443,
-      "uuid": "d5909996-8ff6-43a9-8409-42acfaa81316",
+      "tag": "5511. 🇳🇱 VLESS | SNI: stats.vk-portal.net | TG: @wlrustg t.me/rjsxrd",
+      "server": "64.188.58.186",
+      "server_port": 443,
+      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "rbc.ru",
+        "server_name": "stats.vk-portal.net",
+        "alpn": [
+          "http/1.1"
+        ],
         "reality": {
           "enabled": true,
-          "public_key": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
-          "short_id": "331a8c3fe668c1ee"
+          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
+          "short_id": "3c6fc84d"
         },
         "utls": {
           "enabled": true,
@@ -110,22 +113,22 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
-      "server": "176.124.211.23",
-      "server_port": 8454,
-      "uuid": "80fb5b0b-e23f-4363-8c5e-7273c0dc06eb",
+      "tag": "🇳🇱 The Netherlands — #749 t.me/rjsxrd",
+      "server": "45.12.62.104",
+      "server_port": 443,
+      "uuid": "e77535c8-f896-4f69-acd0-91484e94957f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "jobinvest.ru",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "public_key": "rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A",
           "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
