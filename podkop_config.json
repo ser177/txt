@@ -66,9 +66,9 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5512. 🇳🇱 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
+      "tag": "5513. 🇳🇱 VLESS | SNI: rbc.ru | TG: @wlrustg t.me/rjsxrd",
       "server": "midorinote.online",
-      "server_port": 443,
+      "server_port": 8443,
       "uuid": "d5909996-8ff6-43a9-8409-42acfaa81316",
       "tls": {
         "enabled": true,
@@ -77,7 +77,7 @@
         "reality": {
           "enabled": true,
           "public_key": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
-          "short_id": "387d2fb5f83c0cde"
+          "short_id": "331a8c3fe668c1ee"
         },
         "utls": {
           "enabled": true,
@@ -88,43 +88,44 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "1622",
-      "server": "v546965.hosted-by-vdsina.com",
-      "server_port": 8443,
-      "uuid": "1cb91b20-49cc-59ff-8393-91808a4deede",
+      "tag": "[2727ms",
+      "server": "72.56.34.155",
+      "server_port": 9443,
+      "uuid": "4649d681-7f26-4959-a3f2-02eb8866230f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.ozon.ru",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM",
-          "short_id": "ffffffffff"
+          "public_key": "wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg",
+          "short_id": "2344766a270a6298"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Russia [*CIDR] t.me/rjsxrd",
-      "server": "ru-selectel-01.com",
-      "server_port": 8443,
-      "uuid": "73441773-3c0a-4f2e-b0fe-d9418eea458e",
+      "tag": "🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "176.124.211.23",
+      "server_port": 8454,
+      "uuid": "80fb5b0b-e23f-4363-8c5e-7273c0dc06eb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "sni.ru-selectel-01.com",
+        "server_name": "jobinvest.ru",
         "reality": {
           "enabled": true,
-          "public_key": "rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI",
-          "short_id": "caa0a516476ad539"
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
