@@ -66,18 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5421. 🇩🇪 VLESS | SNI: cdn.trahodrom.fun | TG: @wlrustg t.me/rjsxrd",
-      "server": "auto.api-rutube.ru",
+      "tag": "2444. 🇷🇺 VLESS | SNI: tradingview.com | TG: @wlrustg t.me/rjsxrd",
+      "server": "7qqrbome80g.country-26.de-nfast.com",
       "server_port": 443,
-      "uuid": "bafc879b-eeef-0114-ac47-8ec6c23335e9",
+      "uuid": "4b481152-ba7f-4445-8cc0-d33d58546e23",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn.trahodrom.fun",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg",
-          "short_id": ""
+          "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+          "short_id": "50"
         },
         "utls": {
           "enabled": true,
@@ -88,40 +88,40 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "5510. 🇳🇱 VLESS | SNI: stats.vk-portal.net | TG: @wlrustg t.me/rjsxrd",
-      "server": "64.188.58.186",
+      "tag": "🇩🇪 [VL] Германия #2528 | РосТуннель t.me/rjsxrd",
+      "server": "132.243.224.167",
       "server_port": 443,
-      "uuid": "8ef19221-6d5e-4bce-baa1-7c043eae3309",
+      "uuid": "e69d5f8a-2629-45ac-889b-981983209933",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "stats.vk-portal.net",
+        "server_name": "www.apple.com",
         "reality": {
           "enabled": true,
-          "public_key": "6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do",
-          "short_id": "3c6fc84d"
+          "public_key": "PxiVEKI3dp1UpqzpgnD31-Wl4MFiHjTI23ylGFn5Slg",
+          "short_id": "111111"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[2727ms",
-      "server": "72.56.34.155",
-      "server_port": 9443,
-      "uuid": "4649d681-7f26-4959-a3f2-02eb8866230f",
+      "tag": "[264ms",
+      "server": "nl-balance-1.hotservice.icu",
+      "server_port": 2066,
+      "uuid": "7c71bca8-1f80-435a-bb2d-0ad130d6d4f7",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yahoo.com",
+        "server_name": "apple.com",
         "reality": {
           "enabled": true,
-          "public_key": "wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg",
-          "short_id": "2344766a270a6298"
+          "public_key": "u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA",
+          "short_id": "d18f4e"
         },
         "utls": {
           "enabled": true,
