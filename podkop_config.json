@@ -66,18 +66,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "2444. 🇷🇺 VLESS | SNI: tradingview.com | TG: @wlrustg t.me/rjsxrd",
-      "server": "7qqrbome80g.country-26.de-nfast.com",
-      "server_port": 443,
-      "uuid": "4b481152-ba7f-4445-8cc0-d33d58546e23",
+      "tag": "!",
+      "server": "51.250.27.109",
+      "server_port": 2053,
+      "uuid": "9d9db54f-5046-43c7-a520-76716c3e7d80",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
+        "server_name": "sun6-21.userapi.com",
         "reality": {
           "enabled": true,
-          "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
-          "short_id": "50"
+          "public_key": "rR-VrakwXWCU1MZu34xI1g-LBK7Ux7kLLrj9LMYJiwQ",
+          "short_id": "a1b2c3d4"
         },
         "utls": {
           "enabled": true,
@@ -88,44 +88,64 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 [VL] Германия #2528 | РосТуннель t.me/rjsxrd",
-      "server": "132.243.224.167",
+      "tag": "🇳🇱",
+      "server": "uae.sbrf-cdn342.ru",
       "server_port": 443,
-      "uuid": "e69d5f8a-2629-45ac-889b-981983209933",
+      "uuid": "7bd29cac-f692-48a3-88d1-505f7e55f0d0",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.apple.com",
+        "server_name": "sub.sbrf-cdn342.ru",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 776664 t.me/rjsxrd",
+      "server": "46.243.233.135",
+      "server_port": 2084,
+      "uuid": "0e3a9376-1bf0-4b9e-a328-f28083bf6c34",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eh.vk.com",
         "reality": {
           "enabled": true,
-          "public_key": "PxiVEKI3dp1UpqzpgnD31-Wl4MFiHjTI23ylGFn5Slg",
-          "short_id": "111111"
+          "public_key": "o6zlxOHBtqwPdJNatvbmEHH_Ar6SJjJQqUViymfxHmo",
+          "short_id": "cead3d22ec"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🌐 Anycast-IP | [IPv6] [*CIDR] t.me/rjsxrd",
+      "server": "176.124.211.23",
+      "server_port": 8454,
+      "uuid": "50073722-f8da-4113-9eb6-0d2e5397e917",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "jobinvest.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "[264ms",
-      "server": "nl-balance-1.hotservice.icu",
-      "server_port": 2066,
-      "uuid": "7c71bca8-1f80-435a-bb2d-0ad130d6d4f7",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "apple.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA",
-          "short_id": "d18f4e"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
         }
       },
       "type": "vless",
