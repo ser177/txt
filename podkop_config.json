@@ -23,66 +23,22 @@
   ],
   "outbounds": [
     {
-      "tag": "🇸🇪",
-      "server": "158.160.238.122",
-      "server_port": 5443,
-      "uuid": "be4b03f4-85c4-409b-9e31-e67c1128e6e1",
+      "tag": "🇷🇺",
+      "server": "176.98.178.163",
+      "server_port": 8443,
+      "uuid": "0e3a9376-1bf0-4b9e-a328-f28083bf6c34",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "ru3.skysafe.online",
         "reality": {
           "enabled": true,
-          "public_key": "OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18",
-          "short_id": "9962b03c99a36659"
+          "public_key": "4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc",
+          "short_id": "fb38c1c83009e1"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇸🇪",
-      "server": "158.160.178.223",
-      "server_port": 5443,
-      "uuid": "be4b03f4-85c4-409b-9e31-e67c1128e6e1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18",
-          "short_id": "93072393e9e92346"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇸🇪",
-      "server": "158.160.240.14",
-      "server_port": 3450,
-      "uuid": "be4b03f4-85c4-409b-9e31-e67c1128e6e1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wap.yandex.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "y8Xef3AIk7TEbLdu2WkC1NX0jtdxrSs9xsAxLqkSXA8",
-          "short_id": "9d8e40b1e50c3b63"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "ios"
         }
       },
       "type": "vless",
@@ -131,6 +87,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇸🇪"
+    "final": "🇷🇺"
   }
 }
