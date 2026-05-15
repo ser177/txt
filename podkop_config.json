@@ -48,7 +48,7 @@
       "tag": "🇷🇺 CDNvideo — #3",
       "server": "37.18.15.237",
       "server_port": 7443,
-      "uuid": "b7093d5b-25e3-4861-af80-db917bb8cad8",
+      "uuid": "f8994594-c972-48b7-845a-d7cf4addde0f",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -70,7 +70,7 @@
       "tag": "🇷🇺 CDNvideo — #4",
       "server": "46.243.234.141",
       "server_port": 50445,
-      "uuid": "b7093d5b-25e3-4861-af80-db917bb8cad8",
+      "uuid": "f8994594-c972-48b7-845a-d7cf4addde0f",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -89,22 +89,22 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 cloud.ru — #6",
-      "server": "82.202.140.8",
-      "server_port": 443,
-      "uuid": "a8ebcce6-3260-49a4-9be0-cea2fa479753",
+      "tag": "🇷🇺 Delta — #7",
+      "server": "151.236.114.198",
+      "server_port": 8443,
+      "uuid": "f8994594-c972-48b7-845a-d7cf4addde0f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "vk.com",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE",
-          "short_id": "b3"
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "ios"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
@@ -114,7 +114,7 @@
       "tag": "🇷🇺 Delta — #8",
       "server": "212.233.99.180",
       "server_port": 40443,
-      "uuid": "b7093d5b-25e3-4861-af80-db917bb8cad8",
+      "uuid": "f8994594-c972-48b7-845a-d7cf4addde0f",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -133,51 +133,77 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Delta — #9",
-      "server": "151.236.114.198",
-      "server_port": 8443,
-      "uuid": "b7093d5b-25e3-4861-af80-db917bb8cad8",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-          "short_id": "a1b2c3d4e5f6789a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺 Selectel — #11",
-      "server": "158.160.231.91",
+      "tag": "🇷🇺 Selectel — #9",
+      "server": "5.188.80.131",
       "server_port": 443,
-      "uuid": "85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa",
+      "uuid": "bd02f351-5351-4df3-88b0-886c88513649",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "id.x5.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
-          "short_id": "111111"
+          "public_key": "tvGzNJk808NCEaPNwY4nJVahLkdTHDOjCx238I5gphI",
+          "short_id": "17b8d3df"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "random"
         }
       },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #15",
+      "server": "80.90.188.250",
+      "server_port": 443,
+      "uuid": "5b2fc182-a497-4fbe-aeb8-1841dae99022",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eh.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Timeweb — #12",
+      "tag": "🇷🇺 Timeweb — #16",
+      "server": "195.209.82.149",
+      "server_port": 443,
+      "uuid": "d471e982-4237-Fade-94df-c0d11029282a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "s28233.cdn.ngenix.net",
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "s28233.cdn.ngenix.net"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #17",
       "server": "176.98.178.163",
       "server_port": 443,
       "uuid": "0e3a9376-1bf0-4b9e-a328-f28083bf6c34",
@@ -202,46 +228,25 @@
       "type": "vless"
     },
     {
-      "tag": "🇷🇺 Timeweb — #14",
-      "server": "89.23.100.17",
-      "server_port": 443,
-      "uuid": "85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa",
+      "tag": "🇷🇺 Timeweb — #19",
+      "server": "158.160.224.52",
+      "server_port": 8443,
+      "uuid": "44ef1df6-0f37-4dfb-ae03-4545493fe377",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "sub.sbrf-cdn342.ru",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺 Timeweb — #16",
-      "server": "80.90.188.250",
-      "server_port": 443,
-      "uuid": "5b2fc182-a497-4fbe-aeb8-1841dae99022",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eh.vk.com",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M",
-          "short_id": ""
+          "public_key": "qsqnCjigfD1_V7th-DKRtIrHuhyjN7kSnd85PBH5b2U",
+          "short_id": "22c70831c63f4abe"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "type": "direct",
