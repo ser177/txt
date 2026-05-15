@@ -23,28 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "176.98.178.163",
-      "server_port": 8443,
-      "uuid": "0e3a9376-1bf0-4b9e-a328-f28083bf6c34",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ru3.skysafe.online",
-        "reality": {
-          "enabled": true,
-          "public_key": "4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc",
-          "short_id": "fb38c1c83009e1"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "ios"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇨🇭",
       "server": "84.201.174.121",
       "server_port": 43302,
@@ -87,6 +65,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇨🇭"
   }
 }
