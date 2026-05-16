@@ -24,9 +24,51 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
+      "server": "95.163.211.240",
+      "server_port": 80,
+      "uuid": "b054003f-ed76-4b01-83e0-e1b6bfc2940c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "91.219.227.189",
+      "server_port": 80,
+      "uuid": "b054003f-ed76-4b01-83e0-e1b6bfc2940c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sso.passport.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
       "server": "212.233.99.180",
       "server_port": 40443,
-      "uuid": "38614952-0a3e-4b08-85a0-dd3fe51395d7",
+      "uuid": "26f1e552-fd2a-4565-8102-8bbe972e1273",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -46,63 +88,21 @@
     },
     {
       "tag": "🇷🇺",
-      "server": "95.163.211.240",
-      "server_port": 80,
-      "uuid": "6187445a-9565-4bb5-bd04-d2de4a27603f",
+      "server": "37.18.15.237",
+      "server_port": 50445,
+      "uuid": "26f1e552-fd2a-4565-8102-8bbe972e1273",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "river-5-557.rtbcdn.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "95.163.211.237",
-      "server_port": 80,
-      "uuid": "6187445a-9565-4bb5-bd04-d2de4a27603f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eh.vk.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪",
-      "server": "158.160.238.122",
-      "server_port": 5446,
-      "uuid": "f7307eaa-08af-46f9-80c8-bee557b01d45",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "quiz.kinopoisk.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18",
-          "short_id": "f543a7a8ec616e07"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "ios"
         }
       },
       "type": "vless",
@@ -110,9 +110,9 @@
     },
     {
       "tag": "🇷🇺",
-      "server": "91.219.227.189",
+      "server": "91.219.227.200",
       "server_port": 80,
-      "uuid": "6187445a-9565-4bb5-bd04-d2de4a27603f",
+      "uuid": "b054003f-ed76-4b01-83e0-e1b6bfc2940c",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -131,9 +131,30 @@
     },
     {
       "tag": "🇷🇺",
+      "server": "95.163.211.237",
+      "server_port": 80,
+      "uuid": "b054003f-ed76-4b01-83e0-e1b6bfc2940c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eh.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
       "server": "46.243.234.141",
       "server_port": 50445,
-      "uuid": "38614952-0a3e-4b08-85a0-dd3fe51395d7",
+      "uuid": "26f1e552-fd2a-4565-8102-8bbe972e1273",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -150,27 +171,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "91.219.227.200",
-      "server_port": 80,
-      "uuid": "6187445a-9565-4bb5-bd04-d2de4a27603f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
     },
     {
       "tag": "🇳🇱",
@@ -195,22 +195,22 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇪",
-      "server": "158.160.178.223",
-      "server_port": 5452,
-      "uuid": "f7307eaa-08af-46f9-80c8-bee557b01d45",
+      "tag": "🇳🇱",
+      "server": "158.160.233.50",
+      "server_port": 443,
+      "uuid": "4cff8317-7ffa-4c14-9663-fe19526d6dfb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "st.kinopoisk.ru",
+        "server_name": "wl-3-3.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18",
-          "short_id": "f543a7a8ec616e07"
+          "public_key": "m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8",
+          "short_id": "d8d3d1d87555e842"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -220,7 +220,7 @@
       "tag": "🇳🇱",
       "server": "51.250.39.162",
       "server_port": 443,
-      "uuid": "01383ccf-55ff-43b3-b0ca-5f10ea992a4e",
+      "uuid": "4cff8317-7ffa-4c14-9663-fe19526d6dfb",
       "tls": {
         "enabled": true,
         "insecure": false,
