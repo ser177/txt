@@ -24,6 +24,20 @@ dns:
   enhanced-mode: fake-ip  # рекомендуется для производительности
   fake-ip-range: 198.18.0.1/16
   
+  fake-ip-filter:
+   # ---- БАЗОВЫЕ ИСКЛЮЧЕНИЯ (рекомендуется оставить) ----
+   - "*.lan"
+   - "*.local"
+   - "*.arpa"
+   - "*.msftncsi.com"
+   - "*.msftconnecttest.com"
+   # ---- ОСНОВНОЕ ПРАВИЛО ДЛЯ РОССИЙСКОГО ТРАФИКА ----
+   # Эта строчка заставляет Mihomo НЕ подменять IP для всего, что попадает под "cn" категорию
+ #  - "geosite:cn"   # <--- ДОБАВЬТЕ ЭТУ СТРОКУ
+   - "geoip:cn"     # <--- И ЭТУ СТРОКУ
+ #  - "geosite:ru"   # <--- ДОБАВЬТЕ ЭТУ СТРОКУ
+   - "geoip:ru"     # <--- И ЭТУ СТРОКУ
+    
   # Bootstrap DNS (для разрешения адресов DoH-серверов) — должен быть доступен напрямую
   default-nameserver:
     - 77.88.8.8
@@ -53,9 +67,9 @@ dns:
     'geosite:telegram,google,cloudflare':
       - https://dns.google/dns-query#PROXY
       - https://cloudflare-dns.com/dns-query#PROXY
-    'geosite:cn':
-      - 223.5.5.5
-      - 119.29.29.29
+  #  'geosite:cn':
+  #    - 223.5.5.5
+  #    - 119.29.29.29
       
   fallback:
     - 77.88.8.8   # Яндекс DNS
@@ -353,12 +367,81 @@ rule-providers:
    path: ./ruleset/category-ads.mrs
    # proxy: PROXY
    
+  ru-app-list:
+    type: http
+    behavior: classical
+    format: yaml
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/other/ru-app-list.yaml'
+    path: ./rule-sets/ru-app-list.yaml
+    interval: 86400
 
+  ru-bundle:
+    type: http
+    behavior: domain
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/ru-bundle/rule.mrs'
+    path: ./ru-bundle/rule.mrs
+    interval: 86400
+
+  rknasnblock:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/ru-bundle/rknasnblock.mrs'
+    path: ./ru-bundle/rknasnblock.mrs
+    interval: 86400    
+    
+  oisd_big:
+    type: http
+    behavior: domain
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/oisd/big.mrs'
+    path: ./oisd/big.mrs
+    interval: 86400
+    
+  oisd_small:
+    type: http
+    behavior: domain
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/oisd/small.mrs'
+    path: ./oisd/small.mrs
+    interval: 86400
+    
+  oisd_nsfw_small:
+    type: http
+    behavior: domain
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/oisd/nsfw_small.mrs'
+    path: ./oisd/nsfw_small.mrs
+    interval: 86400
+    
+  oisd_nsfw_big:
+    type: http
+    behavior: domain
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/oisd/nsfw.mrs'
+    path: ./oisd/nsfw_big.mrs
+    interval: 86400
+    
+  bld-agregator:
+    type: http
+    behavior: domain
+    format: mrs
+    url: 'https://github.com/legiz-ru/mihomo-rule-sets/raw/main/other/bld-agregator.mrs'
+    path: ./bld-agregator.mrs
+    interval: 86400
 
 rules:
   # ========== БЛОКИРОВКА РЕКЛАМЫ ==========
   - RULE-SET,category-ads,REJECT-DROP           # geosite:category-ads-all (аналог)
   - RULE-SET,win-spy,REJECT-DROP
+    # Затем ваша реклама
+  
+  - RULE-SET,bld-agregator,REJECT
+  - RULE-SET,oisd_small,REJECT
+  - RULE-SET,oisd_big,REJECT
+  - RULE-SET,oisd_nsfw_small,REJECT
+  - RULE-SET,oisd_nsfw_big,REJECT
   
   # ========== PRIVATE / ЛОКАЛЬНЫЕ (DIRECT) ==========
   - RULE-SET,private-ips,DIRECT,no-resolve      # geoip:private
@@ -416,6 +499,9 @@ rules:
   - RULE-SET,category-ru,DIRECT
   - RULE-SET,whitelist,DIRECT
   - RULE-SET,direct-ips,DIRECT
+  - RULE-SET,ru-app-list,DIRECT
+  - RULE-SET,ru-bundle,PROXY
+  - RULE-SET,rknasnblock,PROXY
   
-  # ========== DEFAULT (всё остальное — DIRECT) ==========
+  # ========== DEFAULT (всё остальное — PROXY  / DIRECT) ==========
   - MATCH,PROXY
