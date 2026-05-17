@@ -1,3 +1,1 @@
-vless://381bd3ed-16f9-48ea-b620-878cb26a20cf@176.57.213.153:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=ccCb6lQBtA2KOnCMVrsKXpFmUv2x8EOsMObkuJebNWw&sid=2d5a31d63a1c4914&spx=/#🇷🇺 Timeweb — #22
-vless://95307d09-b603-4fbe-800c-0d1cc3d3e6e4@5.188.140.245:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#🇫🇮 Finland — #176
-vless://95307d09-b603-4fbe-800c-0d1cc3d3e6e4@84.201.170.45:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#🇩🇪 Germany — #127
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:4433?encryption=none&type=ws&security=tls&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇫🇮 Finland — #129
