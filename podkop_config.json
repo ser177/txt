@@ -23,228 +23,44 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺 UFO Hosting — #24",
-      "server": "91.219.227.189",
-      "server_port": 80,
-      "uuid": "b4a6cffe-cee5-4e65-9598-b6c0a3add009",
+      "tag": "🇷🇺",
+      "server": "212.233.99.180",
+      "server_port": 40443,
+      "uuid": "c19768e5-9b60-4e94-aca2-228b87409d76",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺 Timeweb — #15",
-      "server": "195.209.88.180",
-      "server_port": 443,
-      "uuid": "d471e982-4237-Fade-94df-c0d11029282a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "s28233.cdn.ngenix.net",
-        "alpn": [
-          "h2",
-          "http/1.1"
-        ],
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
         }
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "s28233.cdn.ngenix.net"
-        },
-        "path": "/"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪 Germany — #68",
-      "server": "46.182.24.163",
-      "server_port": 443,
-      "uuid": "fa26ac2b-4472-414a-9c7d-0f11fe1941da",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Timeweb — #16",
-      "server": "176.57.213.153",
-      "server_port": 8443,
-      "uuid": "ec15d284-34e0-4f9c-b773-599635d309d1",
+      "tag": "🇷🇺",
+      "server": "46.243.234.141",
+      "server_port": 50445,
+      "uuid": "c19768e5-9b60-4e94-aca2-228b87409d76",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "apple.com",
+        "server_name": "river-4-421.rtbcdn.ru",
         "reality": {
           "enabled": true,
-          "public_key": "ccCb6lQBtA2KOnCMVrsKXpFmUv2x8EOsMObkuJebNWw",
-          "short_id": "2d5a31d63a1c4914"
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇸🇪 Sweden — #412",
-      "server": "37.143.14.99",
-      "server_port": 443,
-      "uuid": "fd365b7e-26eb-479a-a009-e182d827de04",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "6NHx7OBkTEppAb58ke8XhLDoBrutczt_JPUWP_h9DRE",
-          "short_id": "5d8e1a9c4f72b3"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #230",
-      "server": "158.160.233.50",
-      "server_port": 443,
-      "uuid": "54d164cf-069a-4c38-b0d1-c5c2f66b2b54",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-3-3.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8",
-          "short_id": "d8d3d1d87555e842"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #211",
-      "server": "195.133.198.250",
-      "server_port": 443,
-      "uuid": "ec554934-3bf2-47af-9e11-390055948677",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-9.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "RqwTrqAcMhEI7vBMQOLPTfT9H5XMJaKbhg5670qD_m0",
-          "short_id": "f96fad40f7bdb3a4"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺 Timeweb — #14",
-      "server": "195.209.90.178",
-      "server_port": 443,
-      "uuid": "d471e982-4237-Fade-94df-c0d11029282a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "s28233.cdn.ngenix.net",
-        "alpn": [
-          "h2",
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "s28233.cdn.ngenix.net"
-        },
-        "path": "/"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇸🇪 Sweden — #413",
-      "server": "37.9.4.128",
-      "server_port": 443,
-      "uuid": "fd365b7e-26eb-479a-a009-e182d827de04",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ",
-          "short_id": "5d8e1a9c4f72b3"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇸🇪 Sweden — #416",
-      "server": "46.8.209.200",
-      "server_port": 443,
-      "uuid": "fd365b7e-26eb-479a-a009-e182d827de04",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU",
-          "short_id": "7e2a9d4c5f18b0"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "ios"
         }
       },
       "type": "vless",
@@ -271,6 +87,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺 UFO Hosting — #24"
+    "final": "🇷🇺"
   }
 }
