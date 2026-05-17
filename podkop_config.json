@@ -26,7 +26,7 @@
       "tag": "🇷🇺",
       "server": "212.233.99.180",
       "server_port": 40443,
-      "uuid": "c19768e5-9b60-4e94-aca2-228b87409d76",
+      "uuid": "2c740cde-b07e-41c3-961b-83c61e7559a7",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -45,22 +45,90 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺",
-      "server": "46.243.234.141",
-      "server_port": 50445,
-      "uuid": "c19768e5-9b60-4e94-aca2-228b87409d76",
+      "tag": "🇨🇭",
+      "server": "94.198.218.82",
+      "server_port": 44002,
+      "uuid": "8245dbc5-fab6-4513-b7c2-5b9b0a855fb8",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "river-4-421.rtbcdn.ru",
+        "server_name": "netcenter-cdn.com",
         "reality": {
           "enabled": true,
-          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-          "short_id": "a1b2c3d4e5f6789a"
+          "public_key": "sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ",
+          "short_id": "e1233ae7e56111a7"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "ios"
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇪",
+      "server": "185.22.234.60",
+      "server_port": 6445,
+      "uuid": "903ffc7e-147e-4166-ad20-84c0d54368cb",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8",
+          "short_id": "bad5722c72a0"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "195.209.210.87",
+      "server_port": 52080,
+      "uuid": "cec9157f-2cc5-488d-bdeb-4e1506d821d1",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk",
+          "short_id": "4d3e26cb4c6cc637"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇫🇮",
+      "server": "5.188.140.245",
+      "server_port": 6443,
+      "uuid": "903ffc7e-147e-4166-ad20-84c0d54368cb",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw",
+          "short_id": "bad5722c72a038"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
