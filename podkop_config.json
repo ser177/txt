@@ -23,70 +23,23 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "176.57.213.153",
-      "server_port": 1443,
-      "uuid": "381bd3ed-16f9-48ea-b620-878cb26a20cf",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "apple.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "ccCb6lQBtA2KOnCMVrsKXpFmUv2x8EOsMObkuJebNWw",
-          "short_id": "2d5a31d63a1c4914"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇫🇮",
-      "server": "5.188.140.245",
-      "server_port": 6443,
-      "uuid": "95307d09-b603-4fbe-800c-0d1cc3d3e6e4",
+      "server": "84.201.129.19",
+      "server_port": 4433,
+      "uuid": "c286cb84-1a5c-4543-bc9e-d7727a0ad823",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw",
-          "short_id": "bad5722c72a038"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
+        "server_name": "e.genesis1780.ru"
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪",
-      "server": "84.201.170.45",
-      "server_port": 6443,
-      "uuid": "95307d09-b603-4fbe-800c-0d1cc3d3e6e4",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw",
-          "short_id": "bad5722c72a038"
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "e.genesis1780.ru"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
+        "path": "/"
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "type": "direct",
@@ -109,6 +62,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇫🇮"
   }
 }
