@@ -23,18 +23,212 @@
   ],
   "outbounds": [
     {
-      "tag": "🇩🇪",
-      "server": "111.88.105.63",
-      "server_port": 444,
-      "uuid": "6183c1c0-2853-4e83-b31b-19527950b23b",
+      "tag": "🇷🇺",
+      "server": "91.219.227.200",
+      "server_port": 80,
+      "uuid": "6c487c7c-4801-4683-a6de-d924ecdd4515",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "m.vk.ru",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "jUTLA3HfU7IVwbRq2ijrXHUB48l-La2jCRBEnblkmGU",
-          "short_id": "81ee89a0958495fd"
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "95.163.211.240",
+      "server_port": 80,
+      "uuid": "6c487c7c-4801-4683-a6de-d924ecdd4515",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "91.219.227.189",
+      "server_port": 80,
+      "uuid": "6c487c7c-4801-4683-a6de-d924ecdd4515",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eh.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "95.163.211.237",
+      "server_port": 80,
+      "uuid": "6c487c7c-4801-4683-a6de-d924ecdd4515",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eh.vk.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇭🇺",
+      "server": "158.160.224.161",
+      "server_port": 1443,
+      "uuid": "7db7c067-f209-4f53-917b-a08554f8699b",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "2KNFgiiz1UwgoiPucEKStE02LuOH7-gQsaEEBkFbDlA",
+          "short_id": "4e74b8802a5e4ad1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇮",
+      "server": "51.250.21.149",
+      "server_port": 1443,
+      "uuid": "7db7c067-f209-4f53-917b-a08554f8699b",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "20jD9ck2iGaLYNfsBL4LsU-G6L0gKCqSkkFfVIlNahw",
+          "short_id": "ac7069ed7a9b4619"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱",
+      "server": "158.160.240.83",
+      "server_port": 443,
+      "uuid": "c5ca0936-bb02-4af3-a767-c24a284e1a97",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-3-4.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M",
+          "short_id": "479898e66f5e7beb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱",
+      "server": "178.154.204.65",
+      "server_port": 443,
+      "uuid": "c5ca0936-bb02-4af3-a767-c24a284e1a97",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-4-4.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0",
+          "short_id": "bfb16f73e35be2da"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱",
+      "server": "178.154.204.55",
+      "server_port": 443,
+      "uuid": "c5ca0936-bb02-4af3-a767-c24a284e1a97",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-4-3.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY",
+          "short_id": "7171871f66279d10"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱",
+      "server": "130.193.56.148",
+      "server_port": 443,
+      "uuid": "c5ca0936-bb02-4af3-a767-c24a284e1a97",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-11-1.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "aslw-Ex_i_q59e0eu126qM7UnEHhlpKuz8vMN-ibjkw",
+          "short_id": "3130197867c23edb"
         },
         "utls": {
           "enabled": true,
@@ -65,6 +259,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇩🇪"
+    "final": "🇷🇺"
   }
 }
