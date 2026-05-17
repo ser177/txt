@@ -130,7 +130,7 @@ proxy-providers:
     health-check:              # ← ДОБАВИТЬ ЭТУ СЕКЦИЮ
       enable: true
       interval: 600
-      url: http://www.gstatic.com/generate_204
+      url: 'http://www.gstatic.com/generate_204'
       lazy: true               # ← КЛЮЧЕВОЙ ПАРАМЕТР
 
   # Provider name
@@ -138,7 +138,7 @@ proxy-providers:
     type: http
     url: 'https://raw.githubusercontent.com/ser177/txt/main/1.txt'
     path: ./proxy_providers/ser177.yaml
-    interval: 3600
+    interval: 1800
     header:
       User-Agent: [v2raytun/android]
       x-device-os: [Android]
@@ -147,7 +147,7 @@ proxy-providers:
     health-check:              # ← ДОБАВИТЬ ЭТУ СЕКЦИЮ
       enable: true
       interval: 600
-      url: http://www.gstatic.com/generate_204
+      url: 'http://www.gstatic.com/generate_204'
       lazy: true               # ← КЛЮЧЕВОЙ ПАРАМЕТР
       
   bolgarin:
@@ -163,7 +163,7 @@ proxy-providers:
     health-check:              # ← ДОБАВИТЬ ЭТУ СЕКЦИЮ
       enable: true
       interval: 600
-      url: http://www.gstatic.com/generate_204
+      url: 'http://www.gstatic.com/generate_204'
       lazy: true               # ← КЛЮЧЕВОЙ ПАРАМЕТР  
 
 proxy-groups:
@@ -175,25 +175,27 @@ proxy-groups:
 
 
   - name: 📺 Youtube
-    type: select
-    include-all: true
-    proxies:
-      - ⚡️ Авто
-
+    type: fallback
+   # include-all: true
+    use:
+     - bolgarin
+     - universal
+     - geodema
 
   - name: TelegramPROXY
     icon: https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
     type: url-test
+    tolerance: 25
     include-all: true
-    url: "http://91.108.56.115/generate_204"
+    url: 'https://t.me/generate_204'
+    expected-status: 204
     lazy: true          # ← ДОБАВИТЬ
     interval: 300
-    exclude-filter: '(?i)(обход|\.ru|-ru|россия|москва)'
 
   - name: ⚡️ Авто
     type: url-test
-    tolerance: 150
-    url: 'https://www.gstatic.com/generate_204'
+    tolerance: 25
+    url: 'http://www.gstatic.com/generate_204'
     lazy: true          # ← ДОБАВИТЬ
     interval: 300
     include-all: true
@@ -492,6 +494,7 @@ rules:
   - DOMAIN-KEYWORD,instagram,PROXY
   
   # Остальные
+  - DOMAIN-SUFFIX,chat.deepseek.com,DIRECT
   - RULE-SET,github,PROXY
   - RULE-SET,microsoft,DIRECT
   - RULE-SET,apple,DIRECT
