@@ -1,1 +1,2 @@
-vless://29feeeaf-f974-4568-b2a2-5f8a3da83193@37.18.15.237:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=amedia-vod.cdnvideo.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 CDNvideo — #9
+vless://29feeeaf-f974-4568-b2a2-5f8a3da83193@158.160.226.46:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 Delta — #15
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@130.255.170.89:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=a7b3c9d2e4f.spectrumproxy.shop&pbk=zpxbyw3Y0c--G-zox99d_W0cFCDOUoL50bK70DCY_x8&sid=1e7f9a1b3c5d&spx=/#🇫🇮 Finland — #134
