@@ -26,7 +26,7 @@
       "tag": "🇷🇺",
       "server": "158.160.226.46",
       "server_port": 40443,
-      "uuid": "29feeeaf-f974-4568-b2a2-5f8a3da83193",
+      "uuid": "bc45a56d-4593-492d-8e8c-ad5f3ac43608",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -39,28 +39,6 @@
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇮",
-      "server": "130.255.170.89",
-      "server_port": 443,
-      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "a7b3c9d2e4f.spectrumproxy.shop",
-        "reality": {
-          "enabled": true,
-          "public_key": "zpxbyw3Y0c--G-zox99d_W0cFCDOUoL50bK70DCY_x8",
-          "short_id": "1e7f9a1b3c5d"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
         }
       },
       "type": "vless",
