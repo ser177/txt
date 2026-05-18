@@ -26,7 +26,7 @@
       "tag": "🇷🇺",
       "server": "158.160.226.46",
       "server_port": 40443,
-      "uuid": "e7d8d2da-e122-4be3-bae0-8fa199e7351e",
+      "uuid": "b84e60a7-0c8d-4f7b-8ac9-40dbbde8ccb4",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -39,6 +39,28 @@
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇪",
+      "server": "158.160.241.186",
+      "server_port": 5452,
+      "uuid": "bdcb9729-8f55-463a-b3a8-73fc26d35ce0",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "st.kinopoisk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18",
+          "short_id": "542c8ba8f82ea453"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
         }
       },
       "type": "vless",
