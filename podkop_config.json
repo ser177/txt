@@ -23,40 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "84.201.174.10",
-      "server_port": 51191,
-      "uuid": "77330e29-665f-47a0-a564-19c1d68fee9d",
+      "tag": "🇳🇱",
+      "server": "51.250.31.232",
+      "server_port": 443,
+      "uuid": "6b428f14-9a0a-48fa-9833-2b2ad36eb11f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "wl-6-5.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": "b3bd6f5b168c4d61"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "176.57.213.153",
-      "server_port": 1443,
-      "uuid": "8b10d6f1-2ec7-4dde-a694-b7a58aa744f9",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "apple.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "ccCb6lQBtA2KOnCMVrsKXpFmUv2x8EOsMObkuJebNWw",
-          "short_id": "2d5a31d63a1c4914"
+          "public_key": "c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA",
+          "short_id": "b7b3ff64ca530808"
         },
         "utls": {
           "enabled": true,
@@ -67,18 +45,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇭🇺",
-      "server": "158.160.224.161",
-      "server_port": 1443,
-      "uuid": "8b10d6f1-2ec7-4dde-a694-b7a58aa744f9",
+      "tag": "🇳🇱",
+      "server": "158.160.210.43",
+      "server_port": 443,
+      "uuid": "6b428f14-9a0a-48fa-9833-2b2ad36eb11f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "wl-3-2.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "2KNFgiiz1UwgoiPucEKStE02LuOH7-gQsaEEBkFbDlA",
-          "short_id": "4e74b8802a5e4ad1"
+          "public_key": "uk92pbvDM3dRNZqaTHUE-x06fZxubSyUA997NkB5tyk",
+          "short_id": "5a517ed4bfcd4a54"
         },
         "utls": {
           "enabled": true,
@@ -87,70 +65,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "46.243.234.141",
-      "server_port": 50445,
-      "uuid": "7c81f545-a470-4fd1-b2c0-b546445dcf97",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "river-4-421.rtbcdn.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-          "short_id": "a1b2c3d4e5f6789a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "ios"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "51.250.21.98",
-      "server_port": 80,
-      "uuid": "547b4861-b73a-46ac-ad8e-d07ae0bef66a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "91.219.227.189",
-      "server_port": 80,
-      "uuid": "a022235c-f775-457e-b072-8a00a211b76f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
     },
     {
       "type": "direct",
@@ -173,6 +87,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇳🇱"
   }
 }
