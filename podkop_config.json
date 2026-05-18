@@ -24,6 +24,50 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
+      "server": "46.243.234.141",
+      "server_port": 50445,
+      "uuid": "4c2ecbe2-84c8-4323-a01f-a64700f3480d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "river-4-421.rtbcdn.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "37.18.15.237",
+      "server_port": 50445,
+      "uuid": "4c2ecbe2-84c8-4323-a01f-a64700f3480d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "river-5-557.rtbcdn.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
       "server": "158.160.224.52",
       "server_port": 1443,
       "uuid": "3cd93680-a1d5-4c8c-8689-2a754e6439c8",
@@ -46,38 +90,64 @@
     },
     {
       "tag": "🇷🇺",
-      "server": "95.163.211.240",
-      "server_port": 80,
-      "uuid": "62c8e77d-d097-430c-9216-1599b1050e73",
+      "server": "212.233.99.180",
+      "server_port": 40443,
+      "uuid": "4c2ecbe2-84c8-4323-a01f-a64700f3480d",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "sso.passport.yandex.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
+          "short_id": "a1b2c3d4e5f6789a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇭🇺",
+      "server": "158.160.224.161",
+      "server_port": 40443,
+      "uuid": "3cd93680-a1d5-4c8c-8689-2a754e6439c8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "2KNFgiiz1UwgoiPucEKStE02LuOH7-gQsaEEBkFbDlA",
+          "short_id": "4e74b8802a5e4ad1"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
       },
       "type": "vless"
     },
     {
       "tag": "🇳🇱",
-      "server": "158.160.233.50",
+      "server": "84.201.147.39",
       "server_port": 443,
       "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-3-3.nodes.ac",
+        "server_name": "wl-5-2.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8",
-          "short_id": "d8d3d1d87555e842"
+          "public_key": "e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM",
+          "short_id": "7c05417ed86af034"
         },
         "utls": {
           "enabled": true,
@@ -89,17 +159,17 @@
     },
     {
       "tag": "🇳🇱",
-      "server": "130.193.56.208",
+      "server": "178.154.204.55",
       "server_port": 443,
       "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-11-2.nodes.ac",
+        "server_name": "wl-4-3.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "UfrA4c5fjRVKJTtAiDOd9lEdmkgfZBSTm9bSMzC4zCg",
-          "short_id": "c792be29a38dbefe"
+          "public_key": "ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY",
+          "short_id": "7171871f66279d10"
         },
         "utls": {
           "enabled": true,
@@ -111,17 +181,17 @@
     },
     {
       "tag": "🇳🇱",
-      "server": "178.154.204.65",
+      "server": "51.250.39.162",
       "server_port": 443,
       "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-4-4.nodes.ac",
+        "server_name": "wl-6-1.legendary.ac",
         "reality": {
           "enabled": true,
-          "public_key": "FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0",
-          "short_id": "bfb16f73e35be2da"
+          "public_key": "uofZM1SG_RthhSONWy50U6cQ5m3kXy-sglwY0CANfi8",
+          "short_id": "468d8ab371f8f563"
         },
         "utls": {
           "enabled": true,
@@ -155,83 +225,17 @@
     },
     {
       "tag": "🇳🇱",
-      "server": "158.160.240.83",
+      "server": "178.154.204.65",
       "server_port": 443,
       "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-3-4.nodes.ac",
+        "server_name": "wl-4-4.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M",
-          "short_id": "479898e66f5e7beb"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "51.250.104.10",
-      "server_port": 443,
-      "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-6-3.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "HXP9HKqhQvwTwh0cgddJ3c3VND1lwRYRXgKfW1XPaX4",
-          "short_id": "bf0c3248f61fe277"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "84.201.147.39",
-      "server_port": 443,
-      "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-5-2.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM",
-          "short_id": "7c05417ed86af034"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "130.193.56.148",
-      "server_port": 443,
-      "uuid": "045b6474-677d-4258-b74a-d63df02d15e1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-11-1.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "aslw-Ex_i_q59e0eu126qM7UnEHhlpKuz8vMN-ibjkw",
-          "short_id": "3130197867c23edb"
+          "public_key": "FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0",
+          "short_id": "bfb16f73e35be2da"
         },
         "utls": {
           "enabled": true,
