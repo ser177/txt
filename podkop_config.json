@@ -42,6 +42,28 @@
       "type": "vless"
     },
     {
+      "tag": "🇷🇺",
+      "server": "84.201.174.10",
+      "server_port": 51191,
+      "uuid": "77330e29-665f-47a0-a564-19c1d68fee9d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "short_id": "b3bd6f5b168c4d61"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "type": "direct",
       "tag": "direct"
     }
