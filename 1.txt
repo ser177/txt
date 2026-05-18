@@ -1,2 +1,1 @@
-vless://472e0b5e-57d8-44b5-89ee-80cba37bda93@37.18.15.237:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=amedia-vod.cdnvideo.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 CDNvideo — #9
-vless://641eeb05-0414-44ad-ad62-91618b9d4450@51.250.21.149:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=20jD9ck2iGaLYNfsBL4LsU-G6L0gKCqSkkFfVIlNahw&sid=ac7069ed7a9b4619&spx=/#🇫🇮 Finland — #154
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?encryption=none&type=ws&security=tls&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇳🇱 The Netherlands — #222
