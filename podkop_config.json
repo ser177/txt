@@ -24,51 +24,9 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
-      "server": "91.219.227.189",
-      "server_port": 80,
-      "uuid": "011d3ac4-0879-4aeb-8e77-40bac4d02c39",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "51.250.21.98",
-      "server_port": 80,
-      "uuid": "011d3ac4-0879-4aeb-8e77-40bac4d02c39",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺",
       "server": "46.243.234.141",
       "server_port": 50445,
-      "uuid": "42891170-7400-44c6-9a1a-360e8fe06583",
+      "uuid": "4eb8ef17-6e44-487f-8c14-abc8423bbb34",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -81,6 +39,28 @@
         "utls": {
           "enabled": true,
           "fingerprint": "ios"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "109.120.189.170",
+      "server_port": 5443,
+      "uuid": "afd32517-04fe-4d39-ad74-40402b0dfc98",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q",
+          "short_id": "bad5722c72a038"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
