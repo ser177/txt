@@ -1,4 +1,1 @@
-vless://e7d8d2da-e122-4be3-bae0-8fa199e7351e@46.243.234.141:50445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=river-4-421.rtbcdn.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 CDNvideo — #11
-vless://e7d8d2da-e122-4be3-bae0-8fa199e7351e@212.233.99.180:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 Delta — #13
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?encryption=none&type=ws&security=tls&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇳🇱 The Netherlands — #243
-vless://77330e29-665f-47a0-a564-19c1d68fee9d@84.201.174.10:51191?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#🇷🇺 Yandex — #7
+vless://e7d8d2da-e122-4be3-bae0-8fa199e7351e@158.160.226.46:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 Delta — #15
