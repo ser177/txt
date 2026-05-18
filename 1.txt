@@ -1,2 +1,1 @@
-vless://b84e60a7-0c8d-4f7b-8ac9-40dbbde8ccb4@158.160.226.46:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 Delta — #13
-vless://bdcb9729-8f55-463a-b3a8-73fc26d35ce0@158.160.241.186:5452?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=st.kinopoisk.ru&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=542c8ba8f82ea453&spx=/#🇸🇪 Sweden — #415
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?encryption=none&type=ws&security=tls&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇳🇱 The Netherlands — #221
