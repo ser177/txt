@@ -1,1 +1,1 @@
-vless://91966ecc-ed13-4fe9-bf22-fd1e2fa2527e@212.233.99.180:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 Delta — #5
+vless://6a38ae5d-9652-4fb2-8ea5-1954776dfe8a@109.120.189.170:5445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=cSQW3a_64jadi8uInU7XKZzTDyYKBxWj7c5MgIesIws&sid=bad5722c72a0#🇷🇺 Delta — #4
