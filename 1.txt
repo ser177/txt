@@ -1,3 +1,1 @@
 vless://1eaca0d7-3c18-4e21-931f-c5d1c47b88ee@51.250.73.181:444?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&sni=ads.x5.ru&pbk=A9vakvWIdkK56iqCw0A3TscILvUpGicItxIp7Gc28BU&sid=0614355789abcdef#🇷🇺 Yandex — #4
-vless://99d11efd-854f-41b0-90f1-ab95b59f8c3f@46.243.232.105:50445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=river-4-421.rtbcdn.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=/#🇷🇺 CDNvideo — #7
-vless://7b921ecd-fc42-4110-b7bf-20f1bd2649b7@84.201.174.10:51191?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#🇷🇺 Yandex — #1
