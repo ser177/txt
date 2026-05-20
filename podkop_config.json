@@ -23,18 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "bolgarin-mrg0mbkj",
-      "server": "185.190.250.131",
+      "tag": "first-9lqzgmho",
+      "server": "45.9.74.223",
       "server_port": 443,
-      "uuid": "c76f2c4d-240c-464b-ac72-c730aef3031a",
+      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.icloud.com",
+        "server_name": "www.amd.com",
         "reality": {
           "enabled": true,
-          "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
-          "short_id": "a47e847519007052"
+          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
+          "short_id": "b88fc1938e9265"
         },
         "utls": {
           "enabled": true,
@@ -64,6 +64,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "bolgarin-mrg0mbkj"
+    "final": "first-9lqzgmho"
   }
 }
