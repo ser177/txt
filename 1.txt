@@ -1,3 +1,1 @@
-vless://36b59cc2-a1f2-4dac-9ebd-a2c8f2f7ba86@85.239.55.156:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪
-vless://79c874dc-4114-48ec-ada7-067321e5f968@37.9.4.237:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=bucket-ru-3.extravpn.io&fp=chrome&sni=bucket-ru-3.extravpn.io&pbk=tv8VCP2i9WGt3tEaCbdo93NVHwl6Evd1aB6OpnG3ZDs#🇷🇺
-vless://36b59cc2-a1f2-4dac-9ebd-a2c8f2f7ba86@77.95.201.118:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@84.201.152.247:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=lk.x5.ru&pbk=gs8bT5NMOtrvvHxmCi_siXbVY6WhQcBV4tEgFk4ohgA&sid=46ceaa0ac75f90dc#🇩🇪
