@@ -23,100 +23,79 @@
   ],
   "outbounds": [
     {
-      "tag": "🇩🇪 Germany — #104",
-      "server": "158.160.33.78",
-      "server_port": 5443,
-      "uuid": "54240799-4900-4873-b83d-06ea7111fa46",
+      "tag": "[OpenRay] 🇺🇸 US-15058",
+      "server": "38.147.187.14",
+      "server_port": 443,
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "6aRT_qG0ES5Hn8khTO3sTYqbdjpAf58pEMsBQHwXoWQ",
-          "short_id": "e22b3d0d3d8d820b"
-        },
+        "server_name": "sn1.skylee5.cloudns.ch",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #159",
-      "server": "51.250.35.99",
-      "server_port": 5443,
-      "uuid": "54240799-4900-4873-b83d-06ea7111fa46",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "fYLwKQ07NbsSJffz5aCvPi5nDxZVX95xIGZwiD07OAU",
-          "short_id": "1a2b3c4d5e6f7890"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "edge"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇨🇿 Czechia — #75",
-      "server": "217.16.20.38",
-      "server_port": 443,
-      "uuid": "311d290c-7d66-4c2b-94c3-686dfbdc8e8c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sun6-21.userapi.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM",
-          "short_id": "3decb73e"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "ios"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪 Germany — #85",
-      "server": "45.67.215.191",
-      "server_port": 2096,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sni.my111000.tech"
       },
       "transport": {
         "type": "ws",
-        "headers": {},
-        "path": "Telegram🇨🇳@WangCai2/"
+        "headers": {
+          "Host": "sn1.skylee5.cloudns.ch"
+        },
+        "path": "/"
       },
       "type": "vless"
     },
     {
-      "tag": "🇷🇺 UFO Hosting — #72",
-      "server": "45.67.230.230",
-      "server_port": 443,
-      "uuid": "20ecee51-1044-4be3-89a9-f3c700425ead",
+      "tag": "[OpenRay] 🇰🇷 KR-1529",
+      "server": "114.204.40.185",
+      "server_port": 30006,
+      "uuid": "00000000-0000-4000-8000-000000000000",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yahoo.com",
+        "server_name": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+        },
+        "path": "/@Marisa_kristifp=chrome"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇯🇵 JP-2388",
+      "server": "142.248.151.249",
+      "server_port": 39085,
+      "uuid": "00000000-0000-4000-8000-000000000000",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me"
+        },
+        "path": "/@Marisa_kristifp=chrome"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇷🇺 RU-24332",
+      "server": "91.219.227.200",
+      "server_port": 7433,
+      "uuid": "011d3ac4-0879-4aeb-8e77-40bac4d02c39",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "qYg2nPdLpBYWM7-9leTq43SoqAc5nT90gFH-AHAMShY",
-          "short_id": "abb1"
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
         },
         "utls": {
           "enabled": true,
@@ -126,106 +105,128 @@
       "type": "vless"
     },
     {
-      "tag": "🇩🇪 Germany — #84",
-      "server": "195.133.198.233",
-      "server_port": 443,
-      "uuid": "54577990-005a-46a5-9047-9010a7f65bbf",
+      "tag": "[OpenRay] 🇸🇬 SG-906",
+      "server": "158.178.240.208",
+      "server_port": 20988,
+      "uuid": "00000000-0000-4000-8000-000000000000",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "try.astrafic.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "27Yic1_fgaubwVzyNTVjsHBkJkqt1jMvV8oC13ZYZTI",
-          "short_id": ""
+        "server_name": "57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org"
         },
+        "path": "/@Marisa_kristifp=chrome"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇬🇧 GB-1472",
+      "server": "57.129.130.211",
+      "server_port": 52014,
+      "uuid": "00000000-0000-4000-8000-000000000000",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ooa858iqkhza12.mesa.ip-ddns.com"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "ooa858iqkhza12.mesa.ip-ddns.com"
+        },
+        "path": "/@Marisa_kristifp=chrome"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇺🇸 US-15347",
+      "server": "154.26.189.70",
+      "server_port": 443,
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.skylee4.cloudns.ch",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.skylee4.cloudns.ch"
+        },
+        "path": "/proxyip=ProxyIP.CMLiussss.net"
+      },
+      "type": "vless"
     },
     {
-      "tag": "🇫🇮 Finland — #133",
-      "server": "185.141.227.186",
-      "server_port": 52006,
-      "uuid": "25f0e076-0324-4470-8327-8a5cf6df12e8",
+      "tag": "🇺🇸",
+      "server": "154.17.22.207",
+      "server_port": 443,
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM",
-          "short_id": "08"
-        },
+        "server_name": "sn1.skylee5.cloudns.ch",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sn1.skylee5.cloudns.ch"
+        },
+        "path": "/"
+      },
+      "type": "vless"
     },
     {
-      "tag": "🇩🇪 Germany — #83",
-      "server": "45.91.55.79",
+      "tag": "[OpenRay] 🇺🇸 US-15354",
+      "server": "154.17.23.98",
       "server_port": 443,
-      "uuid": "69a2af58-d74a-44ca-864a-e09b493f4274",
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "sun6-20.userapi.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "NeqzZ-mb_awh3RG7kQg094X0mWfSaudtSlmodTA_1BM",
-          "short_id": "edd304d1"
-        },
+        "server_name": "sni.skylee4.cloudns.ch",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany — #121",
-      "server": "158.160.57.73",
-      "server_port": 443,
-      "uuid": "7a53dea4-96d0-491f-a9d0-e6992511f9bb",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdp.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.skylee4.cloudns.ch"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "path": "/proxyip=ProxyIP.CMLiussss.net"
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇷🇺 Yandex — #64",
-      "server": "185.242.19.249",
-      "server_port": 443,
-      "uuid": "6ae3e972-b268-4795-8b27-fc57190ff1c1",
+      "tag": "[OpenRay] 🇸🇬 SG-890",
+      "server": "47.237.100.54",
+      "server_port": 59242,
+      "uuid": "00000000-0000-4000-8000-000000000000",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdnmws-4.fastcon.cc",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+        },
+        "path": "/@Marisa_kristifp=chrome"
       },
       "type": "vless"
     },
@@ -250,6 +251,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇩🇪 Germany — #104"
+    "final": "[OpenRay] 🇺🇸 US-15058"
   }
 }
