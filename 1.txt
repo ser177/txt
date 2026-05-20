@@ -1,1 +1,3 @@
+vless://b6216fe3-457c-462e-a6a9-79b45ad0962d@84.201.139.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-5-4.nodes.ac&pbk=ND4Vf4FQr4vB95yH5ZLJMc_A6Rr0XT-yjtEaqVoLQ2s&sid=43bc5597a94b541a#🇳🇱
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#[OpenRay]
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@vpnpro.eshghiabolfazl2009.workers.dev:80?encryption=none&type=ws&host=vpnpro.eshghiabolfazl2009.workers.dev&path=/?ed=2048&security=none#[OpenRay]
