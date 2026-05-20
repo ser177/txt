@@ -1,1 +1,1 @@
-vless://c53416a7-a602-4219-96a4-6307a62948e5@95.163.211.240:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺
+vless://955cf3f5-558b-4254-a7d8-a317ffa2c988@84.201.138.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=super.bestcats-video.online&pbk=HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM#🇷🇺
