@@ -23,72 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "37.18.15.75",
-      "server_port": 7443,
-      "uuid": "66edd7be-aeff-4cc1-ae68-1473cf963fec",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "amedia-vod.cdnvideo.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-          "short_id": "a1b2c3d4e5f6789a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "ios"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "212.233.99.180",
-      "server_port": 40443,
-      "uuid": "66edd7be-aeff-4cc1-ae68-1473cf963fec",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-          "short_id": "a1b2c3d4e5f6789a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "158.160.226.46",
-      "server_port": 40443,
-      "uuid": "66edd7be-aeff-4cc1-ae68-1473cf963fec",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-          "short_id": "a1b2c3d4e5f6789a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "type": "direct",
       "tag": "direct"
     }
@@ -109,6 +43,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "direct"
   }
 }
