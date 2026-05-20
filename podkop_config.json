@@ -23,23 +23,201 @@
   ],
   "outbounds": [
     {
-      "tag": "first-9lqzgmho",
-      "server": "45.9.74.223",
-      "server_port": 443,
-      "uuid": "cac544aa-7704-4813-98de-6308c768a280",
+      "tag": "🏳️ ShatakVPN 650540 t.me/rjsxrd",
+      "server": "104.17.72.206",
+      "server_port": 2053,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.amd.com",
+        "server_name": "sni.111000.indevs.in"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇺🇸 ShatakVPN 957895 t.me/rjsxrd",
+      "server": "92.53.190.138",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.indevs.in"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "Channel id: @ShadowProxy66 t.me/rjsxrd",
+      "server": "104.18.13.149",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.v6.navy"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.v6.navy"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 194140 t.me/rjsxrd",
+      "server": "213.241.198.138",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.indevs.in"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/?Telegram🇨🇳@WangCai2="
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 135510 t.me/rjsxrd",
+      "server": "45.80.111.7",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.indevs.in"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇩🇪 Germany — #165 t.me/rjsxrd",
+      "server": "84.201.152.247",
+      "server_port": 443,
+      "uuid": "cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "lk.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "K4_rQFIpywdugI7m47qMr9wuct7N2vzUz5yP1SR02w4",
-          "short_id": "b88fc1938e9265"
+          "public_key": "gs8bT5NMOtrvvHxmCi_siXbVY6WhQcBV4tEgFk4ohgA",
+          "short_id": "46ceaa0ac75f90dc"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "0499 | 🇲🇪 Черногория | WL | TGK: @kfwlrus t.me/rjsxrd",
+      "server": "190.93.245.138",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.indevs.in"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 558705 t.me/rjsxrd",
+      "server": "188.114.98.0",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.indevs.in"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "4Nika-8085 t.me/rjsxrd",
+      "server": "8.6.112.0",
+      "server_port": 2053,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.indevs.in",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        },
+        "path": "/"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🏳️ ShatakVPN 567282 t.me/rjsxrd",
+      "server": "5.10.247.43",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sni.111000.cc.cd"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.cc.cd"
+        },
+        "path": "/?https://t.me/wangcai2🇨🇳="
       },
       "type": "vless"
     },
@@ -64,6 +242,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "first-9lqzgmho"
+    "final": "🏳️ ShatakVPN 650540 t.me/rjsxrd"
   }
 }
