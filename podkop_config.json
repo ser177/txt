@@ -23,201 +23,23 @@
   ],
   "outbounds": [
     {
-      "tag": "[OpenRay] 🇺🇸 US-15607",
-      "server": "193.32.177.101",
+      "tag": "bolgarin-mrg0mbkj",
+      "server": "185.190.250.131",
       "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
+      "uuid": "c76f2c4d-240c-464b-ac72-c730aef3031a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "babayaga-6i7.pages.dev"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        },
-        "path": "/",
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15608",
-      "server": "104.207.128.18",
-      "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "babayaga-6i7.pages.dev"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        },
-        "path": "/",
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15653",
-      "server": "84.32.129.194",
-      "server_port": 8443,
-      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "3-85q.pages.dev",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "3-85q.pages.dev"
-        },
-        "path": "/"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15654",
-      "server": "193.187.181.11",
-      "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "babayaga-6i7.pages.dev"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        },
-        "path": "/",
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15655",
-      "server": "8.34.146.231",
-      "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "babayaga-6i7.pages.dev"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        },
-        "path": "/",
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15656",
-      "server": "66.81.247.231",
-      "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "babayaga-6i7.pages.dev"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        },
-        "path": "/",
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15658",
-      "server": "193.32.177.152",
-      "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "babayaga-6i7.pages.dev"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        },
-        "path": "/",
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15667",
-      "server": "207.57.128.27",
-      "server_port": 8081,
-      "uuid": "38114739-05e0-4c58-be61-7a501488569c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "aws.amazon.com",
+        "server_name": "www.icloud.com",
         "reality": {
           "enabled": true,
-          "public_key": "bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0",
-          "short_id": "a1b2c3d4"
+          "public_key": "ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs",
+          "short_id": "a47e847519007052"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15695",
-      "server": "77.74.228.30",
-      "server_port": 8880,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "vms.lifetime58.workers.dev"
-        },
-        "path": "/"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15698",
-      "server": "159.242.242.30",
-      "server_port": 8880,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "vms.lifetime58.workers.dev"
-        },
-        "path": "/"
       },
       "type": "vless"
     },
@@ -242,6 +64,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "[OpenRay] 🇺🇸 US-15607"
+    "final": "bolgarin-mrg0mbkj"
   }
 }
