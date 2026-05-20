@@ -1,1 +1,1 @@
-vless://33cd4eed-ea41-4a9b-b12e-78fcb1b95db8@91.243.86.228:443?type=grpc&headerType=none&security=reality&encryption=none&sni=hostoff.net&fp=safari&pbk=q3sMB7EjGa7fU5yyFVuMaaJ9gRDxNrMyyyeFh7yjJCA&sid=9ac9e73ec9c3d4d6&serviceName=xraygrpc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24393
+vless://c76f2c4d-240c-464b-ac72-c730aef3031a@185.190.250.131:443?type=tcp&encryption=none&security=reality&pbk=ECaqjhHnLEznOx4bbnv_usbUfxqoo6DqMWHygkubYSs&fp=chrome&sni=www.icloud.com&sid=a47e847519007052&spx=/#bolgarin-mrg0mbkj
