@@ -23,6 +23,28 @@
   ],
   "outbounds": [
     {
+      "tag": "🇩🇪",
+      "server": "51.250.17.121",
+      "server_port": 443,
+      "uuid": "2e384a4e-9313-46f7-a206-be671b5a3d97",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "FVsbzZH7QHlo19NpEBG83yyumg1m0c4edwyutxRQtkA",
+          "short_id": "5550cf255197247d"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "type": "direct",
       "tag": "direct"
     }
@@ -43,6 +65,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "direct"
+    "final": "🇩🇪"
   }
 }
