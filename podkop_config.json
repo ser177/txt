@@ -23,14 +23,56 @@
   ],
   "outbounds": [
     {
-      "tag": "[OpenRay] 🇺🇸 US-15058",
-      "server": "38.147.187.14",
+      "tag": "[OpenRay] 🇺🇸 US-15607",
+      "server": "193.32.177.101",
       "server_port": 443,
-      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "sn1.skylee5.cloudns.ch",
+        "server_name": "babayaga-6i7.pages.dev"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "babayaga-6i7.pages.dev"
+        },
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇺🇸 US-15608",
+      "server": "104.207.128.18",
+      "server_port": 443,
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "babayaga-6i7.pages.dev"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "babayaga-6i7.pages.dev"
+        },
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇺🇸 US-15653",
+      "server": "84.32.129.194",
+      "server_port": 8443,
+      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "3-85q.pages.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -39,194 +81,143 @@
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "sn1.skylee5.cloudns.ch"
+          "Host": "3-85q.pages.dev"
         },
         "path": "/"
       },
       "type": "vless"
     },
     {
-      "tag": "[OpenRay] 🇰🇷 KR-1529",
-      "server": "114.204.40.185",
-      "server_port": 30006,
-      "uuid": "00000000-0000-4000-8000-000000000000",
+      "tag": "[OpenRay] 🇺🇸 US-15654",
+      "server": "193.187.181.11",
+      "server_port": 443,
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+        "server_name": "babayaga-6i7.pages.dev"
       },
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+          "Host": "babayaga-6i7.pages.dev"
         },
-        "path": "/@Marisa_kristifp=chrome"
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
       },
       "type": "vless"
     },
     {
-      "tag": "[OpenRay] 🇯🇵 JP-2388",
-      "server": "142.248.151.249",
-      "server_port": 39085,
-      "uuid": "00000000-0000-4000-8000-000000000000",
+      "tag": "[OpenRay] 🇺🇸 US-15655",
+      "server": "8.34.146.231",
+      "server_port": 443,
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me"
+        "server_name": "babayaga-6i7.pages.dev"
       },
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me"
+          "Host": "babayaga-6i7.pages.dev"
         },
-        "path": "/@Marisa_kristifp=chrome"
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
       },
       "type": "vless"
     },
     {
-      "tag": "[OpenRay] 🇷🇺 RU-24332",
-      "server": "91.219.227.200",
-      "server_port": 7433,
-      "uuid": "011d3ac4-0879-4aeb-8e77-40bac4d02c39",
+      "tag": "[OpenRay] 🇺🇸 US-15656",
+      "server": "66.81.247.231",
+      "server_port": 443,
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "babayaga-6i7.pages.dev"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "babayaga-6i7.pages.dev"
+        },
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇺🇸 US-15658",
+      "server": "193.32.177.152",
+      "server_port": 443,
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "babayaga-6i7.pages.dev"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "babayaga-6i7.pages.dev"
+        },
+        "path": "/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[OpenRay] 🇺🇸 US-15667",
+      "server": "207.57.128.27",
+      "server_port": 8081,
+      "uuid": "38114739-05e0-4c58-be61-7a501488569c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "aws.amazon.com",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0",
+          "short_id": "a1b2c3d4"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[OpenRay] 🇸🇬 SG-906",
-      "server": "158.178.240.208",
-      "server_port": 20988,
-      "uuid": "00000000-0000-4000-8000-000000000000",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org"
-      },
+      "tag": "[OpenRay] 🇺🇸 US-15695",
+      "server": "77.74.228.30",
+      "server_port": 8880,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org"
-        },
-        "path": "/@Marisa_kristifp=chrome"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇬🇧 GB-1472",
-      "server": "57.129.130.211",
-      "server_port": 52014,
-      "uuid": "00000000-0000-4000-8000-000000000000",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ooa858iqkhza12.mesa.ip-ddns.com"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "ooa858iqkhza12.mesa.ip-ddns.com"
-        },
-        "path": "/@Marisa_kristifp=chrome"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇺🇸 US-15347",
-      "server": "154.26.189.70",
-      "server_port": 443,
-      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sni.skylee4.cloudns.ch",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "sni.skylee4.cloudns.ch"
-        },
-        "path": "/proxyip=ProxyIP.CMLiussss.net"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇺🇸",
-      "server": "154.17.22.207",
-      "server_port": 443,
-      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sn1.skylee5.cloudns.ch",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "sn1.skylee5.cloudns.ch"
+          "Host": "vms.lifetime58.workers.dev"
         },
         "path": "/"
       },
       "type": "vless"
     },
     {
-      "tag": "[OpenRay] 🇺🇸 US-15354",
-      "server": "154.17.23.98",
-      "server_port": 443,
-      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sni.skylee4.cloudns.ch",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
+      "tag": "[OpenRay] 🇺🇸 US-15698",
+      "server": "159.242.242.30",
+      "server_port": 8880,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "sni.skylee4.cloudns.ch"
+          "Host": "vms.lifetime58.workers.dev"
         },
-        "path": "/proxyip=ProxyIP.CMLiussss.net"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇸🇬 SG-890",
-      "server": "47.237.100.54",
-      "server_port": 59242,
-      "uuid": "00000000-0000-4000-8000-000000000000",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
-        },
-        "path": "/@Marisa_kristifp=chrome"
+        "path": "/"
       },
       "type": "vless"
     },
@@ -251,6 +242,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "[OpenRay] 🇺🇸 US-15058"
+    "final": "[OpenRay] 🇺🇸 US-15607"
   }
 }
