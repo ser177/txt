@@ -23,62 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇳🇱",
-      "server": "178.154.204.55",
-      "server_port": 443,
-      "uuid": "81503e5c-c5c9-4245-9668-217e8d3568e6",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-4-3.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY",
-          "short_id": "7171871f66279d10"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "84.201.152.75",
-      "server_port": 443,
-      "uuid": "81503e5c-c5c9-4245-9668-217e8d3568e6",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-5-5.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "BvBjeLm9nWiJn8JGxHO2cLVZ6gGtdxymb0AndLXIRzU",
-          "short_id": "74364cbaa37b403e"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇷🇺",
-      "server": "84.201.184.250",
-      "server_port": 20982,
-      "uuid": "ecf8c9e0-af50-4e11-a71a-d099861c714c",
+      "server": "84.201.138.207",
+      "server_port": 443,
+      "uuid": "5158d2ac-ca3f-413a-b5fb-dcae2017bcc4",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "super.bestcats-video.online",
         "reality": {
           "enabled": true,
-          "public_key": "krJtMOt6Bg8I7jv69sEkyHjDClI936SI5UMTJgAZaz4",
-          "short_id": "5a"
+          "public_key": "HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -89,45 +45,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇫🇮 Finland — #243",
-      "server": "193.33.133.186",
-      "server_port": 443,
-      "uuid": "6818bf2e-fa4c-4516-ba51-d9d0d3f05ada",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cnctrucks.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ",
-          "short_id": "8375b32501373f41"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇮 Finland — #250",
-      "server": "185.242.19.249",
-      "server_port": 443,
-      "uuid": "3051af35-7439-48a4-83bb-e6f9d835dece",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "top3529100291.mwscdn.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇫🇮 Finland — #251",
+      "tag": "🇫🇮 Finland — #252",
       "server": "185.251.90.100",
       "server_port": 443,
       "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
@@ -152,6 +70,50 @@
       "type": "vless"
     },
     {
+      "tag": "🇫🇮 Finland — #255",
+      "server": "62.152.56.196",
+      "server_port": 443,
+      "uuid": "cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "loadtest.dev.urent.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q",
+          "short_id": "689def22fcb54e86"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇮 Finland — #256",
+      "server": "62.152.60.54",
+      "server_port": 443,
+      "uuid": "d9db89a8-5175-47f1-81e8-dc50651e7f22",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo",
+          "short_id": "6ba85179e30d4fc2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "type": "direct",
       "tag": "direct"
     }
@@ -172,6 +134,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇳🇱"
+    "final": "🇷🇺"
   }
 }
