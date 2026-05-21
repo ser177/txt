@@ -23,50 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🇫🇮",
-      "server": "62.152.60.54",
-      "server_port": 443,
-      "uuid": "5f1f1a26-053b-48b6-ba9b-e2023897dbd1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo",
-          "short_id": "6ba85179e30d4fc2"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "193.168.46.180",
-      "server_port": 443,
-      "uuid": "13156818-cdc4-49b0-b3b8-2863b8d67ca5",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "rruu.persik.host",
-        "reality": {
-          "enabled": true,
-          "public_key": "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY",
-          "short_id": "c1a7e9b4711d5f60"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇫🇮 Finland — #261",
       "server": "94.131.121.70",
       "server_port": 443,
@@ -108,6 +64,28 @@
       "type": "vless"
     },
     {
+      "tag": "🇫🇮 Finland — #271",
+      "server": "62.152.60.54",
+      "server_port": 443,
+      "uuid": "5f1f1a26-053b-48b6-ba9b-e2023897dbd1",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo",
+          "short_id": "6ba85179e30d4fc2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "type": "direct",
       "tag": "direct"
     }
@@ -128,6 +106,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇫🇮"
+    "final": "🇫🇮 Finland — #261"
   }
 }
