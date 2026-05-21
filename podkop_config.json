@@ -67,6 +67,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇩🇪",
+      "server": "46.8.209.137",
+      "server_port": 2443,
+      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "YnT2UJbXooiJNwq0YAILlBNubfEIT4hz560q5r3nHSg",
+          "short_id": "ad844ecf706b8302"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "type": "direct",
       "tag": "direct"
     }
