@@ -24,17 +24,17 @@
   "outbounds": [
     {
       "tag": "🇳🇱",
-      "server": "158.160.233.50",
+      "server": "51.250.71.2",
       "server_port": 443,
-      "uuid": "2c5cf5a7-cb8a-4eba-a94f-781fa8f33952",
+      "uuid": "9341037b-aff7-4f4b-8efc-ce93332680fb",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-3-3.nodes.ac",
+        "server_name": "wl-6-1.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8",
-          "short_id": "d8d3d1d87555e842"
+          "public_key": "uofZM1SG_RthhSONWy50U6cQ5m3kXy-sglwY0CANfi8",
+          "short_id": "468d8ab371f8f563"
         },
         "utls": {
           "enabled": true,
@@ -46,16 +46,38 @@
     },
     {
       "tag": "🇷🇺",
-      "server": "81.163.22.17",
-      "server_port": 443,
-      "uuid": "b1cce6d6-2692-0064-84b8-6c881849db1a",
+      "server": "87.228.101.202",
+      "server_port": 3443,
+      "uuid": "945e3e7c-50c2-4559-bfc8-527bbb5a0edd",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "bucket-ru-1.extravpn.io",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "1KWR1P113nLmZyossZtQu2KXtIzGR0Y4YLTuKLMQ0B0",
+          "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
+          "short_id": "e67fb918ed6b9ffb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "85.193.82.106",
+      "server_port": 443,
+      "uuid": "7f3921d9-196c-4116-954f-228bc2e62449",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yt-tv.xtrustnet.sbs",
+        "reality": {
+          "enabled": true,
+          "public_key": "1RNnG4-kCSRCQMqi4hzkcC4-hNT3b6gUelFPi7bNx3o",
           "short_id": ""
         },
         "utls": {
