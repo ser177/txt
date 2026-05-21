@@ -23,65 +23,99 @@
   ],
   "outbounds": [
     {
-      "tag": "🇩🇪 Germany — #216",
-      "server": "89.208.85.199",
-      "server_port": 443,
-      "uuid": "30e4dcf1-748b-4b99-8879-742f38b5ad95",
+      "tag": "🇷🇺",
+      "server": "84.201.167.159",
+      "server_port": 48016,
+      "uuid": "e44eab31-40fe-e058-b787-869cab9a87a4",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "xiBnF5t8koXllU1GwzSRmU0Vcbs21DEHCg399WUg1EM",
-          "short_id": "fd8ab74160501169"
+          "public_key": "NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk",
+          "short_id": "35a84908e9cfa95c"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇪🇪 Estonia — #222",
-      "server": "178.250.243.120",
+      "tag": "🇫🇮 Finland — #283",
+      "server": "46.8.209.209",
       "server_port": 443,
-      "uuid": "4ca66efe-f604-4708-a79b-82f7c9904852",
+      "uuid": "4b2d44ef-e48e-099d-af80-6f40064a82b1",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "zXatTBuxnTIcxQJl2R5loLAtoHmFtloH1vLVAJgA_Ds",
-          "short_id": "25b19ab8cfd78fe5"
+          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
+          "short_id": "c1a7e9b4382d5f60"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇫🇮 Finland — #284",
+      "server": "94.131.121.68",
+      "server_port": 443,
+      "uuid": "4b2d44ef-e48e-099d-af80-6f40064a82b1",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
+          "short_id": "c1a7e9b4382d5f60"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇫🇷 France — #285",
+      "server": "185.22.234.125",
+      "server_port": 15443,
+      "uuid": "b7bd974a-7618-4b4e-b418-d5f2960e4db5",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "CDEO-velfo52lx4LFKoU-2UWqzF4RrH-SJoY-zudtUs",
+          "short_id": "e91339df"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
-    },
-    {
-      "tag": "🇪🇪 Estonia — #223",
-      "server": "185.242.19.250",
-      "server_port": 443,
-      "uuid": "39e6589b-910a-4ea5-8899-7a0bc8e226a6",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "top2197697635.mwscdn.ru",
-        "alpn": [
-          "h2",
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+      "transport": {
+        "type": "grpc",
+        "service_name": "yandex.ru"
       },
       "type": "vless"
     },
@@ -106,6 +140,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇩🇪 Germany — #216"
+    "final": "🇷🇺"
   }
 }
