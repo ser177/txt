@@ -24,17 +24,17 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
-      "server": "84.201.184.250",
-      "server_port": 20982,
-      "uuid": "52c4e320-5783-4199-9b1b-dfb3f8bd6553",
+      "server": "158.160.212.219",
+      "server_port": 17444,
+      "uuid": "49f3fec2-1a21-481e-ae65-7c32ae262582",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "krJtMOt6Bg8I7jv69sEkyHjDClI936SI5UMTJgAZaz4",
-          "short_id": "5a"
+          "public_key": "M37tHE0Kumacb4SUnU3PtzmcvrclLOHrWdPK3Zz1szc",
+          "short_id": "378086fbdb7c61cd"
         },
         "utls": {
           "enabled": true,
