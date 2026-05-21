@@ -23,59 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇫🇮 Finland — #261",
-      "server": "94.131.121.70",
+      "tag": "🇷🇺",
+      "server": "81.163.22.17",
       "server_port": 443,
-      "uuid": "dac8b391-b11f-099d-9ef8-ca52316c6e8e",
+      "uuid": "8d319249-e119-4263-bb37-6b641fc99913",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "bucket-ru-1.extravpn.io",
         "reality": {
           "enabled": true,
-          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
-          "short_id": "c1a7e9b4382d5f60"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇫🇮 Finland — #270",
-      "server": "185.242.19.249",
-      "server_port": 443,
-      "uuid": "5f1f1a26-053b-48b6-ba9b-e2023897dbd1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "top3529100291.mwscdn.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇫🇮 Finland — #271",
-      "server": "62.152.60.54",
-      "server_port": 443,
-      "uuid": "5f1f1a26-053b-48b6-ba9b-e2023897dbd1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo",
-          "short_id": "6ba85179e30d4fc2"
+          "public_key": "1KWR1P113nLmZyossZtQu2KXtIzGR0Y4YLTuKLMQ0B0",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
@@ -84,6 +43,103 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "193.168.46.180",
+      "server_port": 443,
+      "uuid": "5026b274-7005-4c93-b078-625bf0796294",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "rruu.persik.host",
+        "reality": {
+          "enabled": true,
+          "public_key": "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY",
+          "short_id": "c1a7e9b4711d5f60"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺 cloud.ru — #31",
+      "server": "37.9.4.237",
+      "server_port": 443,
+      "uuid": "8d319249-e119-0064-bb37-6b641fc99913",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "bucket-ru-3.extravpn.io",
+        "reality": {
+          "enabled": true,
+          "public_key": "tv8VCP2i9WGt3tEaCbdo93NVHwl6Evd1aB6OpnG3ZDs",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "bucket-ru-3.extravpn.io"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 cloud.ru — #32",
+      "server": "185.91.52.231",
+      "server_port": 443,
+      "uuid": "8d319249-e119-4263-bb37-6b641fc99913",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "bucket-ru-6.extravpn.io",
+        "reality": {
+          "enabled": true,
+          "public_key": "qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "bucket-ru-6.extravpn.io"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 cloud.ru — #33",
+      "server": "5.178.85.238",
+      "server_port": 443,
+      "uuid": "8d319249-e119-4263-bb37-6b641fc99913",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "bucket-ru-2.extravpn.io",
+        "reality": {
+          "enabled": true,
+          "public_key": "sOx7AkBNtLuAdWCzqYPxjOErfqI5CeDzbJleGJqp8WU",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "bucket-ru-2.extravpn.io"
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
@@ -106,6 +162,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇫🇮 Finland — #261"
+    "final": "🇷🇺"
   }
 }
