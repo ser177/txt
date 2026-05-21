@@ -23,7 +23,29 @@
   ],
   "outbounds": [
     {
-      "tag": "[OpenRay]",
+      "tag": "🇷🇺",
+      "server": "84.201.184.250",
+      "server_port": 20982,
+      "uuid": "52c4e320-5783-4199-9b1b-dfb3f8bd6553",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "krJtMOt6Bg8I7jv69sEkyHjDClI936SI5UMTJgAZaz4",
+          "short_id": "5a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
       "server": "85.193.82.106",
       "server_port": 443,
       "uuid": "7f3921d9-196c-4116-954f-228bc2e62449",
@@ -35,28 +57,6 @@
           "enabled": true,
           "public_key": "1RNnG4-kCSRCQMqi4hzkcC4-hNT3b6gUelFPi7bNx3o",
           "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇷",
-      "server": "185.22.234.125",
-      "server_port": 41934,
-      "uuid": "5162efbb-f793-4e15-892f-9625f5004dff",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "CDEO-velfo52lx4LFKoU-2UWqzF4RrH-SJoY-zudtUs",
-          "short_id": "7cd6133a0e"
         },
         "utls": {
           "enabled": true,
@@ -87,6 +87,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "[OpenRay]"
+    "final": "🇷🇺"
   }
 }
