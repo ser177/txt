@@ -23,28 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "84.201.138.207",
-      "server_port": 443,
-      "uuid": "5158d2ac-ca3f-413a-b5fb-dcae2017bcc4",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "super.bestcats-video.online",
-        "reality": {
-          "enabled": true,
-          "public_key": "HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇫🇮 Finland — #252",
       "server": "185.251.90.100",
       "server_port": 443,
@@ -134,6 +112,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇫🇮 Finland — #252"
   }
 }
