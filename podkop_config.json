@@ -23,18 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇫🇷 France — #237",
-      "server": "217.16.29.23",
+      "tag": "🇱🇹 Lithuania — #309",
+      "server": "5.178.85.225",
       "server_port": 443,
-      "uuid": "1ca9c6a5-3849-4c66-9950-30a643df940e",
+      "uuid": "a362b380-ed85-446a-a152-e9050cd75685",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY",
-          "short_id": "aaaa"
+          "public_key": "ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw",
+          "short_id": "7a1197aa"
         },
         "utls": {
           "enabled": true,
@@ -43,50 +43,57 @@
       },
       "transport": {
         "type": "grpc",
-        "service_name": "5post-gate.x5.ru"
+        "service_name": ""
       },
       "type": "vless"
     },
     {
-      "tag": "🇫🇷 France — #238",
-      "server": "185.91.54.184",
-      "server_port": 8443,
-      "uuid": "021db242-45e1-461d-81e8-48427b908320",
+      "tag": "🇱🇹 Lithuania — #310",
+      "server": "84.201.165.188",
+      "server_port": 443,
+      "uuid": "a362b380-ed85-446a-a152-e9050cd75685",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "lk.x5.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "YlcCHLR4xkxbiCoy653NHSAZzt-JPRyfUwVyLYsnK2A",
-          "short_id": "3bb64ae215538b59"
+          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
+          "short_id": "bd3cda1117aa"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      },
+      "type": "vless"
     },
     {
-      "tag": "🇫🇷 France — #239",
-      "server": "84.201.177.246",
-      "server_port": 3000,
-      "uuid": "85b25606-ef64-4a57-933d-6101fb0e4b6c",
+      "tag": "🇱🇹 Lithuania — #312",
+      "server": "51.250.26.148",
+      "server_port": 443,
+      "uuid": "a362b380-ed85-446a-a152-e9050cd75685",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "eda.yandex.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI",
-          "short_id": "75f67f6360c74009"
+          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
+          "short_id": "bd3cda1117aa"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
       },
       "type": "vless"
     },
@@ -111,6 +118,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇫🇷 France — #237"
+    "final": "🇱🇹 Lithuania — #309"
   }
 }
