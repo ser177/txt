@@ -23,18 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "87.228.101.202",
-      "server_port": 3443,
-      "uuid": "7a120622-3850-49a6-a68e-b081883768ec",
+      "tag": "🇳🇱",
+      "server": "130.193.56.208",
+      "server_port": 443,
+      "uuid": "547cf17d-4e5c-4c73-acac-0246ea45f176",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "wl-11-2.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
-          "short_id": "844352756c1fabba"
+          "public_key": "UfrA4c5fjRVKJTtAiDOd9lEdmkgfZBSTm9bSMzC4zCg",
+          "short_id": "c792be29a38dbefe"
         },
         "utls": {
           "enabled": true,
@@ -45,14 +45,14 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇫🇮 Finland — #255",
+      "tag": "🇫🇮 Finland — #262",
       "server": "193.33.133.186",
       "server_port": 443,
-      "uuid": "9d02d24c-f001-4d53-a2c8-f38950d2cecd",
+      "uuid": "5e4d2177-a376-4c6c-b3bd-2ec1f433267d",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cnctrucks.ru",
+        "server_name": "mail.skm62.ru",
         "reality": {
           "enabled": true,
           "public_key": "9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ",
@@ -67,10 +67,10 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇫🇮 Finland — #261",
-      "server": "94.131.121.70",
+      "tag": "🇫🇮 Finland — #267",
+      "server": "46.8.209.209",
       "server_port": 443,
-      "uuid": "17da127a-2db7-099d-92c2-3895bb179c19",
+      "uuid": "ad7e8dda-43e3-099d-9963-1c3338bb638c",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -92,26 +92,29 @@
       "type": "vless"
     },
     {
-      "tag": "🇫🇮 Finland — #270",
-      "server": "62.152.60.52",
+      "tag": "🇫🇮 Finland — #268",
+      "server": "94.131.121.68",
       "server_port": 443,
-      "uuid": "3187b8f7-98ac-4ab6-9597-4b45d7d4bab6",
+      "uuid": "ad7e8dda-43e3-099d-9963-1c3338bb638c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "x5.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo",
-          "short_id": "6ba85179e30d4fc2"
+          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
+          "short_id": "c1a7e9b4382d5f60"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "type": "vless"
     },
     {
       "type": "direct",
@@ -134,6 +137,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇳🇱"
   }
 }
