@@ -1,3 +1,2 @@
-vless://49f3fec2-1a21-481e-ae65-7c32ae262582@158.160.212.219:17444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=M37tHE0Kumacb4SUnU3PtzmcvrclLOHrWdPK3Zz1szc&sid=378086fbdb7c61cd#🇷🇺
-vless://7f3921d9-196c-4116-954f-228bc2e62449@85.193.82.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=yt-tv.xtrustnet.sbs&pbk=1RNnG4-kCSRCQMqi4hzkcC4-hNT3b6gUelFPi7bNx3o#🇷🇺
-vless://98b38327-bc9d-4b32-8b23-af9c3719b2db@46.8.209.137:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=YnT2UJbXooiJNwq0YAILlBNubfEIT4hz560q5r3nHSg&sid=ad844ecf706b8302#🇩🇪
+vless://2c5cf5a7-cb8a-4eba-a94f-781fa8f33952@158.160.233.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-3.nodes.ac&pbk=m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8&sid=d8d3d1d87555e842#🇳🇱
+vless://b1cce6d6-2692-0064-84b8-6c881849db1a@81.163.22.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=bucket-ru-1.extravpn.io&pbk=1KWR1P113nLmZyossZtQu2KXtIzGR0Y4YLTuKLMQ0B0#🇷🇺
