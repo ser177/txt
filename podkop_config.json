@@ -23,43 +23,122 @@
   ],
   "outbounds": [
     {
-      "tag": "🇱🇹 Lithuania — #309",
-      "server": "5.178.85.225",
+      "tag": "🇳🇱",
+      "server": "178.154.204.55",
       "server_port": 443,
-      "uuid": "a362b380-ed85-446a-a152-e9050cd75685",
+      "uuid": "81503e5c-c5c9-4245-9668-217e8d3568e6",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "wl-4-3.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw",
-          "short_id": "7a1197aa"
+          "public_key": "ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY",
+          "short_id": "7171871f66279d10"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱",
+      "server": "84.201.152.75",
+      "server_port": 443,
+      "uuid": "81503e5c-c5c9-4245-9668-217e8d3568e6",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-5-5.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "BvBjeLm9nWiJn8JGxHO2cLVZ6gGtdxymb0AndLXIRzU",
+          "short_id": "74364cbaa37b403e"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "84.201.184.250",
+      "server_port": 20982,
+      "uuid": "ecf8c9e0-af50-4e11-a71a-d099861c714c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "krJtMOt6Bg8I7jv69sEkyHjDClI936SI5UMTJgAZaz4",
+          "short_id": "5a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇮 Finland — #243",
+      "server": "193.33.133.186",
+      "server_port": 443,
+      "uuid": "6818bf2e-fa4c-4516-ba51-d9d0d3f05ada",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cnctrucks.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ",
+          "short_id": "8375b32501373f41"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇮 Finland — #250",
+      "server": "185.242.19.249",
+      "server_port": 443,
+      "uuid": "3051af35-7439-48a4-83bb-e6f9d835dece",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "top3529100291.mwscdn.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless"
     },
     {
-      "tag": "🇱🇹 Lithuania — #310",
-      "server": "84.201.165.188",
+      "tag": "🇫🇮 Finland — #251",
+      "server": "185.251.90.100",
       "server_port": 443,
-      "uuid": "a362b380-ed85-446a-a152-e9050cd75685",
+      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "france.spectrum.vu",
         "reality": {
           "enabled": true,
-          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
-          "short_id": "bd3cda1117aa"
+          "public_key": "ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA",
+          "short_id": "a1c1d7e2f9b3"
         },
         "utls": {
           "enabled": true,
@@ -68,32 +147,7 @@
       },
       "transport": {
         "type": "grpc",
-        "service_name": ""
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇱🇹 Lithuania — #312",
-      "server": "51.250.26.148",
-      "server_port": 443,
-      "uuid": "a362b380-ed85-446a-a152-e9050cd75685",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
-          "short_id": "bd3cda1117aa"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
+        "service_name": "vless"
       },
       "type": "vless"
     },
@@ -118,6 +172,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇱🇹 Lithuania — #309"
+    "final": "🇳🇱"
   }
 }
