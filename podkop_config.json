@@ -23,90 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "84.201.167.159",
-      "server_port": 48016,
-      "uuid": "e44eab31-40fe-e058-b787-869cab9a87a4",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk",
-          "short_id": "35a84908e9cfa95c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇮 Finland — #283",
-      "server": "46.8.209.209",
+      "tag": "🇫🇷 France — #237",
+      "server": "217.16.29.23",
       "server_port": 443,
-      "uuid": "4b2d44ef-e48e-099d-af80-6f40064a82b1",
+      "uuid": "1ca9c6a5-3849-4c66-9950-30a643df940e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "5post-gate.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
-          "short_id": "c1a7e9b4382d5f60"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇫🇮 Finland — #284",
-      "server": "94.131.121.68",
-      "server_port": 443,
-      "uuid": "4b2d44ef-e48e-099d-af80-6f40064a82b1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
-          "short_id": "c1a7e9b4382d5f60"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇫🇷 France — #285",
-      "server": "185.22.234.125",
-      "server_port": 15443,
-      "uuid": "b7bd974a-7618-4b4e-b418-d5f2960e4db5",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "CDEO-velfo52lx4LFKoU-2UWqzF4RrH-SJoY-zudtUs",
-          "short_id": "e91339df"
+          "public_key": "MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY",
+          "short_id": "aaaa"
         },
         "utls": {
           "enabled": true,
@@ -115,7 +43,50 @@
       },
       "transport": {
         "type": "grpc",
-        "service_name": "yandex.ru"
+        "service_name": "5post-gate.x5.ru"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇫🇷 France — #238",
+      "server": "185.91.54.184",
+      "server_port": 8443,
+      "uuid": "021db242-45e1-461d-81e8-48427b908320",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "lk.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "YlcCHLR4xkxbiCoy653NHSAZzt-JPRyfUwVyLYsnK2A",
+          "short_id": "3bb64ae215538b59"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇷 France — #239",
+      "server": "84.201.177.246",
+      "server_port": 3000,
+      "uuid": "85b25606-ef64-4a57-933d-6101fb0e4b6c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eda.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI",
+          "short_id": "75f67f6360c74009"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless"
     },
@@ -140,6 +111,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇫🇷 France — #237"
   }
 }
