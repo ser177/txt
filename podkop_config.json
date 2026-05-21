@@ -23,76 +23,10 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "85.193.82.106",
-      "server_port": 443,
-      "uuid": "7f3921d9-196c-4116-954f-228bc2e62449",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yt-tv.xtrustnet.sbs",
-        "reality": {
-          "enabled": true,
-          "public_key": "1RNnG4-kCSRCQMqi4hzkcC4-hNT3b6gUelFPi7bNx3o",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "84.201.138.207",
-      "server_port": 443,
-      "uuid": "56116b72-c4ba-43bd-aa96-eadb73754765",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "super.bestcats-video.online",
-        "reality": {
-          "enabled": true,
-          "public_key": "HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇷 France — #274",
-      "server": "185.103.100.102",
-      "server_port": 443,
-      "uuid": "cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdp.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk",
-          "short_id": "0fb689ad101948ba"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇷 France — #275",
+      "tag": "🇫🇷",
       "server": "185.14.46.108",
       "server_port": 443,
-      "uuid": "4510cc76-44d0-495e-8850-aa6b72dfb000",
+      "uuid": "28b67eb1-71b2-4a8d-9365-ed9e9581f34f",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -111,22 +45,66 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇫🇷 France — #284",
-      "server": "81.163.23.159",
+      "tag": "🇳🇱 The Netherlands — #248",
+      "server": "84.201.168.220",
       "server_port": 443,
-      "uuid": "79824d41-8597-43ad-87fd-76a94c7af4de",
+      "uuid": "fa87d44c-b704-4fbf-a690-ae70bd32d187",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "api-maps.yandex.ru",
+        "server_name": "cdp.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk",
-          "short_id": "a9c4f17e3b62d8"
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #249",
+      "server": "158.160.130.173",
+      "server_port": 443,
+      "uuid": "fa87d44c-b704-4fbf-a690-ae70bd32d187",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdp.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #250",
+      "server": "84.201.136.5",
+      "server_port": 443,
+      "uuid": "fa87d44c-b704-4fbf-a690-ae70bd32d187",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdp.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -153,6 +131,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇫🇷"
   }
 }
