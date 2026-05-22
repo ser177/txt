@@ -24,28 +24,6 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
-      "server": "193.168.46.180",
-      "server_port": 443,
-      "uuid": "101027af-fdb3-4822-b866-62dcdb6085bd",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "rruu.persik.host",
-        "reality": {
-          "enabled": true,
-          "public_key": "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY",
-          "short_id": "c1a7e9b4711d5f60"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
       "server": "91.219.227.203",
       "server_port": 80,
       "uuid": "700f7f40-3bbb-4f37-9872-d643e378279b",
@@ -66,87 +44,69 @@
       "type": "vless"
     },
     {
-      "tag": "🇷🇺",
-      "server": "95.163.211.237",
-      "server_port": 80,
-      "uuid": "700f7f40-3bbb-4f37-9872-d643e378279b",
+      "tag": "🇫🇷 France — #316",
+      "server": "217.16.29.23",
+      "server_port": 443,
+      "uuid": "1ca9c6a5-3849-4c66-9950-30a643df940e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "eh.vk.com",
+        "server_name": "5post-gate.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY",
+          "short_id": "aaaa"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "5post-gate.x5.ru"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇫🇷 France — #317",
+      "server": "185.14.46.108",
+      "server_port": 443,
+      "uuid": "69c3d453-f6c5-4dc7-a6f0-001ef56807d8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
+          "short_id": "6cc5290e6f0b47c3"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
         }
       },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪 Germany — #331",
-      "server": "46.254.18.60",
-      "server_port": 443,
-      "uuid": "48e9d7c8-3970-44b3-82ba-4f5b189f2d2e",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "psPc6zXUaNtPfs7UyLlFAwetXhthMMmKvPmmZaUSlzs",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany — #332",
-      "server": "5.178.85.132",
+      "tag": "🇫🇷 France — #318",
+      "server": "92.255.58.63",
       "server_port": 443,
-      "uuid": "48e9d7c8-3970-44b3-82ba-4f5b189f2d2e",
+      "uuid": "69c3d453-f6c5-4dc7-a6f0-001ef56807d8",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yandex.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8",
-          "short_id": ""
+          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
+          "short_id": "6cc5290e6f0b47c3"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany — #333",
-      "server": "89.208.210.216",
-      "server_port": 443,
-      "uuid": "48e9d7c8-3970-44b3-82ba-4f5b189f2d2e",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
