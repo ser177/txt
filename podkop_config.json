@@ -24,9 +24,31 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
+      "server": "81.163.22.17",
+      "server_port": 443,
+      "uuid": "b1fcced6-b489-495b-876c-3acd415e2143",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "bucket-ru-1.extravpn.io",
+        "reality": {
+          "enabled": true,
+          "public_key": "1KWR1P113nLmZyossZtQu2KXtIzGR0Y4YLTuKLMQ0B0",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
       "server": "87.228.101.202",
       "server_port": 3443,
-      "uuid": "0e275b07-6076-47d0-9ef7-431520834a2b",
+      "uuid": "2def1df5-f44f-482f-a476-9f593c866061",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -34,7 +56,7 @@
         "reality": {
           "enabled": true,
           "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
-          "short_id": "e67fb918ed6b9ffb"
+          "short_id": "844352756c1fabba"
         },
         "utls": {
           "enabled": true,
@@ -45,64 +67,62 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #313",
-      "server": "194.156.101.115",
+      "tag": "🇬🇧 United Kingdom — #308",
+      "server": "185.22.235.222",
       "server_port": 443,
-      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
+      "uuid": "6fc2f1de-8be8-452c-80ec-2a37e5c271a9",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "0w7ymj.spectrum.vu",
+        "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0",
-          "short_id": "7890abcdef01"
+          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+          "short_id": "428ef87fd47a3a32"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #323",
+      "server": "195.133.198.250",
+      "server_port": 443,
+      "uuid": "81503e5c-c5c9-4245-9668-217e8d3568e6",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-9.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "RqwTrqAcMhEI7vBMQOLPTfT9H5XMJaKbhg5670qD_m0",
+          "short_id": "f96fad40f7bdb3a4"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "grpc",
-        "service_name": "vless"
-      },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #315",
-      "server": "194.55.239.138",
-      "server_port": 12443,
-      "uuid": "71f5d9a1-44eb-465a-868b-f12ec880b1a1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "rkWORQhS2SUUiGxpMCn9Z0QrV9aSzIRaxkjQZgm_vBM",
-          "short_id": "25b19ab8cfd78fe5"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #318",
-      "server": "84.201.144.113",
+      "tag": "🇳🇱 The Netherlands — #324",
+      "server": "185.221.199.37",
       "server_port": 443,
-      "uuid": "ede572ae-25a6-48de-b6d9-81aca32f018d",
+      "uuid": "37253a6a-2a9b-42bb-992c-b5f1b1ef1791",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdp.x5.ru",
+        "server_name": "vruaz.mostserv.xyz",
         "reality": {
           "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
+          "public_key": "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI",
+          "short_id": "226509f017e4c36d"
         },
         "utls": {
           "enabled": true,
