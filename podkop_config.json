@@ -24,82 +24,17 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
-      "server": "62.152.56.211",
-      "server_port": 443,
-      "uuid": "2c5b9024-fea7-43b8-8ec4-a168513fef22",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-12.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg",
-          "short_id": "cf43c0c197cd464a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇸🇪",
-      "server": "194.55.239.236",
-      "server_port": 9443,
-      "uuid": "403e73b9-ed40-4df5-94be-d2e569b85909",
+      "server": "87.228.101.202",
+      "server_port": 3443,
+      "uuid": "0e275b07-6076-47d0-9ef7-431520834a2b",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic",
-          "short_id": "abbcd128"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "95.163.211.240",
-      "server_port": 80,
-      "uuid": "9d74f420-b096-4c95-9014-8a663a002df8",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #319",
-      "server": "84.201.140.177",
-      "server_port": 443,
-      "uuid": "c8f6db15-d3e0-4bdc-89d9-8919656962ff",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Mg3Mb8ytziQ0Er2DUGxFCxXz8OwxSyiVncjFmMNzdSo",
-          "short_id": "f9b6823bf4858816"
+          "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
+          "short_id": "e67fb918ed6b9ffb"
         },
         "utls": {
           "enabled": true,
@@ -110,7 +45,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #321",
+      "tag": "🇳🇱 The Netherlands — #313",
       "server": "194.156.101.115",
       "server_port": 443,
       "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
@@ -135,18 +70,39 @@
       "type": "vless"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #322",
-      "server": "84.201.132.188",
-      "server_port": 443,
-      "uuid": "95c06771-2946-488c-81a4-52a34b53d991",
+      "tag": "🇳🇱 The Netherlands — #315",
+      "server": "194.55.239.138",
+      "server_port": 12443,
+      "uuid": "71f5d9a1-44eb-465a-868b-f12ec880b1a1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "io.ozone.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "TBI7B2sHbG98NrozDc_uGyDaprOzktHkkG8TJibZw2U",
-          "short_id": "f85e"
+          "public_key": "rkWORQhS2SUUiGxpMCn9Z0QrV9aSzIRaxkjQZgm_vBM",
+          "short_id": "25b19ab8cfd78fe5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #318",
+      "server": "84.201.144.113",
+      "server_port": 443,
+      "uuid": "ede572ae-25a6-48de-b6d9-81aca32f018d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdp.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         },
         "utls": {
           "enabled": true,
