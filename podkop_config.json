@@ -23,139 +23,73 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "193.168.46.180",
+      "tag": "🇫🇮 Finland — #267",
+      "server": "46.8.209.209",
       "server_port": 443,
-      "uuid": "101027af-fdb3-4822-b866-62dcdb6085bd",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "rruu.persik.host",
-        "reality": {
-          "enabled": true,
-          "public_key": "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY",
-          "short_id": "c1a7e9b4711d5f60"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇷",
-      "server": "92.255.58.63",
-      "server_port": 443,
-      "uuid": "76f41d87-e7b7-4e38-959f-92a1f594deeb",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
-          "short_id": "6cc5290e6f0b47c3"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "84.201.162.110",
-      "server_port": 3443,
-      "uuid": "77b2d2f9-9aa4-4685-a400-4c555c2b9feb",
+      "uuid": "1787db48-73b2-099d-8b48-90d6f69176f3",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
-          "short_id": "e67fb918ed6b9ffb"
+          "public_key": "0gKl7TLTz-1qjLfuisoEwgkQ8SwfxlBeNWQ3SgLPiCg",
+          "short_id": "c1a7e9b4382d5f60"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany — #279",
-      "server": "217.149.30.103",
-      "server_port": 8446,
-      "uuid": "0bb4c6ea-ae6d-425b-bd44-9e13a05bc68f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "jobinvest.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇩🇪 Germany — #281",
-      "server": "62.84.121.99",
+      "tag": "🇫🇮 Finland — #273",
+      "server": "62.152.60.52",
       "server_port": 443,
-      "uuid": "0bb4c6ea-ae6d-425b-bd44-9e13a05bc68f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "5post-gate.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪 Germany — #284",
-      "server": "185.91.54.29",
-      "server_port": 443,
-      "uuid": "e851fae6-a968-4620-998d-e373218ed8cd",
+      "uuid": "98b59e8a-7e98-4882-acaf-b25d1a89e280",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Tviv3DoaYL2SKakgGBC5k8m76O1FLqcTgsEsTSDY_38",
-          "short_id": "f4e2b8971d5c3a9f"
+          "public_key": "dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo",
+          "short_id": "6ba85179e30d4fc2"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc-de-bridge"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇫🇮 Finland — #274",
+      "server": "158.160.221.93",
+      "server_port": 2450,
+      "uuid": "0b76cbb3-3b25-49e3-b607-80e5a5dfd995",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "payment-widget.plus.kinopoisk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA",
+          "short_id": "7b374423e3f0f5fb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
@@ -178,6 +112,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇫🇮 Finland — #267"
   }
 }
