@@ -26,7 +26,7 @@
       "tag": "🇷🇺",
       "server": "193.168.46.180",
       "server_port": 443,
-      "uuid": "14bd2889-2dc3-4f9f-b259-6ce2efdc0f53",
+      "uuid": "0c442d85-b58a-4631-8e98-886f79c2f33e",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -45,18 +45,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱",
-      "server": "158.160.240.83",
-      "server_port": 443,
-      "uuid": "c533eca8-f04a-489a-a3ea-067503c4ad2a",
+      "tag": "🇷🇺",
+      "server": "87.228.101.202",
+      "server_port": 3443,
+      "uuid": "d4a13079-e6dd-4545-9cd7-a526088aa390",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-3-4.nodes.ac",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M",
-          "short_id": "479898e66f5e7beb"
+          "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
+          "short_id": "e67fb918ed6b9ffb"
         },
         "utls": {
           "enabled": true,
@@ -70,7 +70,7 @@
       "tag": "🇳🇱",
       "server": "37.9.4.224",
       "server_port": 443,
-      "uuid": "c533eca8-f04a-489a-a3ea-067503c4ad2a",
+      "uuid": "fb384123-d578-40b1-a37a-70911a50f3b4",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -89,18 +89,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #263",
-      "server": "185.221.199.37",
+      "tag": "🇳🇱 The Netherlands — #242",
+      "server": "51.250.24.222",
       "server_port": 443,
-      "uuid": "37253a6a-2a9b-42bb-992c-b5f1b1ef1791",
+      "uuid": "1a5aee63-1af0-4c68-b229-6b9d13bf7e62",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "vruaz.mostserv.xyz",
+        "server_name": "cdp.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI",
-          "short_id": "226509f017e4c36d"
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         },
         "utls": {
           "enabled": true,
@@ -111,18 +111,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #264",
-      "server": "84.201.140.177",
+      "tag": "🇳🇱 The Netherlands — #243",
+      "server": "84.201.168.220",
       "server_port": 443,
-      "uuid": "c8f6db15-d3e0-4bdc-89d9-8919656962ff",
+      "uuid": "1a5aee63-1af0-4c68-b229-6b9d13bf7e62",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "api-maps.yandex.ru",
+        "server_name": "cdp.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Mg3Mb8ytziQ0Er2DUGxFCxXz8OwxSyiVncjFmMNzdSo",
-          "short_id": "f9b6823bf4858816"
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         },
         "utls": {
           "enabled": true,
@@ -133,29 +133,26 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #265",
-      "server": "194.156.101.115",
+      "tag": "🇳🇱 The Netherlands — #244",
+      "server": "158.160.51.70",
       "server_port": 443,
-      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
+      "uuid": "1a5aee63-1af0-4c68-b229-6b9d13bf7e62",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "0w7ymj.spectrum.vu",
+        "server_name": "cdp.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0",
-          "short_id": "7890abcdef01"
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "grpc",
-        "service_name": "vless"
-      },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
