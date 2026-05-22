@@ -23,18 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "84.201.138.207",
-      "server_port": 443,
-      "uuid": "1d22ba82-012a-47fd-a6a0-ecf9561acb55",
+      "tag": "🇩🇪",
+      "server": "185.91.53.220",
+      "server_port": 3443,
+      "uuid": "2e89f88d-fbc0-47ce-bce3-c93e99a4e4f7",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "super.bestcats-video.online",
+        "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM",
-          "short_id": ""
+          "public_key": "8f1NWVS4DCZJNvIC28ioeponslhiGqoFnaVVi1cjFk8",
+          "short_id": "3c38b3cce0ebb9dc"
         },
         "utls": {
           "enabled": true,
@@ -45,60 +45,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺",
-      "server": "95.163.211.237",
-      "server_port": 80,
-      "uuid": "2c2e99c5-f495-4d18-afaa-717e45ded56d",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eh.vk.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "95.163.211.240",
-      "server_port": 80,
-      "uuid": "2c2e99c5-f495-4d18-afaa-717e45ded56d",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪 Germany — #288",
-      "server": "89.169.153.198",
-      "server_port": 443,
-      "uuid": "a1e48517-32ef-4002-b227-aaf50efd8d19",
+      "tag": "🇩🇪",
+      "server": "46.8.209.137",
+      "server_port": 7443,
+      "uuid": "2e89f88d-fbc0-47ce-bce3-c93e99a4e4f7",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "5post-gate.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
+          "public_key": "YlcCHLR4xkxbiCoy653NHSAZzt-JPRyfUwVyLYsnK2A",
+          "short_id": "3bb64ae215538b59"
         },
         "utls": {
           "enabled": true,
@@ -109,17 +67,39 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪 Germany — #291",
-      "server": "62.84.121.99",
+      "tag": "🇷🇺",
+      "server": "193.168.46.180",
       "server_port": 443,
-      "uuid": "a1e48517-32ef-4002-b227-aaf50efd8d19",
+      "uuid": "7e22f25d-fa0b-4fb6-bd3b-2dff288975a7",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "rruu.persik.host",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+          "public_key": "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY",
+          "short_id": "c1a7e9b4711d5f60"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 Germany — #396",
+      "server": "46.182.24.163",
+      "server_port": 443,
+      "uuid": "8c931e44-6a18-4f31-b046-3f8b256b56b9",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8",
           "short_id": ""
         },
         "utls": {
@@ -131,25 +111,48 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇪🇪 Estonia — #308",
-      "server": "178.250.243.140",
-      "server_port": 6443,
-      "uuid": "2ef6af24-86ae-4f76-bf4c-e35bf00b48e1",
+      "tag": "🇩🇪 Germany — #397",
+      "server": "158.160.62.53",
+      "server_port": 443,
+      "uuid": "8c931e44-6a18-4f31-b046-3f8b256b56b9",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "-esWECBlH0jf0pyJxoUZLR5eKm68ix8SIROq1h4AEWU",
-          "short_id": "25b19ab8cfd78fe5"
+          "public_key": "CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪 Germany — #398",
+      "server": "89.208.210.216",
+      "server_port": 443,
+      "uuid": "8c931e44-6a18-4f31-b046-3f8b256b56b9",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
@@ -172,6 +175,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇩🇪"
   }
 }
