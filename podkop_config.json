@@ -26,7 +26,7 @@
       "tag": "🇫🇮",
       "server": "62.152.60.52",
       "server_port": 443,
-      "uuid": "3000accf-dedc-42a9-9038-63d1fdb08f4a",
+      "uuid": "0235c2be-3d70-49a1-a3c5-56253407dea1",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -45,51 +45,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺",
-      "server": "158.160.156.172",
-      "server_port": 5988,
-      "uuid": "41990152-3b7f-40a2-b692-49148d7053a5",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "surfvpn24.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "FQrOWrsi6jfp5YX7QDdXUigTUgq0HOuDKM78Cp6P50g",
-          "short_id": "c19de8fa"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "178.154.227.129",
-      "server_port": 443,
-      "uuid": "db04980b-4314-4b49-9ac4-e0f6249b4b5e",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-4-2.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "Yoh3T5ra4qSt7RebGXUM1xB1HUdIQPSzoxJkfxk-eTk",
-          "short_id": "6cafe8ea554e106b"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇫🇮 Finland — #317",
+      "tag": "🇬🇧",
       "server": "193.233.88.229",
       "server_port": 443,
       "uuid": "cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4",
@@ -111,17 +67,86 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇫🇷 France — #333",
-      "server": "194.55.239.137",
-      "server_port": 10443,
-      "uuid": "26326766-4708-46d2-a8bc-b4003e17981c",
+      "tag": "🇷🇺",
+      "server": "193.168.46.180",
+      "server_port": 443,
+      "uuid": "85c07bb9-3bc0-4a19-a790-907a0a9d46fa",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "rruu.persik.host",
+        "reality": {
+          "enabled": true,
+          "public_key": "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY",
+          "short_id": "c1a7e9b4711d5f60"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #222",
+      "server": "31.129.42.122",
+      "server_port": 443,
+      "uuid": "6bb66098-7a00-46a4-9ae5-7e0dc0ba969d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw",
+          "short_id": "11a33a97aa"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #223",
+      "server": "185.221.199.37",
+      "server_port": 443,
+      "uuid": "37253a6a-2a9b-42bb-992c-b5f1b1ef1791",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "vruaz.mostserv.xyz",
+        "reality": {
+          "enabled": true,
+          "public_key": "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI",
+          "short_id": "226509f017e4c36d"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #224",
+      "server": "194.55.239.138",
+      "server_port": 12443,
+      "uuid": "fdb32204-1745-4e48-b359-a807ba45ef4d",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "KC24u3shjqRtOOJemqln5zYH_xWnPJFgUmx5TtWz_Bg",
+          "public_key": "rkWORQhS2SUUiGxpMCn9Z0QrV9aSzIRaxkjQZgm_vBM",
           "short_id": "25b19ab8cfd78fe5"
         },
         "utls": {
