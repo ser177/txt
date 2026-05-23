@@ -23,10 +23,53 @@
   ],
   "outbounds": [
     {
-      "tag": "🇬🇧 United Kingdom — #252",
+      "tag": "🇸🇪",
+      "server": "194.55.239.236",
+      "server_port": 9443,
+      "uuid": "91ef97b5-9026-45ee-a8f7-ae1ddd532fe7",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic",
+          "short_id": "abbcd128"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇩🇪",
+      "server": "95.163.211.237",
+      "server_port": 7433,
+      "uuid": "a5b3a532-22af-444a-b419-b3c122ab2862",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇬🇧 United Kingdom — #240",
       "server": "46.8.209.183",
       "server_port": 443,
-      "uuid": "b12a75ca-41fc-47b6-8a6c-733cb19e42c7",
+      "uuid": "dedc8077-7534-47ae-bba2-633f550f276b",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -45,10 +88,10 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧 United Kingdom — #253",
-      "server": "185.22.235.60",
+      "tag": "🇬🇧 United Kingdom — #241",
+      "server": "84.201.156.242",
       "server_port": 443,
-      "uuid": "04bc7778-5715-41a6-be4e-69e45be6ce04",
+      "uuid": "43484c23-5cce-4f49-9c96-1713a5af3b39",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -67,14 +110,14 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧 United Kingdom — #255",
-      "server": "84.201.128.39",
+      "tag": "🇬🇧 United Kingdom — #242",
+      "server": "185.22.235.222",
       "server_port": 443,
-      "uuid": "04bc7778-5715-41a6-be4e-69e45be6ce04",
+      "uuid": "43484c23-5cce-4f49-9c96-1713a5af3b39",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
           "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
@@ -109,6 +152,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇬🇧 United Kingdom — #252"
+    "final": "🇸🇪"
   }
 }
