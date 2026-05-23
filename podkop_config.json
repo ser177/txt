@@ -23,46 +23,48 @@
   ],
   "outbounds": [
     {
-      "tag": "🇫🇮",
-      "server": "91.219.227.203",
-      "server_port": 8083,
-      "uuid": "321810be-475e-4129-969b-63b8ac0c7d30",
+      "tag": "🇸🇪",
+      "server": "195.133.198.237",
+      "server_port": 443,
+      "uuid": "077c3c60-2cf2-4a1d-9198-db35ffcef528",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "eh.vk.com",
+        "server_name": "rusi.astrafic.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "N-6lbbw5gspsaCAE9iqiaz2neqWdWxSfUQMZZ0zIIws",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "🇩🇪",
-      "server": "95.163.211.240",
-      "server_port": 7433,
-      "uuid": "321810be-475e-4129-969b-63b8ac0c7d30",
+      "server": "51.250.88.69",
+      "server_port": 51109,
+      "uuid": "404b057c-3b66-407e-b465-240893bc9337",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "eh.vk.com",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+          "short_id": "50"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "🇷🇺",
@@ -176,6 +178,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇫🇮"
+    "final": "🇸🇪"
   }
 }
