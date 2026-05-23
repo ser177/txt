@@ -24,31 +24,9 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
-      "server": "84.201.138.207",
-      "server_port": 443,
-      "uuid": "039878fe-6412-4bb0-837d-5707ea7005c2",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "super.bestcats-video.online",
-        "reality": {
-          "enabled": true,
-          "public_key": "HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
       "server": "62.152.56.211",
       "server_port": 443,
-      "uuid": "0cdfe558-31de-44d7-ba71-e6772a93558c",
+      "uuid": "90a584e2-64ee-4a06-8e38-8cb1074d5b66",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -68,17 +46,38 @@
     },
     {
       "tag": "🇩🇪",
-      "server": "85.239.55.156",
-      "server_port": 8454,
-      "uuid": "44b6d834-711a-481c-ad5d-7ec18352873a",
+      "server": "95.163.211.237",
+      "server_port": 7433,
+      "uuid": "01105b97-b774-44bc-8337-0aa49f2b4009",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "jobinvest.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "185.91.54.208",
+      "server_port": 3443,
+      "uuid": "0e27783b-ffe8-430b-aa9b-8fde7fe8ed94",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ads.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
+          "short_id": "844352756c1fabba"
         },
         "utls": {
           "enabled": true,
@@ -89,14 +88,14 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧 United Kingdom — #244",
+      "tag": "🇬🇧 United Kingdom — #260",
       "server": "51.250.82.20",
       "server_port": 443,
-      "uuid": "2ca4ce01-402e-49d8-a8c4-abb6b0fe2cb5",
+      "uuid": "f62042ca-3888-4b36-bf5d-901f764c8999",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "api-maps.yandex.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
           "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
@@ -111,10 +110,10 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇱🇹 Lithuania — #264",
+      "tag": "🇱🇹 Lithuania — #272",
       "server": "185.91.53.55",
       "server_port": 443,
-      "uuid": "80acd479-0ffc-479f-bc48-a42e36e3b240",
+      "uuid": "25060365-175f-4da7-affc-0ba45a43f391",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -136,18 +135,18 @@
       "type": "vless"
     },
     {
-      "tag": "🇱🇹 Lithuania — #265",
-      "server": "5.178.85.225",
+      "tag": "🇱🇹 Lithuania — #273",
+      "server": "158.160.53.173",
       "server_port": 443,
-      "uuid": "80acd479-0ffc-479f-bc48-a42e36e3b240",
+      "uuid": "25060365-175f-4da7-affc-0ba45a43f391",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw",
-          "short_id": "7a1197aa"
+          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
+          "short_id": "bd3cda1117aa"
         },
         "utls": {
           "enabled": true,
