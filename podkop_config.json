@@ -23,50 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🇳🇱",
-      "server": "158.160.255.35",
-      "server_port": 443,
-      "uuid": "49e9f5ac-cf49-4933-821d-d400e8dd39ef",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI",
-          "short_id": "226509f017e4c36d"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "51.250.4.2",
-      "server_port": 443,
-      "uuid": "49e9f5ac-cf49-4933-821d-d400e8dd39ef",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI",
-          "short_id": "226509f017e4c36d"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇷🇺 Cloudflare — #10",
       "server": "51.250.42.200",
       "server_port": 443,
@@ -150,6 +106,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇳🇱"
+    "final": "🇷🇺 Cloudflare — #10"
   }
 }
