@@ -23,18 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺 Timeweb — #10",
-      "server": "217.199.252.115",
+      "tag": "🇳🇱",
+      "server": "158.160.134.197",
       "server_port": 443,
-      "uuid": "f00984ef-f57e-41db-9182-b25f7bc3a1e2",
+      "uuid": "53807e8b-da00-4db1-8f85-bc8e345d07e8",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "rus2026.stardevs.top",
+        "server_name": "wl-3-5.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "esEmnlh3RhtfIluPjRw0feSIzvXz9cyUhlBpXET4OWI",
-          "short_id": "b03a4d1767157467"
+          "public_key": "DfXU_bE0heXqtA-9ljbKNK_3m90Z7KzBwMNV_z41ymQ",
+          "short_id": "275c1d6003e7134f"
         },
         "utls": {
           "enabled": true,
@@ -45,43 +45,110 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 UFO Hosting — #11",
-      "server": "45.144.31.17",
+      "tag": "🇳🇱",
+      "server": "178.154.204.65",
       "server_port": 443,
-      "uuid": "8fcb8d95-34cd-449a-a28b-a58c3f527992",
+      "uuid": "53807e8b-da00-4db1-8f85-bc8e345d07e8",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "yahoo.com",
+        "server_name": "wl-4-4.nodes.ac",
         "reality": {
           "enabled": true,
-          "public_key": "BHSKXxqNXFKK80Bye84MkkPzLzeSSUDAJ2Rgk5mRXVg",
-          "short_id": "ca77"
+          "public_key": "FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0",
+          "short_id": "bfb16f73e35be2da"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇨🇭 Switzerland — #12",
-      "server": "81.163.22.17",
+      "tag": "🇳🇱",
+      "server": "178.154.215.113",
       "server_port": 443,
-      "uuid": "3138a98d-d72e-0028-b73e-8e63faa3e56e",
+      "uuid": "53807e8b-da00-4db1-8f85-bc8e345d07e8",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "bucket-ru-1.extravpn.io",
+        "server_name": "wl-4-1.legendary.ac",
         "reality": {
           "enabled": true,
-          "public_key": "1KWR1P113nLmZyossZtQu2KXtIzGR0Y4YLTuKLMQ0B0",
-          "short_id": ""
+          "public_key": "E-nzKjkLlehnOE5Lub_r6tCOQcvnxVaSAETjFHESciw",
+          "short_id": "30e93292b543f308"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "randomized"
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #259",
+      "server": "84.201.152.75",
+      "server_port": 443,
+      "uuid": "53807e8b-da00-4db1-8f85-bc8e345d07e8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-5-5.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "BvBjeLm9nWiJn8JGxHO2cLVZ6gGtdxymb0AndLXIRzU",
+          "short_id": "74364cbaa37b403e"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #260",
+      "server": "158.160.240.83",
+      "server_port": 443,
+      "uuid": "53807e8b-da00-4db1-8f85-bc8e345d07e8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-3-4.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M",
+          "short_id": "479898e66f5e7beb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #261",
+      "server": "84.201.130.25",
+      "server_port": 443,
+      "uuid": "53807e8b-da00-4db1-8f85-bc8e345d07e8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-5-2.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM",
+          "short_id": "7c05417ed86af034"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -108,6 +175,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺 Timeweb — #10"
+    "final": "🇳🇱"
   }
 }
