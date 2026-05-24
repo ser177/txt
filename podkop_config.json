@@ -23,81 +23,18 @@
   ],
   "outbounds": [
     {
-      "tag": "🇫🇮",
-      "server": "91.219.227.203",
-      "server_port": 8083,
-      "uuid": "20003af7-a898-4b96-b607-c5fc8dc10a09",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sso.passport.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪",
-      "server": "95.163.211.237",
-      "server_port": 7433,
-      "uuid": "20003af7-a898-4b96-b607-c5fc8dc10a09",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪",
-      "server": "95.163.211.240",
-      "server_port": 7433,
-      "uuid": "20003af7-a898-4b96-b607-c5fc8dc10a09",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sso.passport.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #208",
-      "server": "178.154.215.113",
+      "tag": "🇷🇺 Timeweb — #10",
+      "server": "217.199.252.115",
       "server_port": 443,
-      "uuid": "19f8846b-855a-4eac-8af0-b33871ffdf07",
+      "uuid": "f00984ef-f57e-41db-9182-b25f7bc3a1e2",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-4-1.legendary.ac",
+        "server_name": "rus2026.stardevs.top",
         "reality": {
           "enabled": true,
-          "public_key": "E-nzKjkLlehnOE5Lub_r6tCOQcvnxVaSAETjFHESciw",
-          "short_id": "30e93292b543f308"
+          "public_key": "esEmnlh3RhtfIluPjRw0feSIzvXz9cyUhlBpXET4OWI",
+          "short_id": "b03a4d1767157467"
         },
         "utls": {
           "enabled": true,
@@ -108,44 +45,43 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #209",
-      "server": "51.250.98.135",
+      "tag": "🇷🇺 UFO Hosting — #11",
+      "server": "45.144.31.17",
       "server_port": 443,
-      "uuid": "19f8846b-855a-4eac-8af0-b33871ffdf07",
+      "uuid": "8fcb8d95-34cd-449a-a28b-a58c3f527992",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-6-4.nodes.ac",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "UZcUXcDWwIkPoLsqflKMGiFx50MERRpum96y-y5Dv1Q",
-          "short_id": "ffd676bc2a2657ef"
+          "public_key": "BHSKXxqNXFKK80Bye84MkkPzLzeSSUDAJ2Rgk5mRXVg",
+          "short_id": "ca77"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #210",
-      "server": "178.154.204.55",
+      "tag": "🇨🇭 Switzerland — #12",
+      "server": "81.163.22.17",
       "server_port": 443,
-      "uuid": "19f8846b-855a-4eac-8af0-b33871ffdf07",
+      "uuid": "3138a98d-d72e-0028-b73e-8e63faa3e56e",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-4-3.nodes.ac",
+        "server_name": "bucket-ru-1.extravpn.io",
         "reality": {
           "enabled": true,
-          "public_key": "ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY",
-          "short_id": "7171871f66279d10"
+          "public_key": "1KWR1P113nLmZyossZtQu2KXtIzGR0Y4YLTuKLMQ0B0",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "randomized"
         }
       },
       "type": "vless",
@@ -172,6 +108,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇫🇮"
+    "final": "🇷🇺 Timeweb — #10"
   }
 }
