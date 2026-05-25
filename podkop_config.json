@@ -23,25 +23,40 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "87.228.124.196",
-      "server_port": 4443,
-      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "83.217.220.27",
-      "server_port": 50583,
-      "uuid": "0cb33f36-aa04-46f1-8727-65c933231167",
+      "tag": "🇫🇷",
+      "server": "185.14.46.244",
+      "server_port": 443,
+      "uuid": "1be044e4-e40a-40af-9e5a-3ef42ae93269",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "api-maps.yandex.ru",
+        "server_name": "moon1.realm-of-ultramar.ru",
         "reality": {
           "enabled": true,
-          "public_key": "263eHzp7CQiiudy8-Iz_esgAn1suWuJ5q8tx_UzGRgs",
-          "short_id": "4c18a508063c9a3a"
+          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "103.88.243.241",
+      "server_port": 50563,
+      "uuid": "c794774b-7c62-47ad-ad74-e7183d8600a2",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "kinopoisk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "dHXghlqhe6hp7kh2n5jCGacOE2LRT3-gXaJpAUvCn1w",
+          "short_id": "75ef4f1ee9334f68"
         },
         "utls": {
           "enabled": true,
@@ -53,100 +68,89 @@
     },
     {
       "tag": "🇩🇪",
-      "server": "158.160.161.222",
-      "server_port": 443,
-      "uuid": "92d14a3a-8b61-4c60-894b-81d81b193484",
+      "server": "95.163.211.237",
+      "server_port": 7433,
+      "uuid": "89cf4a32-21af-4df7-bf3d-6670d52fdfe6",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "blsp.astrafic.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "27Yic1_fgaubwVzyNTVjsHBkJkqt1jMvV8oC13ZYZTI",
-          "short_id": ""
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇱🇻 Latvia — #298",
+      "server": "151.236.114.135",
+      "server_port": 6443,
+      "uuid": "2a282ff8-b561-4535-a565-e47cd88c4591",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8",
+          "short_id": "f3e8b2b1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #304",
+      "server": "84.201.132.78",
+      "server_port": 443,
+      "uuid": "42ba03da-78cf-413e-9e79-1128ee6ddb30",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "5post-gate.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ",
+          "short_id": "27e53bbcab7593d7"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇱🇹 Lithuania — #344",
-      "server": "84.201.159.233",
+      "tag": "🇳🇱 The Netherlands — #306",
+      "server": "51.250.4.2",
       "server_port": 443,
-      "uuid": "bdefc979-0404-49ea-b1c0-b831dd30de11",
+      "uuid": "39ad115e-e77e-4a6b-b451-229f4f361e19",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
-          "short_id": "bd3cda1117aa"
+          "public_key": "EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI",
+          "short_id": "226509f017e4c36d"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇱🇹 Lithuania — #345",
-      "server": "51.250.26.148",
-      "server_port": 443,
-      "uuid": "bdefc979-0404-49ea-b1c0-b831dd30de11",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
-          "short_id": "bd3cda1117aa"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇱🇹 Lithuania — #346",
-      "server": "158.160.53.173",
-      "server_port": 443,
-      "uuid": "bdefc979-0404-49ea-b1c0-b831dd30de11",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
-          "short_id": "bd3cda1117aa"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
-      },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
@@ -169,6 +173,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇫🇷"
   }
 }
