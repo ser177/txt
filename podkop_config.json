@@ -38,25 +38,24 @@
     },
     {
       "tag": "🇷🇺",
-      "server": "62.152.56.211",
+      "server": "188.225.76.23",
       "server_port": 443,
-      "uuid": "9e3591e8-d563-4e6c-ac82-607a01cb40bd",
+      "uuid": "791f388e-4b6c-4ace-a7da-648f1057a883",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-12.nodes.ac",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg",
-          "short_id": "cf43c0c197cd464a"
+          "public_key": "wmMvp_Y8U-o61VgJS1lyNBhFzPnrESvy0uWm_yk1WTM",
+          "short_id": "b99f"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "tag": "🇳🇱 The Netherlands — #256",
@@ -81,6 +80,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇳🇱 The Netherlands — #257",
+      "server": "158.160.240.83",
+      "server_port": 443,
+      "uuid": "9e3591e8-d563-4e6c-ac82-607a01cb40bd",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "wl-3-4.nodes.ac",
+        "reality": {
+          "enabled": true,
+          "public_key": "fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M",
+          "short_id": "479898e66f5e7beb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "🇳🇱 The Netherlands — #258",
       "server": "84.201.152.75",
       "server_port": 443,
@@ -93,28 +114,6 @@
           "enabled": true,
           "public_key": "BvBjeLm9nWiJn8JGxHO2cLVZ6gGtdxymb0AndLXIRzU",
           "short_id": "74364cbaa37b403e"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #259",
-      "server": "158.160.210.43",
-      "server_port": 443,
-      "uuid": "9e3591e8-d563-4e6c-ac82-607a01cb40bd",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-3-2.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "uk92pbvDM3dRNZqaTHUE-x06fZxubSyUA997NkB5tyk",
-          "short_id": "5a517ed4bfcd4a54"
         },
         "utls": {
           "enabled": true,
