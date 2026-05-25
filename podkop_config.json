@@ -23,43 +23,21 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "84.201.144.152",
-      "server_port": 4443,
-      "uuid": "44a8c146-6ef8-42a3-a964-ef08465092f0",
+      "tag": "🇸🇪",
+      "server": "158.160.9.205",
+      "server_port": 443,
+      "uuid": "059f11ff-6fa3-487b-b80d-7d135c288792",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "yan.astrafic.ru",
         "reality": {
           "enabled": true,
-          "public_key": "cbYXTGB1cWP29JuV8chwF7O0ZqbyUqjmu7CUHCaHRzY",
+          "public_key": "N-6lbbw5gspsaCAE9iqiaz2neqWdWxSfUQMZZ0zIIws",
           "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "edge"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "130.193.56.148",
-      "server_port": 443,
-      "uuid": "5d68d508-aad5-4061-9791-13bca5c2e92a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-11-1.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "aslw-Ex_i_q59e0eu126qM7UnEHhlpKuz8vMN-ibjkw",
-          "short_id": "3130197867c23edb"
-        },
-        "utls": {
-          "enabled": true,
           "fingerprint": "chrome"
         }
       },
@@ -67,51 +45,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱",
-      "server": "130.193.56.208",
-      "server_port": 443,
-      "uuid": "5d68d508-aad5-4061-9791-13bca5c2e92a",
+      "tag": "🇩🇪",
+      "server": "95.163.211.240",
+      "server_port": 7433,
+      "uuid": "1bfe399b-d449-4efc-b4f6-07839ca4cc62",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-11-2.nodes.ac",
+        "server_name": "max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "UfrA4c5fjRVKJTtAiDOd9lEdmkgfZBSTm9bSMzC4zCg",
-          "short_id": "c792be29a38dbefe"
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #267",
-      "server": "158.160.136.203",
-      "server_port": 443,
-      "uuid": "8a186d99-c814-45d2-8284-ef92853a31c8",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdp.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #268",
+      "tag": "🇩🇪",
       "server": "51.250.102.69",
       "server_port": 443,
       "uuid": "8a186d99-c814-45d2-8284-ef92853a31c8",
@@ -133,8 +88,52 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 The Netherlands — #269",
-      "server": "158.160.57.73",
+      "tag": "🇳🇱 The Netherlands — #279",
+      "server": "84.201.136.5",
+      "server_port": 443,
+      "uuid": "8a186d99-c814-45d2-8284-ef92853a31c8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdp.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #281",
+      "server": "158.160.51.70",
+      "server_port": 443,
+      "uuid": "8a186d99-c814-45d2-8284-ef92853a31c8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdp.x5.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands — #282",
+      "server": "51.250.106.87",
       "server_port": 443,
       "uuid": "8a186d99-c814-45d2-8284-ef92853a31c8",
       "tls": {
@@ -175,6 +174,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇸🇪"
   }
 }
