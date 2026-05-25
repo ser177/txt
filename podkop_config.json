@@ -23,6 +23,27 @@
   ],
   "outbounds": [
     {
+      "tag": "🇱🇻",
+      "server": "151.236.114.135",
+      "server_port": 6443,
+      "uuid": "2a282ff8-b561-4535-a565-e47cd88c4591",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8",
+          "short_id": "f3e8b2b1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
       "tag": "🇩🇪",
       "server": "158.160.161.222",
       "server_port": 443,
@@ -57,28 +78,6 @@
           "enabled": true,
           "public_key": "N-6lbbw5gspsaCAE9iqiaz2neqWdWxSfUQMZZ0zIIws",
           "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "51.250.17.80",
-      "server_port": 443,
-      "uuid": "7a42335f-2455-451d-96c7-876577276c02",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdp.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
         },
         "utls": {
           "enabled": true,
@@ -178,6 +177,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇩🇪"
+    "final": "🇱🇻"
   }
 }
