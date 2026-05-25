@@ -24,28 +24,21 @@
   "outbounds": [
     {
       "tag": "🇷🇺",
-      "server": "185.175.47.238",
-      "server_port": 4443,
-      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
-      "type": "vless"
-    },
-    {
-      "tag": "🇧🇬",
-      "server": "193.39.168.35",
-      "server_port": 4443,
-      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
+      "server": "83.217.220.27",
+      "server_port": 50563,
+      "uuid": "ae523d65-55a1-4603-9569-d52155f951a1",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ru4.frostmotiveseed.net",
+        "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "-j30fP2lzyMPlMXq-sqfSQuEfe-aljtdyV2LmzeW-GI",
-          "short_id": ""
+          "public_key": "Ir7-qlCMnN3ztrK9NFxYLufsuF5Bjy78-4b1WeKVEA8",
+          "short_id": "4c5452be7536d328"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "type": "vless",
@@ -53,17 +46,31 @@
     },
     {
       "tag": "🇷🇺",
+      "server": "185.175.47.238",
+      "server_port": 4443,
+      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "5.188.156.138",
+      "server_port": 4443,
+      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺 Timeweb — #16",
       "server": "103.88.243.241",
-      "server_port": 50578,
-      "uuid": "1c7f6b9c-35dd-4bf3-8237-f193ea93ebc9",
+      "server_port": 50598,
+      "uuid": "7ee94fca-b1c5-47ca-a5ef-c14d8d10d823",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "api-maps.yandex.ru",
         "reality": {
           "enabled": true,
-          "public_key": "0JRcNhEFLSb5Y-bdMMSJxA0ELp4puTLa9fGRvaxvXSQ",
-          "short_id": "c5b8f804df9bbc87"
+          "public_key": "jy99SzcnHT6tZ--bWOmLk9bCJx0p0ldZtK2oY4na9Ag",
+          "short_id": "9e980da388a61702"
         },
         "utls": {
           "enabled": true,
@@ -74,61 +81,39 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇷🇺 Cloudflare — #21",
-      "server": "51.250.42.200",
+      "tag": "🇷🇺 Timeweb — #17",
+      "server": "188.225.76.23",
       "server_port": 443,
-      "uuid": "5e4eccaa-8c5d-40f7-80e1-39511b05dc30",
+      "uuid": "791f388e-4b6c-4ace-a7da-648f1057a883",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "api-maps.yandex.ru",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺 Datahouse.ru network — #23",
-      "server": "62.152.56.211",
-      "server_port": 443,
-      "uuid": "35f9d824-f51a-4b3b-b782-13a7a6359da0",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-12.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg",
-          "short_id": "cf43c0c197cd464a"
+          "public_key": "wmMvp_Y8U-o61VgJS1lyNBhFzPnrESvy0uWm_yk1WTM",
+          "short_id": "b99f"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "🇷🇺 Delta — #24",
-      "server": "45.151.182.34",
+      "tag": "🇷🇺 UFO Hosting — #18",
+      "server": "45.144.31.17",
       "server_port": 443,
-      "uuid": "69a2af58-d74a-44ca-864a-e09b493f4274",
+      "uuid": "8fcb8d95-34cd-449a-a28b-a58c3f527992",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "pimg.mycdn.me",
+        "server_name": "yahoo.com",
         "reality": {
           "enabled": true,
-          "public_key": "WMy1KN-awWYkz-3jct8VM4qvCeK3ICvJj3wzam6pAyE",
-          "short_id": "b8f9f01b"
+          "public_key": "BHSKXxqNXFKK80Bye84MkkPzLzeSSUDAJ2Rgk5mRXVg",
+          "short_id": "ca77"
         },
         "utls": {
           "enabled": true,
