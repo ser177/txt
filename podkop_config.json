@@ -23,101 +23,32 @@
   ],
   "outbounds": [
     {
-      "tag": "🇷🇺",
-      "server": "83.217.220.27",
-      "server_port": 50583,
-      "uuid": "0cb33f36-aa04-46f1-8727-65c933231167",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "263eHzp7CQiiudy8-Iz_esgAn1suWuJ5q8tx_UzGRgs",
-          "short_id": "4c18a508063c9a3a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "158.160.240.83",
+      "tag": "🇱🇹 Lithuania — #291",
+      "server": "51.250.97.141",
       "server_port": 443,
-      "uuid": "54667438-52b3-4577-95a4-224020a7e89c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-3-4.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M",
-          "short_id": "479898e66f5e7beb"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱",
-      "server": "84.201.139.29",
-      "server_port": 443,
-      "uuid": "54667438-52b3-4577-95a4-224020a7e89c",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-5-4.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "ND4Vf4FQr4vB95yH5ZLJMc_A6Rr0XT-yjtEaqVoLQ2s",
-          "short_id": "43bc5597a94b541a"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇱🇹 Lithuania — #275",
-      "server": "5.178.85.225",
-      "server_port": 443,
-      "uuid": "cd0ec746-cea8-4bb2-98ab-aa8bb43d9d10",
+      "uuid": "dece746c-d1da-45b1-8d97-86e23dfb279d",
       "tls": {
         "enabled": true,
         "insecure": false,
         "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw",
-          "short_id": "7a1197aa"
+          "public_key": "_XzFwWlJRkJVyLKlHQN9bDzFKuNSwK6yVmV8qMQfniA",
+          "short_id": "a2a943e983"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
-      },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇱🇹 Lithuania — #276",
+      "tag": "🇱🇹 Lithuania — #296",
       "server": "158.160.53.173",
       "server_port": 443,
-      "uuid": "cd0ec746-cea8-4bb2-98ab-aa8bb43d9d10",
+      "uuid": "5700979f-2383-4198-8533-ee61dd41a96a",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -139,23 +70,27 @@
       "type": "vless"
     },
     {
-      "tag": "🇱🇻 Latvia — #277",
-      "server": "151.236.114.135",
-      "server_port": 6443,
-      "uuid": "2a282ff8-b561-4535-a565-e47cd88c4591",
+      "tag": "🇱🇹 Lithuania — #297",
+      "server": "51.250.26.148",
+      "server_port": 443,
+      "uuid": "5700979f-2383-4198-8533-ee61dd41a96a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8",
-          "short_id": "f3e8b2b1"
+          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
+          "short_id": "bd3cda1117aa"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
       },
       "type": "vless"
     },
@@ -180,6 +115,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇷🇺"
+    "final": "🇱🇹 Lithuania — #291"
   }
 }
