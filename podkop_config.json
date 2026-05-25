@@ -23,25 +23,26 @@
   ],
   "outbounds": [
     {
-      "tag": "🇱🇻",
-      "server": "151.236.114.135",
-      "server_port": 6443,
-      "uuid": "2a282ff8-b561-4535-a565-e47cd88c4591",
+      "tag": "🇮🇩",
+      "server": "158.160.243.44",
+      "server_port": 8443,
+      "uuid": "a583712d-ded7-4470-b8cc-3725344151e6",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "max.ru",
+        "server_name": "ads.x5.ru",
         "reality": {
           "enabled": true,
-          "public_key": "pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8",
-          "short_id": "f3e8b2b1"
+          "public_key": "zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg",
+          "short_id": "28047c78b3f5ee2c"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "🇩🇪",
@@ -88,10 +89,54 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧 United Kingdom — #404",
-      "server": "84.201.128.39",
+      "tag": "🇬🇧 United Kingdom — #403",
+      "server": "185.22.235.222",
       "server_port": 443,
-      "uuid": "2d75c78c-fd72-46c7-a261-a2c038412f42",
+      "uuid": "0d4ecb12-4701-40c3-9387-abff8b25003a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sso.passport.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+          "short_id": "428ef87fd47a3a32"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇧 United Kingdom — #404",
+      "server": "158.160.47.144",
+      "server_port": 443,
+      "uuid": "0d4ecb12-4701-40c3-9387-abff8b25003a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "web.max.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs",
+          "short_id": "428ef87fd47a3a32"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇧 United Kingdom — #412",
+      "server": "51.250.82.20",
+      "server_port": 443,
+      "uuid": "0d4ecb12-4701-40c3-9387-abff8b25003a",
       "tls": {
         "enabled": true,
         "insecure": false,
@@ -108,53 +153,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇮🇩 Indonesia — #412",
-      "server": "158.160.243.44",
-      "server_port": 8443,
-      "uuid": "e5e88fbc-b5e6-4a19-a9a9-9f19cf24b532",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg",
-          "short_id": "04bf0403f96e5b4b"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇱🇹 Lithuania — #423",
-      "server": "158.160.53.173",
-      "server_port": 443,
-      "uuid": "4e43c1d4-b26f-4967-a40d-5037976cea3f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ads.x5.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
-          "short_id": "bd3cda1117aa"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": ""
-      },
-      "type": "vless"
     },
     {
       "type": "direct",
@@ -177,6 +175,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇱🇻"
+    "final": "🇮🇩"
   }
 }
