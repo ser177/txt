@@ -23,29 +23,44 @@
   ],
   "outbounds": [
     {
-      "tag": "🇩🇪",
-      "server": "95.163.211.237",
-      "server_port": 7433,
-      "uuid": "4e783039-6260-4107-9a11-2ab7dc18ded8",
+      "tag": "🇷🇺",
+      "server": "5.188.156.138",
+      "server_port": 4443,
+      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
+      "type": "vless"
+    },
+    {
+      "tag": "🇷🇺",
+      "server": "87.228.124.196",
+      "server_port": 4443,
+      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
+      "type": "vless"
+    },
+    {
+      "tag": "🇫🇷",
+      "server": "185.14.46.244",
+      "server_port": 443,
+      "uuid": "4576af5c-5b3c-488e-9d72-ff66e2df490c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "ads.x5.ru",
+        "server_name": "moon1.realm-of-ultramar.ru",
         "reality": {
           "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
+          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
           "fingerprint": "qq"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪",
-      "server": "95.163.211.240",
+      "tag": "🇩🇪 Germany — #18",
+      "server": "91.219.227.203",
       "server_port": 7433,
       "uuid": "4e783039-6260-4107-9a11-2ab7dc18ded8",
       "tls": {
@@ -65,18 +80,37 @@
       "type": "vless"
     },
     {
-      "tag": "🇩🇪",
-      "server": "158.160.161.222",
-      "server_port": 443,
-      "uuid": "aa23c0a5-9b30-4f5c-98ea-c745f0753bef",
+      "tag": "🇩🇪 Germany — #20",
+      "server": "45.67.215.191",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "blsp.astrafic.ru",
+        "server_name": "sni.my111000.tech"
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {},
+        "path": "Telegram🇨🇳@WangCai2/",
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇩🇪 Germany — #25",
+      "server": "84.201.177.150",
+      "server_port": 33443,
+      "uuid": "4b9de58d-9546-408c-93cc-4b531bfaca7d",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "web.max.ru",
         "reality": {
           "enabled": true,
-          "public_key": "27Yic1_fgaubwVzyNTVjsHBkJkqt1jMvV8oC13ZYZTI",
-          "short_id": ""
+          "public_key": "1XXZDoBQsD2mgrUnbfUaNU_6jsPkQSA-3p26-27ErBA",
+          "short_id": "b2fb0c349b4ba371"
         },
         "utls": {
           "enabled": true,
@@ -85,59 +119,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺 Selectel — #14",
-      "server": "5.188.156.138",
-      "server_port": 4443,
-      "uuid": "de87620b-6bff-4077-99cc-ce65e06b64ed",
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺 UFO Hosting — #15",
-      "server": "45.144.30.81",
-      "server_port": 5432,
-      "uuid": "f8c5b018-f51a-4137-be8a-50a451630589",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.samsung.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "WNsIqrfrK3gEmFFkeP2Ja8lvt9vGpFyxV612QdqYPC8",
-          "short_id": "489da765"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇷🇺 UFO Hosting — #16",
-      "server": "45.67.230.230",
-      "server_port": 443,
-      "uuid": "20ecee51-1044-4be3-89a9-f3c700425ead",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "yahoo.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "qYg2nPdLpBYWM7-9leTq43SoqAc5nT90gFH-AHAMShY",
-          "short_id": "abb1"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
     },
     {
       "type": "direct",
@@ -160,6 +141,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇩🇪"
+    "final": "🇷🇺"
   }
 }
