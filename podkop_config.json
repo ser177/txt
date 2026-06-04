@@ -23,70 +23,25 @@
   ],
   "outbounds": [
     {
-      "tag": "🇳🇱 The Netherlands — #187",
-      "server": "130.193.56.148",
-      "server_port": 443,
-      "uuid": "48c6099a-7184-4852-97f3-de28022e52a1",
+      "tag": "🌐163Mb t.me/rjsxrd",
+      "server": "31.76.126.129",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "wl-11-1.nodes.ac",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "aslw-Ex_i_q59e0eu126qM7UnEHhlpKuz8vMN-ibjkw",
-          "short_id": "3130197867c23edb"
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "randomized"
+          "fingerprint": "qq"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #188",
-      "server": "84.201.139.146",
-      "server_port": 443,
-      "uuid": "48c6099a-7184-4852-97f3-de28022e52a1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-5-1.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "TksrKvkKxOc7Z4tPRq3IgerELr-8vKkQJLKG8Ovd4xw",
-          "short_id": "b333935faadae035"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "randomized"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱 The Netherlands — #189",
-      "server": "178.154.204.55",
-      "server_port": 443,
-      "uuid": "48c6099a-7184-4852-97f3-de28022e52a1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wl-4-3.nodes.ac",
-        "reality": {
-          "enabled": true,
-          "public_key": "ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY",
-          "short_id": "7171871f66279d10"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "randomized"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
       "type": "direct",
@@ -109,6 +64,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇳🇱 The Netherlands — #187"
+    "final": "🌐163Mb t.me/rjsxrd"
   }
 }
