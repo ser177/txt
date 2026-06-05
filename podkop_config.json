@@ -87,28 +87,7 @@
       "type": "vless"
     },
     {
-      "tag": "[OpenRay] 🇬🇧 GB-1714 t.me/rjsxrd",
-      "server": "31.76.126.141",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🌐163Mb t.me/rjsxrd",
+      "tag": "🌐163Mb t.me/rjsxrdvless://17451fec-af94-4715-8c2f-7f6839130d0a@31.76.126.141:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#[OpenRay] 🇬🇧 GB-1714 t.me/rjsxrd",
       "server": "31.76.126.129",
       "server_port": 2040,
       "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
