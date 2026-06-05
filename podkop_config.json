@@ -23,30 +23,8 @@
   ],
   "outbounds": [
     {
-      "tag": "🇵🇱",
-      "server": "193.109.193.240",
-      "server_port": 443,
-      "uuid": "b95e6017-d54e-4016-b651-91c86aeaa463",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "pol.mkeycon.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "eyaIwlWAGwfE6JE-LrW5HDc-gqIMNTx7d1bQzz4_Q10",
-          "short_id": "edf8b615d73d86a0"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🌐251Mb",
-      "server": "31.76.126.135",
+      "tag": "🌐132Mb",
+      "server": "germ-node.datamove.online",
       "server_port": 2040,
       "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
@@ -66,8 +44,29 @@
       "type": "vless"
     },
     {
-      "tag": "🇬🇧🚀 Великобритания [🏳️LTE] | 🥭🔥 t.me/rjsxrd",
-      "server": "31.76.126.129",
+      "tag": "🌐129Mb",
+      "server": "31.76.126.141",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🌐251Mb",
+      "server": "31.76.126.135",
       "server_port": 2040,
       "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
@@ -128,6 +127,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇵🇱"
+    "final": "🌐132Mb"
   }
 }
