@@ -87,6 +87,27 @@
       "type": "vless"
     },
     {
+      "tag": "[OpenRay] 🇬🇧 GB-1721 t.me/rjsxrd",
+      "server": "31.76.126.129",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
       "tag": "🌐163Mb t.me/rjsxrd",
       "server": "31.76.126.129",
       "server_port": 2040,
