@@ -23,61 +23,87 @@
   ],
   "outbounds": [
     {
-      "tag": "荷兰_060510620 t.me/rjsxrd",
-      "server": "46.229.243.70",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "🇵🇱",
+      "server": "193.109.193.240",
+      "server_port": 443,
+      "uuid": "b95e6017-d54e-4016-b651-91c86aeaa463",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
+        "server_name": "pol.mkeycon.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "eyaIwlWAGwfE6JE-LrW5HDc-gqIMNTx7d1bQzz4_Q10",
+          "short_id": "edf8b615d73d86a0"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🌐251Mb",
+      "server": "31.76.126.135",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
       },
       "type": "vless"
     },
     {
-      "tag": "🇭🇺 Hungary [*CIDR] t.me/rjsxrd",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "🇬🇧🚀 Великобритания [🏳️LTE] | 🥭🔥 t.me/rjsxrd",
+      "server": "31.76.126.129",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
         "enabled": true,
-        "insecure": false
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
       },
       "type": "vless"
     },
     {
-      "tag": "荷兰_060510619 t.me/rjsxrd",
-      "server": "46.229.243.137",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "0166",
+      "server": "auto.datamove.online",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "罗马尼亚_060510074 t.me/rjsxrd",
-      "server": "77.74.123.167",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "美国_0605103037 t.me/rjsxrd",
-      "server": "162.249.126.76",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "vless"
     },
@@ -102,6 +128,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "荷兰_060510620 t.me/rjsxrd"
+    "final": "🇵🇱"
   }
 }
