@@ -23,44 +23,61 @@
   ],
   "outbounds": [
     {
-      "tag": "🌐66Mb",
-      "server": "germ-node.datamove.online",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tag": "荷兰_060510620 t.me/rjsxrd",
+      "server": "46.229.243.70",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
+        "server_name": "cdn7-09.vk-cdnvideo.com"
       },
       "type": "vless"
     },
     {
-      "tag": "0166",
-      "server": "auto.datamove.online",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tag": "🇭🇺 Hungary [*CIDR] t.me/rjsxrd",
+      "server": "cdn7-09.vk-cdnvideo.com",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "荷兰_060510619 t.me/rjsxrd",
+      "server": "46.229.243.137",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "cdn7-09.vk-cdnvideo.com"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "罗马尼亚_060510074 t.me/rjsxrd",
+      "server": "77.74.123.167",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdn7-09.vk-cdnvideo.com"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "美国_0605103037 t.me/rjsxrd",
+      "server": "162.249.126.76",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdn7-09.vk-cdnvideo.com"
       },
       "type": "vless"
     },
@@ -85,6 +102,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🌐66Mb"
+    "final": "荷兰_060510620 t.me/rjsxrd"
   }
 }
