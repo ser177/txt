@@ -23,22 +23,17 @@
   ],
   "outbounds": [
     {
-      "tag": "31.76.126.141:2040",
-      "server": "31.76.126.141",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tag": "FULL",
+      "server": "46.229.243.70",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
+        "server_name": "cdn7-09.vk-cdnvideo.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless"
@@ -66,44 +61,70 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[OpenRay] 🇬🇧 GB-1721 t.me/rjsxrd",
-      "server": "31.76.126.129",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tag": "🇭🇺 Hungary — #151 t.me/rjsxrd",
+      "server": "82.202.159.228",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
+        "server_name": "cdn7-09.vk-cdnvideo.com"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇭🇺 Hungary — #154 t.me/rjsxrd",
+      "server": "85.208.86.75",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdn7-09.vk-cdnvideo.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless"
     },
     {
-      "tag": "🌐163Mb t.me/rjsxrdvless://17451fec-af94-4715-8c2f-7f6839130d0a@31.76.126.141:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#[OpenRay] 🇬🇧 GB-1714 t.me/rjsxrd",
-      "server": "31.76.126.129",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tag": "🇭🇺 Hungary — #160 t.me/rjsxrd",
+      "server": "85.208.86.75",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
+        "server_name": "cdn7-09.vk-cdnvideo.com"
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇭🇺 Hungary — #159 t.me/rjsxrd",
+      "server": "82.202.140.29",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdn7-09.vk-cdnvideo.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "qq"
+          "fingerprint": "chrome"
         }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇭🇺 Hungary — #161 t.me/rjsxrd",
+      "server": "82.202.140.29",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cdn7-09.vk-cdnvideo.com"
       },
       "type": "vless"
     },
@@ -128,6 +149,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "31.76.126.141:2040"
+    "final": "FULL"
   }
 }
