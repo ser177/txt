@@ -1,2 +1,5 @@
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?fp=qq&headertype=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&spx=&type=tcp#🌐66Mb | 🌍 Другое 46 t.me/rjsxrd%20t.me%2Frjsxrd
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@auto.datamove.online:2040?type=tcp&security=reality&encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&sni=tradingview.com&spx=/#0166 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#%E8%8D%B7%E5%85%B0_060510620%20t.me%2Frjsxrd
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443/?type=tcp&encryption=none&security=tls#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#%E8%8D%B7%E5%85%B0_060510619%20t.me%2Frjsxrd
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_060510074%20t.me%2Frjsxrd
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#%E7%BE%8E%E5%9B%BD_0605103037%20t.me%2Frjsxrd
