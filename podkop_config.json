@@ -23,36 +23,40 @@
   ],
   "outbounds": [
     {
-      "tag": "FULL",
-      "server": "167.104.223.14",
-      "server_port": 443,
-      "uuid": "b67ed271-5a34-4d07-9970-f8ba27ca2c8a",
+      "tag": "🌐251Mb",
+      "server": "31.76.126.135",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.microsoft.com",
+        "server_name": "tradingview.com",
         "reality": {
           "enabled": true,
-          "public_key": "gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE",
-          "short_id": "fcd9787f"
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "qq"
         }
       },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "type": "vless"
     },
     {
-      "tag": "FULL",
-      "server": "46.229.243.70",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "0166",
+      "server": "auto.datamove.online",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -61,8 +65,93 @@
       "type": "vless"
     },
     {
-      "tag": "🌐163Mb t.me/rjsxrd",
-      "server": "31.76.126.129",
+      "tag": "AetrisVPN",
+      "server": "31.76.126.141",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "GB",
+      "server": "31.76.126.141",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "GB",
+      "server": "31.76.126.135",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇯🇵  Japan  [01]  MIFA t.me/rjsxrd",
+      "server": "47.79.149.248",
+      "server_port": 38388,
+      "uuid": "45c8d20e-0222-4b16-8d21-37318456b980",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "itunes.apple.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "xHaPe5SLprSSqGccSor5d3tCRuwyowBwFeYrVXoSz3w",
+          "short_id": "6ba85179e30d4fc2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[OpenRay] 🇬🇧 GB-1714 t.me/rjsxrd",
+      "server": "31.76.126.141",
       "server_port": 2040,
       "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
@@ -102,6 +191,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "FULL"
+    "final": "🌐251Mb"
   }
 }
