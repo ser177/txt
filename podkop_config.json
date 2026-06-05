@@ -23,60 +23,25 @@
   ],
   "outbounds": [
     {
-      "tag": "荷兰_060510619 t.me/rjsxrd",
-      "server": "46.229.243.137",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "🌐66Mb",
+      "server": "germ-node.datamove.online",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
       },
       "type": "vless"
-    },
-    {
-      "tag": "荷兰_060510618 t.me/rjsxrd",
-      "server": "66.201.4.248",
-      "server_port": 443,
-      "uuid": "6048cd5b-621f-40c6-bf81-3855e4c069b1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "usw.org",
-        "reality": {
-          "enabled": true,
-          "public_key": "L6EU_GCGptVyjp1Q60ZMmRAZVCCx6EVbW-gyv1Zk3zc",
-          "short_id": "fad0a8e7"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "美国+得克萨斯州 t.me/rjsxrd",
-      "server": "66.201.4.248",
-      "server_port": 443,
-      "uuid": "6048cd5b-621f-40c6-bf81-3855e4c069b1",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "usw.org",
-        "reality": {
-          "enabled": true,
-          "public_key": "L6EU_GCGptVyjp1Q60ZMmRAZVCCx6EVbW-gyv1Zk3zc",
-          "short_id": "fad0a8e7"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "0166",
@@ -95,39 +60,6 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "美国_0605103037 t.me/rjsxrd",
-      "server": "162.249.126.76",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇬🇧",
-      "server": "31.76.126.129",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
         }
       },
       "type": "vless"
@@ -153,6 +85,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "荷兰_060510619 t.me/rjsxrd"
+    "final": "🌐66Mb"
   }
 }
