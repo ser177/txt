@@ -66,8 +66,8 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[OpenRay] 🇬🇧 GB-1714 t.me/rjsxrd",
-      "server": "31.76.126.141",
+      "tag": "[OpenRay] 🇬🇧 GB-1721 t.me/rjsxrd",
+      "server": "31.76.126.129",
       "server_port": 2040,
       "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
@@ -87,8 +87,8 @@
       "type": "vless"
     },
     {
-      "tag": "[OpenRay] 🇬🇧 GB-1721 t.me/rjsxrd",
-      "server": "31.76.126.129",
+      "tag": "[OpenRay] 🇬🇧 GB-1714 t.me/rjsxrd",
+      "server": "31.76.126.141",
       "server_port": 2040,
       "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "tls": {
