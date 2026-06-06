@@ -23,60 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🌐704Mb",
-      "server": "95.128.71.74",
-      "server_port": 443,
-      "uuid": "e93998e0-dd6a-4234-be21-362bcc66f926",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "fastsync.xyz",
-        "reality": {
-          "enabled": true,
-          "public_key": "rfed3aqchLeWtXyEl3AsbPGODbqXdx-3Mq41JVPQWVY",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "0328 | 🇭🇺 Венгрия | WL | @RaViraNet t.me/rjsxrd",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "FULL t.me/rjsxrd",
-      "server": "31.76.126.135",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
       "tag": "🇷🇺  Russia  [18]  MIFA t.me/rjsxrd",
       "server": "pl-1.illusion-vpn.ru",
       "server_port": 443,
@@ -99,111 +45,8 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "[470ms",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇳🇱  Netherlands  [07]  MIFA t.me/rjsxrd",
-      "server": "46.229.243.71",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "4Kian-5190 t.me/rjsxrd",
-      "server": "germ-node.datamove.online",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🌐92Mb",
-      "server": "germ-node.datamove.online",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🌐251Mb t.me/rjsxrd",
-      "server": "31.76.126.135",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "FULL",
-      "server": "162.249.126.76",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[148ms",
-      "server": "151.115.167.190",
+      "tag": "[150ms",
+      "server": "151.115.166.249",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -213,8 +56,8 @@
       "type": "vless"
     },
     {
-      "tag": "[156ms",
-      "server": "151.115.167.190",
+      "tag": "[150ms",
+      "server": "151.115.164.134",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -224,8 +67,8 @@
       "type": "vless"
     },
     {
-      "tag": "[152ms",
-      "server": "151.115.167.190",
+      "tag": "[151ms",
+      "server": "151.115.164.36",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -235,30 +78,13 @@
       "type": "vless"
     },
     {
-      "tag": "[143ms",
-      "server": "91.107.191.12",
-      "server_port": 29376,
-      "uuid": "03bc875d-0d8e-49b6-9094-89a8159e65ee",
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪",
-      "server": "31.76.126.135",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
+      "tag": "[150ms",
+      "server": "151.115.164.134",
+      "server_port": 8880,
+      "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
       },
       "type": "vless"
     },
@@ -284,24 +110,8 @@
       "type": "vless"
     },
     {
-      "tag": "FULL",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[147ms",
-      "server": "151.115.164.110",
+      "tag": "[145ms",
+      "server": "151.115.164.129",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -311,118 +121,13 @@
       "type": "vless"
     },
     {
-      "tag": "🇩🇪  Germany  [02]  MIFA t.me/rjsxrd",
-      "server": "162.249.126.76",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇩🇪  Germany  [06]  MIFA t.me/rjsxrd",
-      "server": "162.249.126.73",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "GB",
-      "server": "31.76.126.135",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🌐282Mb t.me/rjsxrd",
-      "server": "31.76.126.135",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "AetrisVPN",
-      "server": "31.76.126.135",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "AetrisVPN",
-      "server": "germ-node.datamove.online",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "tradingview.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
-          "short_id": "53197c66aef53c44"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+      "tag": "[167ms",
+      "server": "sca15.myfymain.com",
+      "server_port": 8880,
+      "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
       },
       "type": "vless"
     },
@@ -460,7 +165,7 @@
     },
     {
       "tag": "[151ms",
-      "server": "151.115.164.43",
+      "server": "151.115.164.129",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -470,8 +175,8 @@
       "type": "vless"
     },
     {
-      "tag": "[152ms",
-      "server": "151.115.164.43",
+      "tag": "[180ms",
+      "server": "sca15.myfymain.com",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -481,8 +186,83 @@
       "type": "vless"
     },
     {
-      "tag": "[152ms",
-      "server": "151.115.164.43",
+      "tag": "[161ms",
+      "server": "sca21.myfymain.com",
+      "server_port": 8880,
+      "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "t.me/Notorgames_0",
+      "server": "31.76.126.129",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[165ms",
+      "server": "sca15.myfymain.com",
+      "server_port": 8880,
+      "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[146ms",
+      "server": "sca15.myfymain.com",
+      "server_port": 8880,
+      "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "AetrisVPN t.me/rjsxrd",
+      "server": "31.76.126.129",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "tradingview.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+          "short_id": "53197c66aef53c44"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "[148ms",
+      "server": "151.115.164.129",
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "transport": {
@@ -512,6 +292,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🌐704Mb"
+    "final": "🇷🇺  Russia  [18]  MIFA t.me/rjsxrd"
   }
 }
