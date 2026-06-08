@@ -35,18 +35,13 @@
       "type": "vless"
     },
     {
-      "tag": "🇷🇺  Russia  [08]  MIFA t.me/rjsxrd",
-      "server": "82.202.156.143",
+      "tag": "🇧🇦",
+      "server": "cdn7-09.vk-cdnvideo.com",
       "server_port": 8443,
       "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "tls": {
         "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "insecure": false
       },
       "type": "vless"
     },
@@ -59,78 +54,6 @@
         "enabled": true,
         "insecure": false,
         "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "!",
-      "server": "82.202.159.141",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "!",
-      "server": "82.202.136.163",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "!",
-      "server": "46.16.36.131",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "0004 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
-      "server": "82.202.157.230",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "БС [@VSPBOOST]🏳️ t.me/rjsxrd",
-      "server": "82.202.156.143",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
       },
       "type": "vless"
     },
@@ -168,18 +91,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇬 [VL] Сингапур #3489 | РосТуннель t.me/rjsxrd",
-      "server": "139.162.3.14",
-      "server_port": 443,
-      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sahanwickramasinghevip.shop"
-      },
-      "type": "vless"
-    },
-    {
       "tag": "0406 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
       "server": "sca29.myfymain.com",
       "server_port": 8880,
@@ -213,28 +124,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇸🇬 [VL] Сингапур #3487 | РосТуннель t.me/rjsxrd",
-      "server": "sahanwickramasinghevip.shop",
-      "server_port": 443,
-      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
-      "tls": {
-        "enabled": true,
-        "insecure": false
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "0417 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
-      "server": "sahanwickramasinghevip.shop",
-      "server_port": 443,
-      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
-      "tls": {
-        "enabled": true,
-        "insecure": false
-      },
-      "type": "vless"
-    },
-    {
       "tag": "🇳🇱  Netherlands  [09]  MIFA t.me/rjsxrd",
       "server": "cdn7-09.vk-cdnvideo.com",
       "server_port": 8443,
@@ -251,20 +140,26 @@
       "type": "vless"
     },
     {
-      "tag": "🇭🇺 Hungary [*CIDR] t.me/rjsxrd",
-      "server": "82.202.157.230",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd",
+      "server": "nid.pink-perfect.ru",
+      "server_port": 443,
+      "uuid": "5d8fcd24-9634-4dd7-845c-3dc2d6291942",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
+        "server_name": "www.google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0",
+          "short_id": "86b80f1e713a33ad"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
