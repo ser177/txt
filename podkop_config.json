@@ -23,39 +23,43 @@
   ],
   "outbounds": [
     {
-      "tag": "🇧🇦",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "英国_060811789 t.me/rjsxrd",
+      "server": "31.76.38.85",
+      "server_port": 7443,
+      "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
+        "server_name": "stackoverflow.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+          "short_id": "be0ce047"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇧🇦",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "0063 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "0132 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
+      "server": "fr.noooo.win",
+      "server_port": 443,
+      "uuid": "7b241232-208d-4d36-857e-913f91b044f4",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
+        "server_name": "api-6a20f558.noooo.win",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "edge"
+        }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "0096 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
@@ -81,6 +85,28 @@
           "enabled": true,
           "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
           "short_id": "d82fb387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "39",
+      "server": "94.139.251.7",
+      "server_port": 11443,
+      "uuid": "e8d0f687-b369-4071-9c9b-eb6c4359bf26",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.microsoft.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "WLGNuDVWlkss4TANQ6pBedJyLV-VM8CisOLWngsIzx0",
+          "short_id": "3ee506a4"
         },
         "utls": {
           "enabled": true,
@@ -122,22 +148,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇳🇱  Netherlands  [09]  MIFA t.me/rjsxrd",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
     },
     {
       "tag": "🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd",
@@ -182,6 +192,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇧🇦"
+    "final": "英国_060811789 t.me/rjsxrd"
   }
 }
