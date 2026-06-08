@@ -23,16 +23,26 @@
   ],
   "outbounds": [
     {
-      "tag": "🇧🇦",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "tag": "英国_060811789 t.me/rjsxrd",
+      "server": "31.76.38.85",
+      "server_port": 7443,
+      "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
+        "server_name": "stackoverflow.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+          "short_id": "be0ce047"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
       },
-      "type": "vless"
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "0132 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
@@ -50,18 +60,6 @@
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇭🇺 Hungary | 🌐 [*CIDR] t.me/rjsxrd",
-      "server": "82.202.158.107",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com"
-      },
-      "type": "vless"
     },
     {
       "tag": "307.🌐Неизвестно | @LimeVPNFREE t.me/rjsxrd",
@@ -86,6 +84,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇸🇬 [VL] Сингапур #3489 | РосТуннель t.me/rjsxrd",
+      "server": "139.162.3.14",
+      "server_port": 443,
+      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sahanwickramasinghevip.shop"
+      },
+      "type": "vless"
+    },
+    {
       "tag": "🇺🇸",
       "server": "167.104.223.57",
       "server_port": 7443,
@@ -108,35 +118,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱  Netherlands  [09]  MIFA t.me/rjsxrd",
-      "server": "cdn7-09.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "cdn7-09.vk-cdnvideo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇸🇬 [VL] Сингапур #3489 | РосТуннель t.me/rjsxrd",
-      "server": "139.162.3.14",
-      "server_port": 443,
-      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sahanwickramasinghevip.shop"
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "🇸🇬 [VL] Сингапур #3487 | РосТуннель t.me/rjsxrd",
+      "tag": "0417 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
       "server": "sahanwickramasinghevip.shop",
       "server_port": 443,
       "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
@@ -169,17 +151,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "0417 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
-      "server": "sahanwickramasinghevip.shop",
-      "server_port": 443,
-      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
-      "tls": {
-        "enabled": true,
-        "insecure": false
-      },
-      "type": "vless"
-    },
-    {
       "type": "direct",
       "tag": "direct"
     }
@@ -200,6 +171,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇧🇦"
+    "final": "英国_060811789 t.me/rjsxrd"
   }
 }
