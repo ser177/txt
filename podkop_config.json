@@ -23,29 +23,24 @@
   ],
   "outbounds": [
     {
-      "tag": "307.🌐Неизвестно | @LimeVPNFREE t.me/rjsxrd",
-      "server": "167.104.223.57",
-      "server_port": 7443,
-      "uuid": "adea61c0-0bb2-4ad3-8dba-7766eebd50f8",
+      "tag": "0132 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
+      "server": "fr.noooo.win",
+      "server_port": 443,
+      "uuid": "7b241232-208d-4d36-857e-913f91b044f4",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.microsoft.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
-          "short_id": "d82fb387"
-        },
+        "server_name": "api-6a20f558.noooo.win",
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "edge"
         }
       },
       "type": "vless",
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇺🇸",
+      "tag": "307.🌐Неизвестно | @LimeVPNFREE t.me/rjsxrd",
       "server": "167.104.223.57",
       "server_port": 7443,
       "uuid": "adea61c0-0bb2-4ad3-8dba-7766eebd50f8",
@@ -77,6 +72,28 @@
         "server_name": "sahanwickramasinghevip.shop"
       },
       "type": "vless"
+    },
+    {
+      "tag": "🇺🇸",
+      "server": "167.104.223.57",
+      "server_port": 7443,
+      "uuid": "adea61c0-0bb2-4ad3-8dba-7766eebd50f8",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.microsoft.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+          "short_id": "d82fb387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
       "tag": "🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd",
@@ -121,6 +138,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "307.🌐Неизвестно | @LimeVPNFREE t.me/rjsxrd"
+    "final": "0132 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd"
   }
 }
