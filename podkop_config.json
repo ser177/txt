@@ -23,18 +23,62 @@
   ],
   "outbounds": [
     {
-      "tag": "🌐 Anycast-IP | 🇬🇧 🇳🇱 [SNI-RU] rutube.ru t.me/rjsxrd",
-      "server": "45.91.55.233",
+      "tag": "[400ms",
+      "server": "167.104.223.44",
       "server_port": 7443,
-      "uuid": "8bbf020e-653f-4a82-9900-1214e4e37dab",
+      "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "rutube.ru",
+        "server_name": "www.microsoft.com",
         "reality": {
           "enabled": true,
           "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
-          "short_id": "be0ce047"
+          "short_id": "d82fb387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[393ms",
+      "server": "167.104.223.44",
+      "server_port": 7443,
+      "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.microsoft.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+          "short_id": "d82fb387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇧 United Kingdom, London | [BL] t.me/rjsxrd",
+      "server": "uk-gthost-01.com",
+      "server_port": 8443,
+      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "storage.yandex.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
+          "short_id": "ea10cd5686751ec5"
         },
         "utls": {
           "enabled": true,
@@ -57,28 +101,6 @@
           "enabled": true,
           "public_key": "mbvZt-7r8xaJ8gIfPrhukRATKlB8fQNG8AxPLZeZ6Gg",
           "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇬🇧 United Kingdom, London | [BL] t.me/rjsxrd",
-      "server": "uk-gthost-01.com",
-      "server_port": 8443,
-      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "storage.yandex.net",
-        "reality": {
-          "enabled": true,
-          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
-          "short_id": "ea10cd5686751ec5"
         },
         "utls": {
           "enabled": true,
@@ -140,7 +162,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧268Mb",
+      "tag": "🇬🇧287Mb",
       "server": "uk-gthost-01.com",
       "server_port": 8443,
       "uuid": "52faee73-e0fe-4661-992d-67259257170f",
@@ -156,6 +178,26 @@
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "德国_060910717 t.me/rjsxrd",
+      "server": "desrv-res.noooo.win",
+      "server_port": 443,
+      "uuid": "7b241232-208d-4d36-857e-913f91b044f4",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "api-6a20f558.noooo.win",
+        "alpn": [
+          "h2"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -182,6 +224,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🌐 Anycast-IP | 🇬🇧 🇳🇱 [SNI-RU] rutube.ru t.me/rjsxrd"
+    "final": "[400ms"
   }
 }
