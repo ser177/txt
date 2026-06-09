@@ -45,17 +45,17 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪",
-      "server": "pro-fi.emrata.top",
-      "server_port": 753,
-      "uuid": "9ad4f937-6366-474b-9d7e-e2a694deb4e2",
+      "tag": "🇷🇺",
+      "server": "72.56.14.245",
+      "server_port": 443,
+      "uuid": "e438ed18-0208-4620-b7f4-56ba7045f397",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "www.amd.com",
+        "server_name": "gb.sellflow.org",
         "reality": {
           "enabled": true,
-          "public_key": "F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I",
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
           "short_id": ""
         },
         "utls": {
@@ -89,43 +89,22 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇳🇱 [VL] Нидерланды #2316 | РосТуннель t.me/rjsxrd",
-      "server": "sell.sigikala.site",
-      "server_port": 2020,
-      "uuid": "0cbf332d-0188-4ea2-a3f5-623650825bc5",
+      "tag": "89.167.25.28:11005",
+      "server": "89.167.25.28",
+      "server_port": 11005,
+      "uuid": "e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "Yahoo.com",
+        "server_name": "www.cloudflare.com",
         "reality": {
           "enabled": true,
-          "public_key": "hYV9JHyp6YskIc-B-0p5GhvFhmrw8yekdU_O8JhpniY",
-          "short_id": "add15237"
+          "public_key": "tPxRwVtrFklP9kJ8kWgHIcR-XSBBkZiYbwGCAaBrtgE",
+          "short_id": "f98c"
         },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        }
-      },
-      "type": "vless"
-    },
-    {
-      "tag": "[OpenRay] 🇹🇼 TW-599 t.me/rjsxrd",
-      "server": "uk-gthost-01.com",
-      "server_port": 8443,
-      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "storage.yandex.net",
-        "reality": {
-          "enabled": true,
-          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
-          "short_id": "ea10cd5686751ec5"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
         }
       },
       "type": "vless",
