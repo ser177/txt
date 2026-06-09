@@ -67,23 +67,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "0132 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
-      "server": "fr.noooo.win",
-      "server_port": 443,
-      "uuid": "7b241232-208d-4d36-857e-913f91b044f4",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "api-6a20f558.noooo.win",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "edge"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "[OpenRay] 🇮🇩 ID-1 t.me/rjsxrd",
       "server": "bypass.tralalero.site",
       "server_port": 8443,
@@ -238,7 +221,30 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "🇸🇬 [VL] Сингапур #3489 | РосТуннель t.me/rjsxrd",
+      "server": "139.162.3.14",
+      "server_port": 443,
+      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sahanwickramasinghevip.shop"
+      },
+      "type": "vless"
+    },
+    {
       "tag": "0417 | 🌐 Unknown | WL | @RaViraNet t.me/rjsxrd",
+      "server": "sahanwickramasinghevip.shop",
+      "server_port": 443,
+      "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
+      "tls": {
+        "enabled": true,
+        "insecure": false
+      },
+      "type": "vless"
+    },
+    {
+      "tag": "🇸🇬 [VL] Сингапур #3487 | РосТуннель t.me/rjsxrd",
       "server": "sahanwickramasinghevip.shop",
       "server_port": 443,
       "uuid": "55d61055-1a7f-4bc5-aca2-4ee78c738b60",
