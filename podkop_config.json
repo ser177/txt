@@ -23,6 +23,116 @@
   ],
   "outbounds": [
     {
+      "tag": "[400ms",
+      "server": "167.104.223.44",
+      "server_port": 7443,
+      "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.microsoft.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+          "short_id": "d82fb387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd",
+      "server": "185.147.26.105",
+      "server_port": 443,
+      "uuid": "13bbbb75-2ec5-4262-9784-fe8b6e94510b",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "timeweb.cloud",
+        "reality": {
+          "enabled": true,
+          "public_key": "ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw",
+          "short_id": "965af8960474c29c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "[393ms",
+      "server": "167.104.223.44",
+      "server_port": 7443,
+      "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "www.microsoft.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+          "short_id": "d82fb387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇦🇪 United Arab Emirates [SNI-RU] vk.ru t.me/rjsxrd",
+      "server": "31.56.188.85",
+      "server_port": 8443,
+      "uuid": "9e5201b2-5061-413b-b310-36cc6ec590c6",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "vk.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇬🇧 United Kingdom, London | [BL] t.me/rjsxrd",
+      "server": "uk-gthost-01.com",
+      "server_port": 8443,
+      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "storage.yandex.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
+          "short_id": "ea10cd5686751ec5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "🇰🇿",
       "server": "85.202.195.169",
       "server_port": 443,
@@ -45,44 +155,27 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧287Mb",
-      "server": "uk-gthost-01.com",
-      "server_port": 8443,
-      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "storage.yandex.net",
-        "reality": {
-          "enabled": true,
-          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
-          "short_id": "ea10cd5686751ec5"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
+      "tag": "日本_060910009 t.me/rjsxrd",
+      "server": "152.69.195.67",
+      "server_port": 47878,
+      "uuid": "eb8613e3-8393-4cff-a3ad-6501fd4adc63",
+      "type": "vless"
     },
     {
-      "tag": "🇬🇧268Mb",
-      "server": "uk-gthost-01.com",
-      "server_port": 8443,
-      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
+      "tag": "德国_060910717 t.me/rjsxrd",
+      "server": "desrv-res.noooo.win",
+      "server_port": 443,
+      "uuid": "7b241232-208d-4d36-857e-913f91b044f4",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "storage.yandex.net",
-        "reality": {
-          "enabled": true,
-          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
-          "short_id": "ea10cd5686751ec5"
-        },
+        "server_name": "api-6a20f558.noooo.win",
+        "alpn": [
+          "h2"
+        ],
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
@@ -109,6 +202,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇰🇿"
+    "final": "[400ms"
   }
 }
