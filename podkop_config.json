@@ -23,28 +23,6 @@
   ],
   "outbounds": [
     {
-      "tag": "🇸🇬",
-      "server": "84.32.23.128",
-      "server_port": 443,
-      "uuid": "87a61ee1-f6eb-48b4-ac90-c255ce067a07",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sg1.dendibase.org",
-        "reality": {
-          "enabled": true,
-          "public_key": "mbvZt-7r8xaJ8gIfPrhukRATKlB8fQNG8AxPLZeZ6Gg",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇰🇿",
       "server": "85.202.195.169",
       "server_port": 443,
@@ -67,14 +45,29 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "日本_060910009 t.me/rjsxrd",
-      "server": "152.69.195.67",
-      "server_port": 47878,
-      "uuid": "eb8613e3-8393-4cff-a3ad-6501fd4adc63",
-      "type": "vless"
+      "tag": "🇬🇧287Mb",
+      "server": "uk-gthost-01.com",
+      "server_port": 8443,
+      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "storage.yandex.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
+          "short_id": "ea10cd5686751ec5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧287Mb",
+      "tag": "🇬🇧268Mb",
       "server": "uk-gthost-01.com",
       "server_port": 8443,
       "uuid": "52faee73-e0fe-4661-992d-67259257170f",
@@ -116,6 +109,6 @@
         "outbound": "direct"
       }
     ],
-    "final": "🇸🇬"
+    "final": "🇰🇿"
   }
 }
