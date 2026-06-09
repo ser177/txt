@@ -45,72 +45,6 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇬🇧",
-      "server": "195.184.247.138",
-      "server_port": 443,
-      "uuid": "8bbf020e-653f-4a82-9900-1214e4e37dab",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.microsoft.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE",
-          "short_id": "fcd9787f"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇩🇪",
-      "server": "pro-fi.emrata.top",
-      "server_port": 753,
-      "uuid": "9ad4f937-6366-474b-9d7e-e2a694deb4e2",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "72.56.14.245",
-      "server_port": 443,
-      "uuid": "e438ed18-0208-4620-b7f4-56ba7045f397",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "gb.sellflow.org",
-        "reality": {
-          "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
       "tag": "🇳🇱 [VL] Нидерланды #2316 | РосТуннель t.me/rjsxrd",
       "server": "sell.sigikala.site",
       "server_port": 2020,
@@ -132,22 +66,22 @@
       "type": "vless"
     },
     {
-      "tag": "🇸🇪 [VL] Швеция #4182 | РосТуннель t.me/rjsxrd",
-      "server": "cxcczechia1.chickenkiller.com",
-      "server_port": 443,
-      "uuid": "d78c12c4-6927-40b8-8550-ed9be00334da",
+      "tag": "🇷🇺 Timeweb — #8 t.me/rjsxrd",
+      "server": "46.229.215.189",
+      "server_port": 8443,
+      "uuid": "9e5201b2-5061-413b-b310-36cc6ec590c6",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "cxcczechia1.chickenkiller.com",
+        "server_name": "smartcaptcha.yandexcloud.net",
         "reality": {
           "enabled": true,
-          "public_key": "K7no4vVZPV-eW6uFsq2xP3m5bwuau4bSvRU1bnFs80k",
-          "short_id": "fcfb56dcc1d63834"
+          "public_key": "92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc",
+          "short_id": ""
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "firefox"
         }
       },
       "type": "vless",
@@ -170,6 +104,28 @@
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
+      "tag": "🇸🇪 [VL] Швеция #4182 | РосТуннель t.me/rjsxrd",
+      "server": "cxcczechia1.chickenkiller.com",
+      "server_port": 443,
+      "uuid": "d78c12c4-6927-40b8-8550-ed9be00334da",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "cxcczechia1.chickenkiller.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "K7no4vVZPV-eW6uFsq2xP3m5bwuau4bSvRU1bnFs80k",
+          "short_id": "fcfb56dcc1d63834"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       },
       "type": "vless",
