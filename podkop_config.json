@@ -45,40 +45,18 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇩🇪",
-      "server": "pro-fi.emrata.top",
-      "server_port": 753,
-      "uuid": "9ad4f937-6366-474b-9d7e-e2a694deb4e2",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "www.amd.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
-    },
-    {
-      "tag": "🇷🇺",
-      "server": "72.56.14.245",
+      "tag": "🇬🇧",
+      "server": "195.184.247.138",
       "server_port": 443,
-      "uuid": "e438ed18-0208-4620-b7f4-56ba7045f397",
+      "uuid": "8bbf020e-653f-4a82-9900-1214e4e37dab",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "gb.sellflow.org",
+        "server_name": "www.microsoft.com",
         "reality": {
           "enabled": true,
-          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-          "short_id": ""
+          "public_key": "gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE",
+          "short_id": "fcd9787f"
         },
         "utls": {
           "enabled": true,
@@ -111,6 +89,28 @@
       "flow": "xtls-rprx-vision"
     },
     {
+      "tag": "[OpenRay] 🇹🇼 TW-599 t.me/rjsxrd",
+      "server": "uk-gthost-01.com",
+      "server_port": 8443,
+      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "storage.yandex.net",
+        "reality": {
+          "enabled": true,
+          "public_key": "dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8",
+          "short_id": "ea10cd5686751ec5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "flow": "xtls-rprx-vision"
+    },
+    {
       "tag": "🇳🇱 [VL] Нидерланды #2316 | РосТуннель t.me/rjsxrd",
       "server": "sell.sigikala.site",
       "server_port": 2020,
@@ -130,28 +130,6 @@
         }
       },
       "type": "vless"
-    },
-    {
-      "tag": "🇷🇺 Timeweb — #8 t.me/rjsxrd",
-      "server": "46.229.215.189",
-      "server_port": 8443,
-      "uuid": "9e5201b2-5061-413b-b310-36cc6ec590c6",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "smartcaptcha.yandexcloud.net",
-        "reality": {
-          "enabled": true,
-          "public_key": "92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc",
-          "short_id": ""
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "flow": "xtls-rprx-vision"
     },
     {
       "type": "direct",
